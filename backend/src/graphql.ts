@@ -7,8 +7,10 @@ const {
     GraphQLList,
     GraphQLInt,
     GraphQLNonNull,
-    GraphQLFloat
+    GraphQLFloat,
+    GraphQLDate
 } = require('graphql')
+import scrapeURL = require('./webscraper')
 //#endregion Imports
 
 //#region Define initial variables
@@ -20,7 +22,9 @@ const pool = new Pool({
     password: process.env.DBPSSWD,
     port: 5432,
 });
+const BASEURL = "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=";
 const PROFESSORTABLE = "teachers";
+const RATINGSTABLE = "professor_ratings";
 //#endregion
 
 //#region Define interfaces
@@ -28,6 +32,12 @@ interface Professor{
     tid:number,
     name:string,
     department:string
+}
+interface Rating{
+    tid:number,
+    rating:number,
+    difficulty:number,
+    retake:number
 }
 //#endregion
 
@@ -37,19 +47,64 @@ async function makeQuery(query: string) {
         let result = await pool.query(query);
         return result["rows"];
     } catch (err) {
-        console.log("Error completing SQL Query");
+        console.log("Error completing SQL Query", err);
     }
 }
 //#endregion
 
 //#region Define GraphQL Objects
+const RatingType = new GraphQLObjectType({
+    name:'Rating',
+    description: 'This object represents a professor rating',
+    fields: () => ({
+        tid:{type:GraphQLNonNull(GraphQLInt)},
+        retake:{type:GraphQLNonNull(GraphQLInt)},
+        difficulty:{type:GraphQLNonNull(GraphQLFloat)},
+        rating:{type:GraphQLNonNull(GraphQLFloat)},
+        updated:{type:GraphQLString},
+    })
+})
+
 const ProfessorType = new GraphQLObjectType({
     name: 'Professor',
     description: 'This object represents a Professor',
     fields: () => ({
         tid:{type:GraphQLNonNull(GraphQLInt)},
         name:{type:GraphQLNonNull(GraphQLString)},
-        department:{type:GraphQLNonNull(GraphQLString)}
+        department:{type:GraphQLNonNull(GraphQLString)},
+        rating:{
+            type:RatingType,
+            description: "Get ratings of a professor",
+            resolve: async (professor:Professor) => {
+                //Look for ratings in DB
+                let found = false;
+                let row = await makeQuery(`SELECT * FROM ${RATINGSTABLE} WHERE tid = ${professor.tid}`)
+                if(row.length) {
+                    let updatedDate = new Date(row[0]["updated"]);
+                    let today = new Date();
+                    today.setHours(0, 0, 0, 0);
+                    found = true;
+                    //Only use saved data if the data was updated today
+                    if(updatedDate > today){
+                        return row[0];
+                    }
+                }
+
+                //Scrape the data from Rate my professor and save it in DB for future use
+                let data = await scrapeURL(BASEURL + professor.tid);
+                let query = "";
+                //If item exists, then update the date
+                if(found) query = `
+                    UPDATE ${RATINGSTABLE}
+                    SET updated='NOW()', retake=${data.retake}, difficulty=${data.difficulty}, rating=${data.rating}
+                    WHERE TID = ${professor.tid};`
+                else query = `INSERT INTO ${RATINGSTABLE} VALUES (${professor.tid}, ${data.retake}, ${data.difficulty}, NOW(), ${data.rating})`;
+                makeQuery(query)
+                data["tid"] = professor.tid;
+                data["updated"] = Date.now();
+                return data;
+            }
+        }
     })
 })
 
