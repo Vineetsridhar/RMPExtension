@@ -1,0 +1,20 @@
+.modalContainer{
+    padding-top: 16px;
+    position:absolute; 
+    top:0px; 
+    left:5px; 
+    display:flex; 
+    justify-content:center;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+}
+.modalContainer > button {
+    position: absolute;
+    top:16px;
+    left:16px;
+}
+
+.modalContainer > p {
+    font-size: medium;
+}
