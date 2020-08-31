@@ -21,10 +21,10 @@
             "js": [
                 "content.js"
             ],
+            "css":["styles.css"],
             "matches": [
                 "https://uisapppr3.njit.edu/scbldr/"
             ],
-            "all_frames": true,
             "run_at": "document_end"
         }
     ]
