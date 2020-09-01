@@ -22,6 +22,23 @@ const pool = new Pool({
     password: process.env.DBPSSWD,
     port: 5432,
 });
+
+async function startServer(){
+    let retries = 8;
+    while(retries){
+        try{ 
+            await pool.connect()
+            console.log("Connected!")
+            break;
+        } catch(err){
+            console.log("retrying", err);
+            retries--;
+            await new Promise(res => setTimeout(res, 5000))
+        }
+    }
+}
+startServer()
+
 const BASEURL = "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=";
 const PROFESSORTABLE = "teachers";
 const RATINGSTABLE = "professor_ratings";

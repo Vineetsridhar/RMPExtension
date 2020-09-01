@@ -1,7 +1,7 @@
 let active_tab = 0;
 
 function makeGraphQLQuery(name) {
-    return fetch("http://localhost:5000/graphql", {
+    return fetch("http://34.75.224.173/graphql", {
         method: 'POST',
         headers: {
             "Content-Type": "application/json"
