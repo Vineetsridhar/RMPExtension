@@ -2,7 +2,7 @@
 const modal = document.createElement('dialog');
 modal.setAttribute("style", "border-radius:10px");
 modal.innerHTML =
-    `<iframe id="headlineFetcher" style="height:250px" frameBorder="0"></iframe>
+    `<iframe id="headlineFetcher" style="height:300px" frameBorder="0"></iframe>
             <div class="modalContainer">
                 <button>x</button>
                 <h1 class="professorName"></h1>
@@ -10,6 +10,10 @@ modal.innerHTML =
                 <p class="difficulty"></p>
                 <p class="retake"></p>
                 <a class="linkToRMP">View Professor's page</a>
+                <span class="poweredbyspan">
+                    <p class="poweredby">Powered by&nbsp</p>
+                    <a class="poweredby" target="_blank" href="https://www.ratemyprofessors.com/">Rate my Professor</a>
+                <span>
             </div>`;
 document.body.appendChild(modal);
 const dialog = document.querySelector("dialog");

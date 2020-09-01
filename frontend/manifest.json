@@ -1,7 +1,14 @@
 {
     "name": "NJIT Schedule Builder RMP",
     "version": "1.0",
-    "description": "An open source extension which displays professor rating information directly on the NJIT schedule builder website",
+    "description": "An open source extension which quickly displays ratemyprofessor.com information directly on the NJIT schedule builder website (https://uisapppr3.njit.edu/scbldr/). View source code at https://github.com/Vineetsridhar/RMPExtension",
+    "icons": { 
+        "16": "icon16.png",
+        "32": "icon32.png",
+        "64": "icon64.png",
+        "100": "icon100.png",
+        "200":"icon200.png"
+    },
     "manifest_version": 2,
     "permissions": [
         "activeTab",
@@ -9,7 +16,7 @@
         "https://uisapppr3.njit.edu/scbldr/+"
     ],
     "browser_action": {
-        "default_icon": "icon.png"
+        "default_icon": "icon200.png"
     },
     "background": {
         "scripts": [
