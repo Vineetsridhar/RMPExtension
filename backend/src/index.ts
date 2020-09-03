@@ -8,13 +8,8 @@ app.options('*', cors())
 
 const corsOptions = {
     origin: function (origin, callback) {
-        if (!origin) {
-            callback(null, true);
-        }
-        else {
-            callback(null, true)
-        }
-    }
+        callback(null, true)
+    } 
 }
 app.use('/graphql', cors(corsOptions), graphqlHTTP({
     schema,
