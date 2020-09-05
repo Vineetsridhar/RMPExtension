@@ -13,7 +13,7 @@ const corsOptions = {
 }
 app.use('/graphql', cors(corsOptions), graphqlHTTP({
     schema,
-    graphiql: true
+    graphiql: false
 }))
 
 app.listen(port, () => {
