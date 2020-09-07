@@ -16,6 +16,7 @@ function makeGraphQLQuery(name) {
                   rating,
                   retake,
                   difficulty,
+                  numratings
                 } 
               }
             }`
@@ -37,9 +38,10 @@ chrome.runtime.onMessage.addListener(async (request, sender, sendResponse) => {
                 let rate = rating["rating"];
                 let diff = rating["difficulty"];
                 let retake = rating["retake"];
+                let numratings = rating["numratings"];
                 let tid = json["tid"];
                 chrome.tabs.query({active: true, currentWindow: true}, function(tabs){
-                    chrome.tabs.sendMessage(tabs[0].id, { name, rate, diff, retake, tid }, function(response) {});  
+                    chrome.tabs.sendMessage(tabs[0].id, { name, rate, diff, retake, tid, numratings }, function(response) {});  
                 });
             }).catch(err => {
                 alert("Could not find this professor")

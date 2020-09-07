@@ -2,13 +2,14 @@
 const modal = document.createElement('dialog');
 modal.setAttribute("style", "border-radius:10px");
 modal.innerHTML =
-    `<iframe id="headlineFetcher" style="height:300px" frameBorder="0"></iframe>
+    `<iframe id="headlineFetcher" style="height:350px" frameBorder="0"></iframe>
             <div class="modalContainer">
                 <button>x</button>
                 <h1 class="professorName"></h1>
                 <h2 class="ratingMain"></h2>
                 <p class="difficulty"></p>
                 <p class="retake"></p>
+                <p class="numratings"></p>
                 <a class="linkToRMP">View Professor's page</a>
                 <span class="poweredbyspan">
                     <p class="poweredby">Powered by&nbsp</p>
@@ -43,6 +44,7 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     dialog.getElementsByClassName("ratingMain")[0].innerText = request.rate + "/5.0";
     dialog.getElementsByClassName("difficulty")[0].innerText = "Difficulty: " + request.diff + "/5.0";
     dialog.getElementsByClassName("retake")[0].innerText = request.retake + "% would take again";
+    dialog.getElementsByClassName("numratings")[0].innerText = request.numratings + " ratings available";
     dialog.getElementsByClassName("linkToRMP")[0].innerHTML = `<a target="_blank" href=https://www.ratemyprofessors.com/ShowRatings.jsp?tid=${request.tid}>View Professor's page</a>`
     dialog.querySelector("button").addEventListener("click", () => {
         dialog.close();

@@ -6,7 +6,7 @@
 
 * [x] Users can see rating, difficulty, and percentage of students who would retake the class
 * [x] Users can go directly to the professors page
-* [ ] Users can see the number of ratings a professor has
+* [x] Users can see the number of ratings a professor has
 * [ ] Users can see individual ratings from the extension itself
 
 ## License
