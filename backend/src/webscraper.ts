@@ -3,6 +3,7 @@ import fetch = require('node-fetch');
 const MAINRATINGID = "RatingValue__Numerator-qw8sqy-2 gxuTRq";
 const SUBRATINGIDS = "FeedbackItem__FeedbackNumber-uof32n-1 bGrrmf";
 const RATINGID = "Rating__RatingBody-sc-1rhvpxz-0 dGrvXb";
+const NUMRATINGID = "RatingValue__NumRatings-qw8sqy-0 jvzMox";
 
 async function scrapeURL(url:string): Promise<{rating:number, difficulty:number, retake:number, numratings:number}> {
     try{
@@ -14,9 +15,16 @@ async function scrapeURL(url:string): Promise<{rating:number, difficulty:number,
 
         rating = parseFloat(divs.find((div:any) => div.attrs.class === MAINRATINGID).text);
         let extras = divs.filter((div:any) => div.attrs.class === SUBRATINGIDS);
-        let ratings = divs.filter((div:any) => div.attrs.class === RATINGID);
+        // let ratings = divs.filter((div:any) => div.attrs.class === RATINGID);
+        // numratings = ratings.length;
+        let numRatingElement = divs.find((div:any) => div.attrs.class === NUMRATINGID);
 
-        numratings = ratings.length;
+        for(let word of numRatingElement.text.split("\xa0")){
+            if(!isNaN(parseInt(word))){
+                numratings = parseInt(word);
+                break;
+            }
+        }
 
         for(let i in extras){
             let text:string = extras[i].text;
