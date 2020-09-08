@@ -5,35 +5,48 @@ const SUBRATINGIDS = "FeedbackItem__FeedbackNumber-uof32n-1 bGrrmf";
 const RATINGID = "Rating__RatingBody-sc-1rhvpxz-0 dGrvXb";
 const NUMRATINGID = "RatingValue__NumRatings-qw8sqy-0 jvzMox";
 
+function getDifficultyAndRetake(divs: any[]):{difficulty:number, retake:number} {
+    let difficulty = 0, retake = 0;
+    let extras = divs.filter((div:any) => div.attrs.class === SUBRATINGIDS);
+    for(let i in extras){
+        let text:string = extras[i].text;
+        if(text.includes("%")){
+            retake = parseInt(text.substring(0, text.length - 1));
+        } else{
+            difficulty = parseFloat(text);
+        }
+    }
+    return {difficulty, retake};
+}
+
+function getRating(divs: any[]):number {
+    return parseFloat(divs.find((div:any) => div.attrs.class === MAINRATINGID).text);
+}
+
+function getNumRatings(divs: any[]):number {
+    let numratings = 0;
+    let numRatingElement = divs.find((div:any) => div.attrs.class === NUMRATINGID);
+
+    for(let word of numRatingElement.text.split("\xa0")){
+        if(!isNaN(parseInt(word))){
+            numratings = parseInt(word);
+            break;
+        }
+    }
+    return numratings;
+}
+
 async function scrapeURL(url:string): Promise<{rating:number, difficulty:number, retake:number, numratings:number}> {
     try{
-        let difficulty = 0, retake = 0, rating = 0, numratings = 0;
+        let rating = 0, numratings = 0;
 
         let html = await fetch(url).then((data:any) => data.text());
-        let soup = new JSSoup(html);
-        let divs = soup.findAll("div");
+        let divs = new JSSoup(html).findAll("div");
 
-        rating = parseFloat(divs.find((div:any) => div.attrs.class === MAINRATINGID).text);
-        let extras = divs.filter((div:any) => div.attrs.class === SUBRATINGIDS);
-        // let ratings = divs.filter((div:any) => div.attrs.class === RATINGID);
-        // numratings = ratings.length;
-        let numRatingElement = divs.find((div:any) => div.attrs.class === NUMRATINGID);
-
-        for(let word of numRatingElement.text.split("\xa0")){
-            if(!isNaN(parseInt(word))){
-                numratings = parseInt(word);
-                break;
-            }
-        }
-
-        for(let i in extras){
-            let text:string = extras[i].text;
-            if(text.includes("%")){
-                retake = parseInt(text.substring(0, text.length - 1));
-            } else{
-                difficulty = parseFloat(text);
-            }
-        }
+        let {difficulty, retake} = getDifficultyAndRetake(divs);
+        rating = getRating(divs);
+        numratings = getNumRatings(divs);
+        
         return {rating, difficulty, retake, numratings}
     } catch(err){
         console.log("Error scraping RMP", err)
