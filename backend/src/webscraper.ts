@@ -1,56 +1,79 @@
-const JSSoup = require('jssoup').default;
-import fetch = require('node-fetch');
-const MAINRATINGID = "RatingValue__Numerator-qw8sqy-2 gxuTRq";
-const SUBRATINGIDS = "FeedbackItem__FeedbackNumber-uof32n-1 bGrrmf";
-const RATINGID = "Rating__RatingBody-sc-1rhvpxz-0 dGrvXb";
-const NUMRATINGID = "RatingValue__NumRatings-qw8sqy-0 jvzMox";
+const JSSoup = require("jssoup").default;
+import fetch = require("node-fetch");
 
-function getDifficultyAndRetake(divs: any[]):{difficulty:number, retake:number} {
-    let difficulty = 0, retake = 0;
-    let extras = divs.filter((div:any) => div.attrs.class === SUBRATINGIDS);
-    for(let i in extras){
-        let text:string = extras[i].text;
-        if(text.includes("%")){
-            retake = parseInt(text.substring(0, text.length - 1));
-        } else{
-            difficulty = parseFloat(text);
-        }
+const MAINRATINGID = "RatingValue__Numerator-qw8sqy-2 CpyoM";
+const SUBRATINGIDS = "FeedbackItem__FeedbackNumber-uof32n-1 itzjbD";
+const NUMRATINGID = "RatingValue__NumRatings-qw8sqy-0 hYOGxa";
+
+function getDifficultyAndRetake(
+  divs: any[]
+): { difficulty: number; retake: number } {
+  let difficulty = 0,
+    retake = 0;
+  let extras = divs.filter((div: any) => div.attrs.class === SUBRATINGIDS);
+  for (let i in extras) {
+    let text: string = extras[i].text;
+    if (text.includes("%")) {
+      retake = parseInt(text.substring(0, text.length - 1));
+    } else {
+      difficulty = parseFloat(text);
     }
-    return {difficulty, retake};
+  }
+  return { difficulty, retake };
 }
 
-function getRating(divs: any[]):number {
-    return parseFloat(divs.find((div:any) => div.attrs.class === MAINRATINGID).text);
+function getRating(divs: any[]): number {
+  return parseFloat(
+    divs.find((div: any) => div.attrs.class === MAINRATINGID).text
+  );
 }
 
-function getNumRatings(divs: any[]):number {
-    let numratings = 0;
-    let numRatingElement = divs.find((div:any) => div.attrs.class === NUMRATINGID);
+function getNumRatings(divs: any[]): number {
+  let numratings = 0;
+  let numRatingElement = divs.find(
+    (div: any) => div.attrs.class === NUMRATINGID
+  );
 
-    for(let word of numRatingElement.text.split("\xa0")){
-        if(!isNaN(parseInt(word))){
-            numratings = parseInt(word);
-            break;
-        }
+  for (let word of numRatingElement.text.split("\xa0")) {
+    if (!isNaN(parseInt(word))) {
+      numratings = parseInt(word);
+      break;
     }
-    return numratings;
+  }
+  return numratings;
 }
 
-async function scrapeURL(url:string): Promise<{rating:number, difficulty:number, retake:number, numratings:number}> {
-    try{
-        let rating = 0, numratings = 0;
+async function scrapeURL(
+  url: string
+): Promise<{
+  rating: number;
+  difficulty: number;
+  retake: number;
+  numratings: number;
+}> {
+  try {
+    let rating = 0,
+      numratings = 0;
 
-        let html = await fetch(url).then((data:any) => data.text());
-        let divs = new JSSoup(html).findAll("div");
+    let html = await fetch(url).then((data: any) => data.text());
+    let divs = new JSSoup(html).findAll("div");
 
-        let {difficulty, retake} = getDifficultyAndRetake(divs);
-        rating = getRating(divs);
-        numratings = getNumRatings(divs);
-        
-        return {rating, difficulty, retake, numratings}
-    } catch(err){
-        console.log("Error scraping RMP", err)
-    }
-    return {rating:0, difficulty:0, retake:0, numratings:0}
+    let { difficulty, retake } = getDifficultyAndRetake(divs);
+    rating = getRating(divs);
+    numratings = getNumRatings(divs);
+
+    return { rating, difficulty, retake, numratings };
+  } catch (err) {
+    console.log("Error scraping RMP", err);
+  }
+  return { rating: 0, difficulty: 0, retake: 0, numratings: 0 };
 }
-module.exports = scrapeURL
+
+function call() {
+  const URL = "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=205300";
+  scrapeURL(URL).then((data) => {
+    console.log(data);
+  });
+}
+call();
+module.exports = scrapeURL;

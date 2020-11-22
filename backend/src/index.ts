@@ -1,21 +1,25 @@
-import express = require('express');
+import express = require("express");
 const { graphqlHTTP } = require("express-graphql");
-import schema = require('./graphql');
-const cors = require('cors')
+import schema = require("./graphql");
+const cors = require("cors");
 const app = express();
 const port = 5000;
-app.options('*', cors())
+app.options("*", cors());
 
 const corsOptions = {
-    origin: function (origin, callback) {
-        callback(null, true)
-    } 
-}
-app.use('/graphql', cors(corsOptions), graphqlHTTP({
+  origin: function (origin, callback) {
+    callback(null, true);
+  },
+};
+app.use(
+  "/graphql",
+  cors(corsOptions),
+  graphqlHTTP({
     schema,
-    graphiql: true
-}))
+    graphiql: true,
+  })
+);
 
 app.listen(port, () => {
-    console.log(`Server has been started on port ${port}`)
+  console.log(`Server has been started on port ${port}`);
 });
