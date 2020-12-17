@@ -1,7 +1,7 @@
 let active_tab = 0;
 
 function makeGraphQLQuery(name) {
-  return fetch("https://typhoon-pricey-supernova.glitch.me/graphql", {
+  return fetch("https://rmp-extension.herokuapp.com/graphql", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
