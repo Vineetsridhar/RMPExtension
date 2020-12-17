@@ -7,7 +7,7 @@ const port = 5000;
 app.options("*", cors());
 
 const corsOptions = {
-  origin: function (origin, callback) {
+  origin: function (origin: any, callback: (arg0: null, arg1: boolean) => void) {
     callback(null, true);
   },
 };

@@ -1,9 +1,9 @@
 const JSSoup = require("jssoup").default;
 import fetch = require("node-fetch");
 
-const MAINRATINGID = "RatingValue__Numerator-qw8sqy-2 CpyoM";
-const SUBRATINGIDS = "FeedbackItem__FeedbackNumber-uof32n-1 itzjbD";
-const NUMRATINGID = "RatingValue__NumRatings-qw8sqy-0 hYOGxa";
+const MAINRATINGID = "RatingValue__Numerator-qw8sqy-2 liyUjw";
+const SUBRATINGIDS = "FeedbackItem__FeedbackNumber-uof32n-1 kkESWs";
+const NUMRATINGID = "RatingValue__NumRatings-qw8sqy-0 jMkisx";
 
 function getDifficultyAndRetake(
   divs: any[]
@@ -23,9 +23,8 @@ function getDifficultyAndRetake(
 }
 
 function getRating(divs: any[]): number {
-  return parseFloat(
-    divs.find((div: any) => div.attrs.class === MAINRATINGID).text
-  );
+  const item = divs.find(div => div.attrs.class === MAINRATINGID);
+  return parseFloat(item.text);
 }
 
 function getNumRatings(divs: any[]): number {
@@ -69,11 +68,4 @@ async function scrapeURL(
   return { rating: 0, difficulty: 0, retake: 0, numratings: 0 };
 }
 
-function call() {
-  const URL = "https://www.ratemyprofessors.com/ShowRatings.jsp?tid=205300";
-  scrapeURL(URL).then((data) => {
-    console.log(data);
-  });
-}
-call();
 module.exports = scrapeURL;

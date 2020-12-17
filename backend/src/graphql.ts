@@ -21,6 +21,7 @@ const pool = new Pool({
   database: process.env.DB,
   password: process.env.DBPSSWD,
   port: 5432,
+  ssl: { rejectUnauthorized: false }
 });
 
 async function startServer() {
