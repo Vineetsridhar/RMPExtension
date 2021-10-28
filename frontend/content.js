@@ -1,3 +1,9 @@
+//Code used to wake up heroku server on connection
+function sendPingRequest(){
+    fetch("https://rmp-extension.herokuapp.com/graphql").then(console.log).catch(console.error)
+}
+sendPingRequest()
+
 //Create modal
 const modal = document.createElement('dialog');
 modal.setAttribute("style", "border-radius:10px");

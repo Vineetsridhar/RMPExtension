@@ -3,3 +3,8 @@ backend/.env
 backend/dist/
 backend/docker-compose.yml
 backend/teachersdump.sql
+scrape.py
+parse.py
+teachers.json
+teachers.sql
+frontend.zip
