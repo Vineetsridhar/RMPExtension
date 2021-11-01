@@ -2,6 +2,9 @@
 
 **Rate my professor NJIT Schedule builder extension** is a chrome extesion that allows users to view professor ratings directly from the schedue builder itself
 
+## Demo
+<img src="record.gif" />
+
 ## Features
 
 * [x] Users can see rating, difficulty, and percentage of students who would retake the class
