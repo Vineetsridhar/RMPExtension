@@ -5,9 +5,10 @@ const MAINRATINGID = "RatingValue__Numerator-qw8sqy-2 liyUjw";
 const SUBRATINGIDS = "FeedbackItem__FeedbackNumber-uof32n-1 kkESWs";
 const NUMRATINGID = "RatingValue__NumRatings-qw8sqy-0 jMkisx";
 
-function getDifficultyAndRetake(
-  divs: any[]
-): { difficulty: number; retake: number } {
+function getDifficultyAndRetake(divs: any[]): {
+  difficulty: number;
+  retake: number;
+} {
   let difficulty = 0,
     retake = 0;
   let extras = divs.filter((div: any) => div.attrs.class === SUBRATINGIDS);
@@ -23,7 +24,7 @@ function getDifficultyAndRetake(
 }
 
 function getRating(divs: any[]): number {
-  const item = divs.find(div => div.attrs.class === MAINRATINGID);
+  const item = divs.find((div) => div.attrs.class === MAINRATINGID);
   return parseFloat(item.text);
 }
 
@@ -42,9 +43,7 @@ function getNumRatings(divs: any[]): number {
   return numratings;
 }
 
-async function scrapeURL(
-  url: string
-): Promise<{
+async function scrapeURL(url: string): Promise<{
   rating: number;
   difficulty: number;
   retake: number;

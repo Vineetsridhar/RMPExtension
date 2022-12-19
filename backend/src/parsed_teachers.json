@@ -1,0 +1,7192 @@
+{
+  "Whitebook, David": {
+    "name": "Whitebook, David",
+    "department": "Mathematics",
+    "tid": 17510
+  },
+  "Opyrchal, Halina": {
+    "name": "Opyrchal, Halina",
+    "department": "Physics",
+    "tid": 17512
+  },
+  "Getzin, Donald": {
+    "name": "Getzin, Donald",
+    "department": "Chemistry",
+    "tid": 17515
+  },
+  "Frank, Joseph": {
+    "name": "Frank, Joseph",
+    "department": "Electrical Engineering",
+    "tid": 17520
+  },
+  "Mohebbi, Soroosh": {
+    "name": "Mohebbi, Soroosh",
+    "department": "Mathematics",
+    "tid": 17522
+  },
+  "Lynch, Robert": {
+    "name": "Lynch, Robert",
+    "department": "English",
+    "tid": 17523
+  },
+  "Wall, Don": {
+    "name": "Wall, Don",
+    "department": "Architecture",
+    "tid": 18173
+  },
+  "Blackmore, Denis": {
+    "name": "Blackmore, Denis",
+    "department": "Mathematics",
+    "tid": 26085
+  },
+  "Bechtold, John": {
+    "name": "Bechtold, John",
+    "department": "Mathematics",
+    "tid": 26702
+  },
+  "Abdeljaber, Soha": {
+    "name": "Abdeljaber, Soha",
+    "department": "Mathematics",
+    "tid": 27235
+  },
+  "Dieng, Lamine": {
+    "name": "Dieng, Lamine",
+    "department": "Science",
+    "tid": 27245
+  },
+  "Perl, Yehoshua": {
+    "name": "Perl, Yehoshua",
+    "department": "Computer Science",
+    "tid": 33563
+  },
+  "Burris, Douglas": {
+    "name": "Burris, Douglas",
+    "department": "Mathematics",
+    "tid": 49055
+  },
+  "Brown, James": {
+    "name": "Brown, James",
+    "department": "Computer Science",
+    "tid": 49066
+  },
+  "Bengu, Golgun": {
+    "name": "Bengu, Golgun",
+    "department": "Engineering",
+    "tid": 49088
+  },
+  "Baltrush, Michael": {
+    "name": "Baltrush, Michael",
+    "department": "Computer Science",
+    "tid": 56369
+  },
+  "Hunter, John": {
+    "name": "Hunter, John",
+    "department": "Mathematics",
+    "tid": 56370
+  },
+  "Dios, Rose": {
+    "name": "Dios, Rose",
+    "department": "Mathematics",
+    "tid": 56371
+  },
+  "Levy, Dorothy": {
+    "name": "Levy, Dorothy",
+    "department": "Mathematics",
+    "tid": 56372
+  },
+  "Opyrchal, Jan": {
+    "name": "Opyrchal, Jan",
+    "department": "Physics",
+    "tid": 56373
+  },
+  "Schweizer, Karl": {
+    "name": "Schweizer, Karl",
+    "department": "History",
+    "tid": 57349
+  },
+  "Kerley, Michael": {
+    "name": "Kerley, Michael",
+    "department": "English",
+    "tid": 58049
+  },
+  "Voronka, Roman": {
+    "name": "Voronka, Roman",
+    "department": "Mathematics",
+    "tid": 58946
+  },
+  "Dauerman, Leonard": {
+    "name": "Dauerman, Leonard",
+    "department": "Science",
+    "tid": 63758
+  },
+  "Skawinski, William": {
+    "name": "Skawinski, William",
+    "department": "Chemical Engineering",
+    "tid": 63759
+  },
+  "Jackson, Nancy": {
+    "name": "Jackson, Nancy",
+    "department": "STS",
+    "tid": 63760
+  },
+  "Bozzelli, Joseph": {
+    "name": "Bozzelli, Joseph",
+    "department": "Chemical Engineering",
+    "tid": 63761
+  },
+  "Fayngold, Moses": {
+    "name": "Fayngold, Moses",
+    "department": "Physics",
+    "tid": 64022
+  },
+  "O'Sullivan, William": {
+    "name": "O'Sullivan, William",
+    "department": "History",
+    "tid": 65008
+  },
+  "Booty, Michael": {
+    "name": "Booty, Michael",
+    "department": "Mathematics",
+    "tid": 67620
+  },
+  "Miura, Robert": {
+    "name": "Miura, Robert",
+    "department": "Mathematics",
+    "tid": 68088
+  },
+  "Florio, Pasqual": {
+    "name": "Florio, Pasqual",
+    "department": "Engineering",
+    "tid": 68218
+  },
+  "Mehta, Rajiv": {
+    "name": "Mehta, Rajiv",
+    "department": "Marketing",
+    "tid": 68445
+  },
+  "Celik, Zeynep": {
+    "name": "Celik, Zeynep",
+    "department": "Architecture",
+    "tid": 70417
+  },
+  "Redling, Judith": {
+    "name": "Redling, Judith",
+    "department": "Biomedical",
+    "tid": 74018
+  },
+  "Carr, William": {
+    "name": "Carr, William",
+    "department": "Electrical Engineering",
+    "tid": 74179
+  },
+  "Garber, Richard": {
+    "name": "Garber, Richard",
+    "department": "Architecture",
+    "tid": 76421
+  },
+  "Defreitas, Kim": {
+    "name": "Defreitas, Kim",
+    "department": "Architecture",
+    "tid": 76650
+  },
+  "Donahue, Dennis": {
+    "name": "Donahue, Dennis",
+    "department": "English",
+    "tid": 77168
+  },
+  "Gosser, Matt": {
+    "name": "Gosser, Matt",
+    "department": "Architecture",
+    "tid": 78511
+  },
+  "Tobias, Norman": {
+    "name": "Tobias, Norman",
+    "department": "History",
+    "tid": 79734
+  },
+  "Featheringham, Tom": {
+    "name": "Featheringham, Tom",
+    "department": "Computer Science",
+    "tid": 80072
+  },
+  "Verkhovsky, Boris": {
+    "name": "Verkhovsky, Boris",
+    "department": "Computer Science",
+    "tid": 80089
+  },
+  "Sarian, Edward": {
+    "name": "Sarian, Edward",
+    "department": "Computer Science",
+    "tid": 80102
+  },
+  "Ryon, John": {
+    "name": "Ryon, John",
+    "department": "Computer Science",
+    "tid": 80112
+  },
+  "Scher, Julian": {
+    "name": "Scher, Julian",
+    "department": "Information Systems",
+    "tid": 80114
+  },
+  "Kriegsmann, Gregory": {
+    "name": "Kriegsmann, Gregory",
+    "department": "Mathematics",
+    "tid": 80157
+  },
+  "Bieber, Michael": {
+    "name": "Bieber, Michael",
+    "department": "Information Systems",
+    "tid": 80810
+  },
+  "Towfik, Nissim": {
+    "name": "Towfik, Nissim",
+    "department": "Physics",
+    "tid": 80989
+  },
+  "Lacker, Michael": {
+    "name": "Lacker, Michael",
+    "department": "Biomedical",
+    "tid": 81080
+  },
+  "Geller, James": {
+    "name": "Geller, James",
+    "department": "Computer Science",
+    "tid": 81993
+  },
+  "Blank, George": {
+    "name": "Blank, George",
+    "department": "Computer Science",
+    "tid": 81994
+  },
+  "Wood, Timothy": {
+    "name": "Wood, Timothy",
+    "department": "Architecture",
+    "tid": 82010
+  },
+  "Rassekh, Bijan": {
+    "name": "Rassekh, Bijan",
+    "department": "Physics",
+    "tid": 84302
+  },
+  "Riker, Lynn": {
+    "name": "Riker, Lynn",
+    "department": "Freshman Seminar",
+    "tid": 84796
+  },
+  "Kimmelman, Burt": {
+    "name": "Kimmelman, Burt",
+    "department": "English",
+    "tid": 84801
+  },
+  "Lieb, Murray": {
+    "name": "Lieb, Murray",
+    "department": "Mathematics",
+    "tid": 84804
+  },
+  "Mostoller, Michael": {
+    "name": "Mostoller, Michael",
+    "department": "Architecture",
+    "tid": 84820
+  },
+  "Peckham, Matthew": {
+    "name": "Peckham, Matthew",
+    "department": "Architecture",
+    "tid": 84825
+  },
+  "Cohen, Maurie": {
+    "name": "Cohen, Maurie",
+    "department": "Humanities",
+    "tid": 88311
+  },
+  "Bogui, Fred": {
+    "name": "Bogui, Fred",
+    "department": "Accounting",
+    "tid": 89605
+  },
+  "Mitra, Somenath": {
+    "name": "Mitra, Somenath",
+    "department": "Engineering",
+    "tid": 95568
+  },
+  "Chen, Rong Yaw": {
+    "name": "Chen, Rong Yaw",
+    "department": "Mechanical Engineering",
+    "tid": 95657
+  },
+  "Russo, Onofrio": {
+    "name": "Russo, Onofrio",
+    "department": "Physics",
+    "tid": 106721
+  },
+  "Bishof, Edward": {
+    "name": "Bishof, Edward",
+    "department": "Mathematics",
+    "tid": 113362
+  },
+  "Chumer, Michael": {
+    "name": "Chumer, Michael",
+    "department": "Information Systems",
+    "tid": 113790
+  },
+  "Washah, Sal": {
+    "name": "Washah, Sal",
+    "department": "Computer Science",
+    "tid": 115859
+  },
+  "Tress, Michael": {
+    "name": "Tress, Michael",
+    "department": "Humanities",
+    "tid": 117323
+  },
+  "Sielski, Brian": {
+    "name": "Sielski, Brian",
+    "department": "Engineering",
+    "tid": 120416
+  },
+  "Foulds, Richard": {
+    "name": "Foulds, Richard",
+    "department": "Biomedical",
+    "tid": 122223
+  },
+  "Horntrop, David": {
+    "name": "Horntrop, David",
+    "department": "Mathematics",
+    "tid": 122227
+  },
+  "Bergen, Michael": {
+    "name": "Bergen, Michael",
+    "department": "Engineering",
+    "tid": 122233
+  },
+  "Thompson, Joseph": {
+    "name": "Thompson, Joseph",
+    "department": "Computer Science",
+    "tid": 124469
+  },
+  "Dreyzin, Edward": {
+    "name": "Dreyzin, Edward",
+    "department": "Engineering",
+    "tid": 129232
+  },
+  "Whitman, Gerald": {
+    "name": "Whitman, Gerald",
+    "department": "Electrical Engineering",
+    "tid": 130028
+  },
+  "McDermott, Kevin": {
+    "name": "McDermott, Kevin",
+    "department": "Engineering",
+    "tid": 130699
+  },
+  "Santos, Antonio": {
+    "name": "Santos, Antonio",
+    "department": "Architecture",
+    "tid": 132074
+  },
+  "Moore, Sandy": {
+    "name": "Moore, Sandy",
+    "department": "Architecture",
+    "tid": 149714
+  },
+  "Lebduska, Jack": {
+    "name": "Lebduska, Jack",
+    "department": "Architecture",
+    "tid": 158830
+  },
+  "Dresnack, Robert": {
+    "name": "Dresnack, Robert",
+    "department": "Civil Engineering",
+    "tid": 159632
+  },
+  "Deutschman, Harold": {
+    "name": "Deutschman, Harold",
+    "department": "Civil Engineering",
+    "tid": 159635
+  },
+  "Golub, Eugene": {
+    "name": "Golub, Eugene",
+    "department": "Civil Engineering",
+    "tid": 159640
+  },
+  "Perna, Angelo": {
+    "name": "Perna, Angelo",
+    "department": "Engineering",
+    "tid": 159647
+  },
+  "Olenik, Thomas": {
+    "name": "Olenik, Thomas",
+    "department": "Civil Engineering",
+    "tid": 1989375
+  },
+  "Deek, Fadi": {
+    "name": "Deek, Fadi",
+    "department": "Information Systems",
+    "tid": 159655
+  },
+  "Hsu, Thomas": {
+    "name": "Hsu, Thomas",
+    "department": "Civil Engineering",
+    "tid": 159661
+  },
+  "Turoff, Murray": {
+    "name": "Turoff, Murray",
+    "department": "Information Systems",
+    "tid": 159664
+  },
+  "Dauenheimer, Ed": {
+    "name": "Dauenheimer, Ed",
+    "department": "Engineering",
+    "tid": 159666
+  },
+  "Hunter, William": {
+    "name": "Hunter, William",
+    "department": "Biomedical",
+    "tid": 159694
+  },
+  "Tomkins, Reginald": {
+    "name": "Tomkins, Reginald",
+    "department": "Engineering",
+    "tid": 164580
+  },
+  "Cornely, Roy": {
+    "name": "Cornely, Roy",
+    "department": "Engineering",
+    "tid": 164698
+  },
+  "Friedland, Bernard": {
+    "name": "Friedland, Bernard",
+    "department": "Electrical Engineering",
+    "tid": 172312
+  },
+  "Bukiet, Bruce": {
+    "name": "Bukiet, Bruce",
+    "department": "Mathematics",
+    "tid": 173584
+  },
+  "Siegel, Michael": {
+    "name": "Siegel, Michael",
+    "department": "Mathematics",
+    "tid": 179507
+  },
+  "Hetherington, Eric": {
+    "name": "Hetherington, Eric",
+    "department": "Humanities",
+    "tid": 180369
+  },
+  "Krasnoperov, Lev": {
+    "name": "Krasnoperov, Lev",
+    "department": "Chemistry",
+    "tid": 180396
+  },
+  "Rotter, Naomi": {
+    "name": "Rotter, Naomi",
+    "department": "Management",
+    "tid": 183072
+  },
+  "Caudill, Reggie": {
+    "name": "Caudill, Reggie",
+    "department": "Engineering",
+    "tid": 185816
+  },
+  "Chakrabarti, Aloknath": {
+    "name": "Chakrabarti, Aloknath",
+    "department": "Mathematics",
+    "tid": 189074
+  },
+  "Glaser, Arthur": {
+    "name": "Glaser, Arthur",
+    "department": "Electrical Engineering",
+    "tid": 193817
+  },
+  "Abdi, Ali": {
+    "name": "Abdi, Ali",
+    "department": "Electrical Engineering",
+    "tid": 194564
+  },
+  "Addabbo, Raymond": {
+    "name": "Addabbo, Raymond",
+    "department": "Mathematics",
+    "tid": 198471
+  },
+  "Bose, Amitabha": {
+    "name": "Bose, Amitabha",
+    "department": "Mathematics",
+    "tid": 200696
+  },
+  "Kudyba, Stephen": {
+    "name": "Kudyba, Stephen",
+    "department": "Business",
+    "tid": 200832
+  },
+  "Sylla, Cheickna": {
+    "name": "Sylla, Cheickna",
+    "department": "Management",
+    "tid": 205053
+  },
+  "Kaifa, Stephen": {
+    "name": "Kaifa, Stephen",
+    "department": "Economics",
+    "tid": 205055
+  },
+  "Katz, Eric": {
+    "name": "Katz, Eric",
+    "department": "Humanities",
+    "tid": 209128
+  },
+  "Schneider, Marguerite": {
+    "name": "Schneider, Marguerite",
+    "department": "Management",
+    "tid": 210026
+  },
+  "Paris, Jerome": {
+    "name": "Paris, Jerome",
+    "department": "Humanities",
+    "tid": 211832
+  },
+  "Coppola, Nancy": {
+    "name": "Coppola, Nancy",
+    "department": "Humanities",
+    "tid": 211836
+  },
+  "Wang, Jason": {
+    "name": "Wang, Jason",
+    "department": "Computer Science",
+    "tid": 212215
+  },
+  "Arinzeh, Treena": {
+    "name": "Arinzeh, Treena",
+    "department": "Biomedical",
+    "tid": 212358
+  },
+  "Leung, Joseph": {
+    "name": "Leung, Joseph",
+    "department": "Computer Science",
+    "tid": 213580
+  },
+  "Elliot, Norbert": {
+    "name": "Elliot, Norbert",
+    "department": "Literature",
+    "tid": 217603
+  },
+  "Harnoy, Avraham": {
+    "name": "Harnoy, Avraham",
+    "department": "Mechanical Engineering",
+    "tid": 219321
+  },
+  "Surjanhata, Herli": {
+    "name": "Surjanhata, Herli",
+    "department": "Engineering",
+    "tid": 219324
+  },
+  "Taherisefat, Morteza": {
+    "name": "Taherisefat, Morteza",
+    "department": "Mathematics",
+    "tid": 232028
+  },
+  "Akansu, Ali": {
+    "name": "Akansu, Ali",
+    "department": "Engineering",
+    "tid": 244531
+  },
+  "Ravindra, N.M.": {
+    "name": "Ravindra, N.M.",
+    "department": "Physics",
+    "tid": 246064
+  },
+  "Siegel, Joy": {
+    "name": "Siegel, Joy",
+    "department": "Architecture",
+    "tid": 254968
+  },
+  "Czumaj, Artur": {
+    "name": "Czumaj, Artur",
+    "department": "Computer Science",
+    "tid": 256979
+  },
+  "Khera, Raj": {
+    "name": "Khera, Raj",
+    "department": "Civil Engineering",
+    "tid": 259559
+  },
+  "Niver, Edip": {
+    "name": "Niver, Edip",
+    "department": "Engineering",
+    "tid": 261998
+  },
+  "Gile, William": {
+    "name": "Gile, William",
+    "department": "Theater",
+    "tid": 266003
+  },
+  "Sequeira, Marc": {
+    "name": "Sequeira, Marc",
+    "department": "Information Technology",
+    "tid": 2006432
+  },
+  "Spencer, Aron": {
+    "name": "Spencer, Aron",
+    "department": "Management",
+    "tid": 272147
+  },
+  "Matveev, Victor": {
+    "name": "Matveev, Victor",
+    "department": "Mathematics",
+    "tid": 273259
+  },
+  "Sosnowski, Marek": {
+    "name": "Sosnowski, Marek",
+    "department": "Engineering",
+    "tid": 275688
+  },
+  "Etropoulos, Peter": {
+    "name": "Etropoulos, Peter",
+    "department": "Mathematics",
+    "tid": 283720
+  },
+  "Mendonca, David": {
+    "name": "Mendonca, David",
+    "department": "Information Systems",
+    "tid": 285981
+  },
+  "Bodner, Janet": {
+    "name": "Bodner, Janet",
+    "department": "Humanities",
+    "tid": 286164
+  },
+  "Dhar, Sunil": {
+    "name": "Dhar, Sunil",
+    "department": "Mathematics",
+    "tid": 286961
+  },
+  "Alexander, Elena": {
+    "name": "Alexander, Elena",
+    "department": "Humanities",
+    "tid": 287408
+  },
+  "Kappraff, Jay": {
+    "name": "Kappraff, Jay",
+    "department": "Mathematics",
+    "tid": 291390
+  },
+  "Tao, Luis": {
+    "name": "Tao, Luis",
+    "department": "Mathematics",
+    "tid": 307667
+  },
+  "Kobler, Soheila": {
+    "name": "Kobler, Soheila",
+    "department": "Computer Science",
+    "tid": 311769
+  },
+  "Klapper, Jacob": {
+    "name": "Klapper, Jacob",
+    "department": "Electrical Engineering",
+    "tid": 323014
+  },
+  "Conrad, Peter": {
+    "name": "Conrad, Peter",
+    "department": "Engineering",
+    "tid": 323476
+  },
+  "Muratov, Cyril": {
+    "name": "Muratov, Cyril",
+    "department": "Mathematics",
+    "tid": 323512
+  },
+  "Tremaine, Marilyn": {
+    "name": "Tremaine, Marilyn",
+    "department": "Information Systems",
+    "tid": 326643
+  },
+  "Selitto, Christopher": {
+    "name": "Selitto, Christopher",
+    "department": "Physical Ed",
+    "tid": 335135
+  },
+  "Geskin, Earnest": {
+    "name": "Geskin, Earnest",
+    "department": "Engineering",
+    "tid": 339556
+  },
+  "Paterno, Enzo": {
+    "name": "Paterno, Enzo",
+    "department": "Engineering",
+    "tid": 357971
+  },
+  "Goullet, Arnaud": {
+    "name": "Goullet, Arnaud",
+    "department": "Mathematics",
+    "tid": 369634
+  },
+  "Malek, Abdel": {
+    "name": "Malek, Abdel",
+    "department": "Engineering",
+    "tid": 378315
+  },
+  "Petrova, Roumiana": {
+    "name": "Petrova, Roumiana",
+    "department": "Physics",
+    "tid": 379242
+  },
+  "Khader, Michael": {
+    "name": "Khader, Michael",
+    "department": "Engineering",
+    "tid": 381983
+  },
+  "Rockland, Ronald": {
+    "name": "Rockland, Ronald",
+    "department": "Biomedical",
+    "tid": 381985
+  },
+  "Franck, Karen": {
+    "name": "Franck, Karen",
+    "department": "Architecture",
+    "tid": 382324
+  },
+  "Haddad, Richard": {
+    "name": "Haddad, Richard",
+    "department": "Engineering",
+    "tid": 383622
+  },
+  "Simon, Laurent": {
+    "name": "Simon, Laurent",
+    "department": "Engineering",
+    "tid": 387240
+  },
+  "Rittenhouse, Michele": {
+    "name": "Rittenhouse, Michele",
+    "department": "Theater",
+    "tid": 389531
+  },
+  "Bokhari, Syed": {
+    "name": "Bokhari, Syed",
+    "department": "Electrical Engineering",
+    "tid": 389796
+  },
+  "Schachter, Hindy": {
+    "name": "Schachter, Hindy",
+    "department": "Management",
+    "tid": 401154
+  },
+  "Adamovich, Sergei": {
+    "name": "Adamovich, Sergei",
+    "department": "Biomedical",
+    "tid": 404160
+  },
+  "Morozova, Tatiana": {
+    "name": "Morozova, Tatiana",
+    "department": "Physics",
+    "tid": 408219
+  },
+  "Koe, Frank": {
+    "name": "Koe, Frank",
+    "department": "Management",
+    "tid": 429626
+  },
+  "Venanzi, Carol": {
+    "name": "Venanzi, Carol",
+    "department": "Chemistry",
+    "tid": 430685
+  },
+  "Ellis, Frank": {
+    "name": "Ellis, Frank",
+    "department": "Chemistry",
+    "tid": 442556
+  },
+  "Coakley, John": {
+    "name": "Coakley, John",
+    "department": "Humanities",
+    "tid": 443445
+  },
+  "Dhawan, Atam": {
+    "name": "Dhawan, Atam",
+    "department": "Electrical Engineering",
+    "tid": 466159
+  },
+  "Haimovich, Alex": {
+    "name": "Haimovich, Alex",
+    "department": "Electrical Engineering",
+    "tid": 469142
+  },
+  "Garcia, Andrew": {
+    "name": "Garcia, Andrew",
+    "department": "Humanities",
+    "tid": 469429
+  },
+  "Anwar, Tariq": {
+    "name": "Anwar, Tariq",
+    "department": "Engineering",
+    "tid": 488317
+  },
+  "Borcea, Cristian": {
+    "name": "Borcea, Cristian",
+    "department": "Computer Science",
+    "tid": 489897
+  },
+  "Singaporewalla, Zainul": {
+    "name": "Singaporewalla, Zainul",
+    "department": "Mathematics",
+    "tid": 492969
+  },
+  "Snyder, Harris": {
+    "name": "Snyder, Harris",
+    "department": "Engineering",
+    "tid": 494218
+  },
+  "Gu, Sipeng": {
+    "name": "Gu, Sipeng",
+    "department": "Physics",
+    "tid": 494768
+  },
+  "Theodore, Georgeen": {
+    "name": "Theodore, Georgeen",
+    "department": "Architecture",
+    "tid": 496339
+  },
+  "Kontsov, Boris": {
+    "name": "Kontsov, Boris",
+    "department": "Computer Science",
+    "tid": 500408
+  },
+  "Schuring, John": {
+    "name": "Schuring, John",
+    "department": "Engineering",
+    "tid": 503099
+  },
+  "Juliano, Thomas": {
+    "name": "Juliano, Thomas",
+    "department": "Mechanical Engineering",
+    "tid": 511164
+  },
+  "Bladikas, Athanassios": {
+    "name": "Bladikas, Athanassios",
+    "department": "Engineering",
+    "tid": 515019
+  },
+  "Tsybeskov, Leonid": {
+    "name": "Tsybeskov, Leonid",
+    "department": "Electrical Engineering",
+    "tid": 518104
+  },
+  "Barnes, William": {
+    "name": "Barnes, William",
+    "department": "Electrical Engineering",
+    "tid": 529150
+  },
+  "Nonnemacher, Terry": {
+    "name": "Nonnemacher, Terry",
+    "department": "Management",
+    "tid": 534512
+  },
+  "Slaughter, Alan": {
+    "name": "Slaughter, Alan",
+    "department": "Civil Engineering",
+    "tid": 542269
+  },
+  "Moore, Richard": {
+    "name": "Moore, Richard",
+    "department": "Mathematics",
+    "tid": 555740
+  },
+  "Shi, Yun-Qing": {
+    "name": "Shi, Yun-Qing",
+    "department": "Electrical Engineering",
+    "tid": 562998
+  },
+  "Passerini, Katia": {
+    "name": "Passerini, Katia",
+    "department": "Management",
+    "tid": 572562
+  },
+  "Yang, Jian": {
+    "name": "Yang, Jian",
+    "department": "Engineering",
+    "tid": 576891
+  },
+  "Schuman, Anthony": {
+    "name": "Schuman, Anthony",
+    "department": "Architecture",
+    "tid": 585170
+  },
+  "Tuttle, Marion": {
+    "name": "Tuttle, Marion",
+    "department": "Engineering",
+    "tid": 585795
+  },
+  "Baltzis, Basil": {
+    "name": "Baltzis, Basil",
+    "department": "Chemical Engineering",
+    "tid": 587528
+  },
+  "Ohpyrchal, Halina": {
+    "name": "Ohpyrchal, Halina",
+    "department": "Physics",
+    "tid": 594540
+  },
+  "Widmeyer, George": {
+    "name": "Widmeyer, George",
+    "department": "Information Systems",
+    "tid": 595900
+  },
+  "Dart, James": {
+    "name": "Dart, James",
+    "department": "Architecture",
+    "tid": 614522
+  },
+  "Misra, Durgamadhab": {
+    "name": "Misra, Durgamadhab",
+    "department": "Electrical Engineering",
+    "tid": 615755
+  },
+  "Saadegh-Vaziri, M. Ala": {
+    "name": "Saadegh-Vaziri, M. Ala",
+    "department": "Civil Engineering",
+    "tid": 615765
+  },
+  "Gauchat, Urs": {
+    "name": "Gauchat, Urs",
+    "department": "Architecture",
+    "tid": 617163
+  },
+  "Liu, Rachel": {
+    "name": "Liu, Rachel",
+    "department": "Civil Engineering",
+    "tid": 620932
+  },
+  "Seman, Tsezar": {
+    "name": "Seman, Tsezar",
+    "department": "Mathematics",
+    "tid": 630059
+  },
+  "Cordero, Rene": {
+    "name": "Cordero, Rene",
+    "department": "Management",
+    "tid": 644170
+  },
+  "Recce, Mike": {
+    "name": "Recce, Mike",
+    "department": "Biology",
+    "tid": 648436
+  },
+  "Bobenhausen, Bill": {
+    "name": "Bobenhausen, Bill",
+    "department": "Architecture",
+    "tid": 673292
+  },
+  "Lyssikatos, John G.": {
+    "name": "Lyssikatos, John G.",
+    "department": "Civil Engineering",
+    "tid": 697282
+  },
+  "Gehani, Narain": {
+    "name": "Gehani, Narain",
+    "department": "Computer Science",
+    "tid": 700065
+  },
+  "Porus, Jon": {
+    "name": "Porus, Jon",
+    "department": "Mathematics",
+    "tid": 700934
+  },
+  "Greenstein, Teddy": {
+    "name": "Greenstein, Teddy",
+    "department": "Chemical Engineering",
+    "tid": 711750
+  },
+  "Bales, Ervin": {
+    "name": "Bales, Ervin",
+    "department": "Architecture",
+    "tid": 720065
+  },
+  "Gordon, Peter": {
+    "name": "Gordon, Peter",
+    "department": "Mathematics",
+    "tid": 726807
+  },
+  "Moheb, Naser": {
+    "name": "Moheb, Naser",
+    "department": "Mathematics",
+    "tid": 750434
+  },
+  "Young, Yuan-Nan": {
+    "name": "Young, Yuan-Nan",
+    "department": "Mathematics",
+    "tid": 751044
+  },
+  "D'Alessio, Alfonso": {
+    "name": "D'Alessio, Alfonso",
+    "department": "Electrical Engineering",
+    "tid": 751759
+  },
+  "Soliman, Yehya": {
+    "name": "Soliman, Yehya",
+    "department": "Electrical Engineering",
+    "tid": 788602
+  },
+  "Sodhi, Rajpal": {
+    "name": "Sodhi, Rajpal",
+    "department": "Mechanical Engineering",
+    "tid": 790209
+  },
+  "Taylor, Christine": {
+    "name": "Taylor, Christine",
+    "department": "Mathematics",
+    "tid": 796857
+  },
+  "Pepe, Russell": {
+    "name": "Pepe, Russell",
+    "department": "Electrical Engineering",
+    "tid": 798329
+  },
+  "Solice, Jastina": {
+    "name": "Solice, Jastina",
+    "department": "Computer Science",
+    "tid": 799933
+  },
+  "Sahin, Mesut": {
+    "name": "Sahin, Mesut",
+    "department": "Biomedical",
+    "tid": 799947
+  },
+  "Brown, Eleanor": {
+    "name": "Brown, Eleanor",
+    "department": "Humanities",
+    "tid": 817259
+  },
+  "Lippencott, Robert": {
+    "name": "Lippencott, Robert",
+    "department": "Chemistry",
+    "tid": 818137
+  },
+  "Raghu, Dorairaja": {
+    "name": "Raghu, Dorairaja",
+    "department": "Civil Engineering",
+    "tid": 824075
+  },
+  "Wang, Sheldon": {
+    "name": "Wang, Sheldon",
+    "department": "Mathematics",
+    "tid": 827024
+  },
+  "Baseil, Richard": {
+    "name": "Baseil, Richard",
+    "department": "Management",
+    "tid": 842163
+  },
+  "Harms, Brian": {
+    "name": "Harms, Brian",
+    "department": "Finance",
+    "tid": 849027
+  },
+  "Ibrahim, Mario": {
+    "name": "Ibrahim, Mario",
+    "department": "Electrical Engineering",
+    "tid": 856608
+  },
+  "Simeone, Osvaldo": {
+    "name": "Simeone, Osvaldo",
+    "department": "Electrical Engineering",
+    "tid": 859687
+  },
+  "Chen, Byron": {
+    "name": "Chen, Byron",
+    "department": "Electrical Engineering",
+    "tid": 870027
+  },
+  "Yassin, D": {
+    "name": "Yassin, D",
+    "department": "Biomedical",
+    "tid": 886387
+  },
+  "Kebbekus, Barbara": {
+    "name": "Kebbekus, Barbara",
+    "department": "Environmental Engineering",
+    "tid": 887302
+  },
+  "Gorun, Sergiu": {
+    "name": "Gorun, Sergiu",
+    "department": "Chemistry",
+    "tid": 887978
+  },
+  "Saito, Scott": {
+    "name": "Saito, Scott",
+    "department": "Electrical Engineering",
+    "tid": 888791
+  },
+  "Agrawal, Suchi": {
+    "name": "Agrawal, Suchi",
+    "department": "Mathematics",
+    "tid": 896715
+  },
+  "Iqbal, Zafar": {
+    "name": "Iqbal, Zafar",
+    "department": "Chemistry",
+    "tid": 897443
+  },
+  "Gray, Ralph": {
+    "name": "Gray, Ralph",
+    "department": "Chemical Engineering",
+    "tid": 899946
+  },
+  "Harp, Cleve": {
+    "name": "Harp, Cleve",
+    "department": "Architecture",
+    "tid": 901957
+  },
+  "Guo, Kangzhu": {
+    "name": "Guo, Kangzhu",
+    "department": "Physics",
+    "tid": 911596
+  },
+  "Jermakian, Armen": {
+    "name": "Jermakian, Armen",
+    "department": "Physics",
+    "tid": 913684
+  },
+  "Navalurkar, Rajendra": {
+    "name": "Navalurkar, Rajendra",
+    "department": "Civil Engineering",
+    "tid": 916273
+  },
+  "Avery, Elizabeth": {
+    "name": "Avery, Elizabeth",
+    "department": "English",
+    "tid": 918983
+  },
+  "Sudhakar, Shet": {
+    "name": "Sudhakar, Shet",
+    "department": "Physics",
+    "tid": 919134
+  },
+  "Saltzman, Steve": {
+    "name": "Saltzman, Steve",
+    "department": "History",
+    "tid": 926332
+  },
+  "Ziavras, Sotirios": {
+    "name": "Ziavras, Sotirios",
+    "department": "Electrical Engineering",
+    "tid": 930751
+  },
+  "Schoenitz, Mirko": {
+    "name": "Schoenitz, Mirko",
+    "department": "Mechanical Engineering",
+    "tid": 933189
+  },
+  "Ansari, Nirwan": {
+    "name": "Ansari, Nirwan",
+    "department": "Electrical Engineering",
+    "tid": 934217
+  },
+  "Eisenberg, Larry": {
+    "name": "Eisenberg, Larry",
+    "department": "Finance",
+    "tid": 934681
+  },
+  "Choi, Wooyoung": {
+    "name": "Choi, Wooyoung",
+    "department": "Mathematics",
+    "tid": 937910
+  },
+  "Sher, Richard": {
+    "name": "Sher, Richard",
+    "department": "History",
+    "tid": 941159
+  },
+  "De, Swades": {
+    "name": "De, Swades",
+    "department": "Electrical Engineering",
+    "tid": 941951
+  },
+  "Pfister, Bryan": {
+    "name": "Pfister, Bryan",
+    "department": "Biomedical",
+    "tid": 952505
+  },
+  "Hanafi, Hussein": {
+    "name": "Hanafi, Hussein",
+    "department": "Electrical Engineering",
+    "tid": 952617
+  },
+  "Eliza, Michalopolou": {
+    "name": "Eliza, Michalopolou",
+    "department": "Electrical Engineering",
+    "tid": 956323
+  },
+  "Eliza, Mochalolopar": {
+    "name": "Eliza, Mochalolopar",
+    "department": "Electrical Engineering",
+    "tid": 956325
+  },
+  "JI, Zhiming": {
+    "name": "JI, Zhiming",
+    "department": "Mechanical Engineering",
+    "tid": 958886
+  },
+  "Elsayed, H": {
+    "name": "Elsayed, H",
+    "department": "Electrical Engineering",
+    "tid": 971984
+  },
+  "Mathur, Bob": {
+    "name": "Mathur, Bob",
+    "department": "Engineering",
+    "tid": 972055
+  },
+  "Meidling, Joseph": {
+    "name": "Meidling, Joseph",
+    "department": "Electrical Engineering",
+    "tid": 972345
+  },
+  "Boger, Marybeth": {
+    "name": "Boger, Marybeth",
+    "department": "Humanities",
+    "tid": 973165
+  },
+  "Luglio, Luis": {
+    "name": "Luglio, Luis",
+    "department": "Civil Engineering",
+    "tid": 974689
+  },
+  "Hsieh, Hsin-Neng": {
+    "name": "Hsieh, Hsin-Neng",
+    "department": "Civil Engineering",
+    "tid": 975077
+  },
+  "Drover, Jonathan": {
+    "name": "Drover, Jonathan",
+    "department": "Mathematics",
+    "tid": 975617
+  },
+  "Pemberton, Stephen": {
+    "name": "Pemberton, Stephen",
+    "department": "History",
+    "tid": 977738
+  },
+  "Hu, Jie": {
+    "name": "Hu, Jie",
+    "department": "Electrical Engineering",
+    "tid": 979367
+  },
+  "Kasisomayajula, Vijay": {
+    "name": "Kasisomayajula, Vijay",
+    "department": "Physics",
+    "tid": 980415
+  },
+  "Loney, Norman": {
+    "name": "Loney, Norman",
+    "department": "Chemical Engineering",
+    "tid": 989784
+  },
+  "Song, Min": {
+    "name": "Song, Min",
+    "department": "Information Systems",
+    "tid": 995922
+  },
+  "Nikitovic, Nemanja": {
+    "name": "Nikitovic, Nemanja",
+    "department": "Mathematics",
+    "tid": 997774
+  },
+  "Kim, Dongwook": {
+    "name": "Kim, Dongwook",
+    "department": "Mathematics",
+    "tid": 997778
+  },
+  "Klimek, Diana": {
+    "name": "Klimek, Diana",
+    "department": "Mathematics",
+    "tid": 1006065
+  },
+  "Rotstein, Horacio": {
+    "name": "Rotstein, Horacio",
+    "department": "Mathematics",
+    "tid": 1037520
+  },
+  "Tawadrous, Mounir": {
+    "name": "Tawadrous, Mounir",
+    "department": "Architecture",
+    "tid": 1056072
+  },
+  "Coble, Crystal": {
+    "name": "Coble, Crystal",
+    "department": "Humanities",
+    "tid": 1064727
+  },
+  "Zoppi, Phillip": {
+    "name": "Zoppi, Phillip",
+    "department": "Management",
+    "tid": 1066052
+  },
+  "Subramanian, Sundar": {
+    "name": "Subramanian, Sundar",
+    "department": "Mathematics",
+    "tid": 1068014
+  },
+  "Ehrlich, Michael": {
+    "name": "Ehrlich, Michael",
+    "department": "Accounting",
+    "tid": 2327082
+  },
+  "Mateescu, Liviu": {
+    "name": "Mateescu, Liviu",
+    "department": "Physics",
+    "tid": 1076057
+  },
+  "Yanchao, Zhang": {
+    "name": "Yanchao, Zhang",
+    "department": "Electrical Engineering",
+    "tid": 1078541
+  },
+  "Parhankangas, Annaleena": {
+    "name": "Parhankangas, Annaleena",
+    "department": "Management",
+    "tid": 1079190
+  },
+  "Haddad, Moayad": {
+    "name": "Haddad, Moayad",
+    "department": "Mathematics",
+    "tid": 1080084
+  },
+  "Potts, Laramie": {
+    "name": "Potts, Laramie",
+    "department": "Engineering Technology",
+    "tid": 1081342
+  },
+  "Clifton, Trony": {
+    "name": "Clifton, Trony",
+    "department": "Information Systems",
+    "tid": 1082864
+  },
+  "Sens, James": {
+    "name": "Sens, James",
+    "department": "Engineering",
+    "tid": 1093229
+  },
+  "Joshi, Yogesh": {
+    "name": "Joshi, Yogesh",
+    "department": "Mathematics",
+    "tid": 1096342
+  },
+  "Ronkowitz, Kenneth": {
+    "name": "Ronkowitz, Kenneth",
+    "department": "Humanities",
+    "tid": 1103448
+  },
+  "Jaffe, Michael": {
+    "name": "Jaffe, Michael",
+    "department": "Biomedical",
+    "tid": 1119148
+  },
+  "Kaur, Manmeet": {
+    "name": "Kaur, Manmeet",
+    "department": "Mathematics",
+    "tid": 1123827
+  },
+  "Kirchhoff, Bruce": {
+    "name": "Kirchhoff, Bruce",
+    "department": "Management",
+    "tid": 1131169
+  },
+  "Skrobacz, Edwin": {
+    "name": "Skrobacz, Edwin",
+    "department": "Civil Engineering",
+    "tid": 1137405
+  },
+  "Demarco, Robert": {
+    "name": "Demarco, Robert",
+    "department": "Biomedical",
+    "tid": 1141935
+  },
+  "Xu, Wei": { "name": "Xu, Wei", "department": "Accounting", "tid": 1142095 },
+  "English, Robert": {
+    "name": "English, Robert",
+    "department": "Mechanical Engineering",
+    "tid": 1146743
+  },
+  "Grossman, Henry": {
+    "name": "Grossman, Henry",
+    "department": "Architecture",
+    "tid": 1151401
+  },
+  "Johnson, Kenneth": {
+    "name": "Johnson, Kenneth",
+    "department": "Mathematics",
+    "tid": 1152155
+  },
+  "Karaa, Fadi A.": {
+    "name": "Karaa, Fadi A.",
+    "department": "Civil Engineering",
+    "tid": 1173109
+  },
+  "Saxena, Sumit": {
+    "name": "Saxena, Sumit",
+    "department": "Physics",
+    "tid": 1173214
+  },
+  "Kim, Heechang": {
+    "name": "Kim, Heechang",
+    "department": "Electrical Engineering",
+    "tid": 1175860
+  },
+  "Onukogu, Don": {
+    "name": "Onukogu, Don",
+    "department": "Humanities",
+    "tid": 1176397
+  },
+  "Worley, Sanjeannetta": {
+    "name": "Worley, Sanjeannetta",
+    "department": "Freshman Seminar",
+    "tid": 1178310
+  },
+  "Jelley, Michelle": {
+    "name": "Jelley, Michelle",
+    "department": "English",
+    "tid": 1182347
+  },
+  "Sassi, Lawrence": {
+    "name": "Sassi, Lawrence",
+    "department": "Architecture",
+    "tid": 1183832
+  },
+  "Yan, Zhipeng": {
+    "name": "Yan, Zhipeng",
+    "department": "Finance",
+    "tid": 1187617
+  },
+  "Zinder, Joshua": {
+    "name": "Zinder, Joshua",
+    "department": "Architecture",
+    "tid": 1188383
+  },
+  "Moore, Tom": {
+    "name": "Moore, Tom",
+    "department": "Humanities",
+    "tid": 1191165
+  },
+  "Homsi, Nabil": {
+    "name": "Homsi, Nabil",
+    "department": "Engineering",
+    "tid": 1195395
+  },
+  "Swanson, Eric": {
+    "name": "Swanson, Eric",
+    "department": "Mathematics",
+    "tid": 1196154
+  },
+  "Swaminathan, Priya": {
+    "name": "Swaminathan, Priya",
+    "department": "Physics",
+    "tid": 1197857
+  },
+  "Ellison, C": {
+    "name": "Ellison, C",
+    "department": "Humanities",
+    "tid": 1201196
+  },
+  "Saxon, Greg": {
+    "name": "Saxon, Greg",
+    "department": "Information Technology",
+    "tid": 1202965
+  },
+  "Perlman, Allison": {
+    "name": "Perlman, Allison",
+    "department": "History",
+    "tid": 1203320
+  },
+  "Nocks, Lisa": {
+    "name": "Nocks, Lisa",
+    "department": "History",
+    "tid": 1203329
+  },
+  "Swanson, Jayson": {
+    "name": "Swanson, Jayson",
+    "department": "Mathematics",
+    "tid": 1203730
+  },
+  "Day, Resnick": {
+    "name": "Day, Resnick",
+    "department": "History",
+    "tid": 1204155
+  },
+  "Wood, A": { "name": "Wood, A", "department": "Humanities", "tid": 1204875 },
+  "Kopec, Daniel": {
+    "name": "Kopec, Daniel",
+    "department": "Architecture",
+    "tid": 1206741
+  },
+  "Boubendir, Yassine": {
+    "name": "Boubendir, Yassine",
+    "department": "Mathematics",
+    "tid": 1207690
+  },
+  "Otegbeye, Mojisola": {
+    "name": "Otegbeye, Mojisola",
+    "department": "Engineering",
+    "tid": 1209403
+  },
+  "Worbel, Jacek": {
+    "name": "Worbel, Jacek",
+    "department": "Mathematics",
+    "tid": 1217270
+  },
+  "Verma, Abhishek": {
+    "name": "Verma, Abhishek",
+    "department": "Computer Science",
+    "tid": 1224047
+  },
+  "King, Paul W.": {
+    "name": "King, Paul W.",
+    "department": "Humanities",
+    "tid": 1229921
+  },
+  "Koplik, Bernard": {
+    "name": "Koplik, Bernard",
+    "department": "Mechanical Engineering",
+    "tid": 1232489
+  },
+  "Cohen, Neal": {
+    "name": "Cohen, Neal",
+    "department": "Information Technology",
+    "tid": 1240320
+  },
+  "Speranza, Philip": {
+    "name": "Speranza, Philip",
+    "department": "Architecture",
+    "tid": 1245043
+  },
+  "Cucchiara, Pete": {
+    "name": "Cucchiara, Pete",
+    "department": "Management",
+    "tid": 1245168
+  },
+  "Bai, Yanzhi": {
+    "name": "Bai, Yanzhi",
+    "department": "Computer Science",
+    "tid": 1254813
+  },
+  "Moylan, Grace": {
+    "name": "Moylan, Grace",
+    "department": "Humanities",
+    "tid": 1257732
+  },
+  "Abo'U Alfouthouh, Abdul": {
+    "name": "Abo'U Alfouthouh, Abdul",
+    "department": "Electrical Engineering",
+    "tid": 1261485
+  },
+  "Grandrino, Richard": {
+    "name": "Grandrino, Richard",
+    "department": "Engineering",
+    "tid": 1268074
+  },
+  "Desantis, Frank": {
+    "name": "Desantis, Frank",
+    "department": "Architecture",
+    "tid": 1269999
+  },
+  "Goehner, Kyle": {
+    "name": "Goehner, Kyle",
+    "department": "Humanities",
+    "tid": 1272993
+  },
+  "Wei, Liping": {
+    "name": "Wei, Liping",
+    "department": "Environmental Engineering",
+    "tid": 1280643
+  },
+  "Rahman, Moshiur": {
+    "name": "Rahman, Moshiur",
+    "department": "Computer Science",
+    "tid": 1280823
+  },
+  "Bernier, Craig": {
+    "name": "Bernier, Craig",
+    "department": "Engineering",
+    "tid": 1281542
+  },
+  "Wei, Zhi": {
+    "name": "Wei, Zhi",
+    "department": "Computer Science",
+    "tid": 1281994
+  },
+  "Liu, Cheng-Jun": {
+    "name": "Liu, Cheng-Jun",
+    "department": "Computer Science",
+    "tid": 1285917
+  },
+  "Haynes, Elizabeth": {
+    "name": "Haynes, Elizabeth",
+    "department": "Mathematics",
+    "tid": 1288245
+  },
+  "Prado, Jorge": {
+    "name": "Prado, Jorge",
+    "department": "Architecture",
+    "tid": 1292491
+  },
+  "Behi, Mohammad": {
+    "name": "Behi, Mohammad",
+    "department": "Mechanical Engineering",
+    "tid": 1298800
+  },
+  "Rahman, Aminur": {
+    "name": "Rahman, Aminur",
+    "department": "Mathematics",
+    "tid": 1305389
+  },
+  "Poon, Vincent": {
+    "name": "Poon, Vincent",
+    "department": "Architecture",
+    "tid": 1312701
+  },
+  "Blanchard, Harry E": {
+    "name": "Blanchard, Harry E",
+    "department": "Mathematics",
+    "tid": 1322342
+  },
+  "Sverdlove, Ron": {
+    "name": "Sverdlove, Ron",
+    "department": "Finance",
+    "tid": 1322471
+  },
+  "Mukherjee, Suman": {
+    "name": "Mukherjee, Suman",
+    "department": "Physics",
+    "tid": 1332334
+  },
+  "Atwood, Brooks": {
+    "name": "Atwood, Brooks",
+    "department": "Architecture",
+    "tid": 1333389
+  },
+  "Korec, James": {
+    "name": "Korec, James",
+    "department": "Mathematics",
+    "tid": 1337178
+  },
+  "Smith, Alexander": {
+    "name": "Smith, Alexander",
+    "department": "Management",
+    "tid": 1349482
+  },
+  "Eisenburg, L": {
+    "name": "Eisenburg, L",
+    "department": "Management",
+    "tid": 1349486
+  },
+  "Nadim, Farzan": {
+    "name": "Nadim, Farzan",
+    "department": "Biology",
+    "tid": 1739047
+  },
+  "Eagen, John": {
+    "name": "Eagen, John",
+    "department": "Humanities",
+    "tid": 1362785
+  },
+  "Barat, Robert": {
+    "name": "Barat, Robert",
+    "department": "Chemical Engineering",
+    "tid": 1365165
+  },
+  "Findakly, Shatha": {
+    "name": "Findakly, Shatha",
+    "department": "Mathematics",
+    "tid": 1366318
+  },
+  "Clovis, Darlene": {
+    "name": "Clovis, Darlene",
+    "department": "Mathematics",
+    "tid": 1367806
+  },
+  "Bandha, Sonia": {
+    "name": "Bandha, Sonia",
+    "department": "Mathematics",
+    "tid": 1368977
+  },
+  "Brown, Cathy K": {
+    "name": "Brown, Cathy K",
+    "department": "Humanities",
+    "tid": 1372433
+  },
+  "Brownstein, Michael": {
+    "name": "Brownstein, Michael",
+    "department": "Humanities",
+    "tid": 1376760
+  },
+  "Aska, Gerald": {
+    "name": "Aska, Gerald",
+    "department": "Electrical Engineering",
+    "tid": 1378156
+  },
+  "Roman, Joseph": {
+    "name": "Roman, Joseph",
+    "department": "Management",
+    "tid": 1378545
+  },
+  "Rao, Gautham": {
+    "name": "Rao, Gautham",
+    "department": "History",
+    "tid": 1378547
+  },
+  "Salmeron, Maria": {
+    "name": "Salmeron, Maria",
+    "department": "Management",
+    "tid": 1378795
+  },
+  "Helvacian, Mike": {
+    "name": "Helvacian, Mike",
+    "department": "Economics",
+    "tid": 1381253
+  },
+  "Dobi, John": {
+    "name": "Dobi, John",
+    "department": "Not Specified",
+    "tid": 1391132
+  },
+  "Konon, Walter": {
+    "name": "Konon, Walter",
+    "department": "Civil Engineering",
+    "tid": 1398049
+  },
+  "Cooper, Brett": {
+    "name": "Cooper, Brett",
+    "department": "Management",
+    "tid": 1399317
+  },
+  "Russell, Kimberly": {
+    "name": "Russell, Kimberly",
+    "department": "Biology",
+    "tid": 1399519
+  },
+  "Gayen, Taposh": {
+    "name": "Gayen, Taposh",
+    "department": "Physics",
+    "tid": 1405415
+  },
+  "Androwis, Ghaith": {
+    "name": "Androwis, Ghaith",
+    "department": "Biomedical",
+    "tid": 1405890
+  },
+  "English, Jerry": {
+    "name": "English, Jerry",
+    "department": "Chemistry",
+    "tid": 1407295
+  },
+  "Schubert, Jennifer": {
+    "name": "Schubert, Jennifer",
+    "department": "History",
+    "tid": 1408877
+  },
+  "Straus, John": {
+    "name": "Straus, John",
+    "department": "English",
+    "tid": 1420385
+  },
+  "Gregorio, Tomas": {
+    "name": "Gregorio, Tomas",
+    "department": "Not Specified",
+    "tid": 1423639
+  },
+  "Farrell, William": {
+    "name": "Farrell, William",
+    "department": "Finance",
+    "tid": 1435209
+  },
+  "Srinivasan, Anand": {
+    "name": "Srinivasan, Anand",
+    "department": "Information Systems",
+    "tid": 1436183
+  },
+  "Reagan, Randy": {
+    "name": "Reagan, Randy",
+    "department": "Engineering",
+    "tid": 1436493
+  },
+  "Avery Gomez, Elizabeth": {
+    "name": "Avery Gomez, Elizabeth",
+    "department": "Information Systems",
+    "tid": 1439998
+  },
+  "Roche, Timothy": {
+    "name": "Roche, Timothy",
+    "department": "Chemical Engineering",
+    "tid": 1445075
+  },
+  "Banerjee, Rudrani": {
+    "name": "Banerjee, Rudrani",
+    "department": "Mathematics",
+    "tid": 1446166
+  },
+  "Cheng, Biao": {
+    "name": "Cheng, Biao",
+    "department": "Electrical Engineering",
+    "tid": 1446456
+  },
+  "Yetman, Shawn": {
+    "name": "Yetman, Shawn",
+    "department": "Engineering",
+    "tid": 1446500
+  },
+  "Clarke, Andrew": {
+    "name": "Clarke, Andrew",
+    "department": "Engineering",
+    "tid": 1456592
+  },
+  "Schoenebeck, Karen": {
+    "name": "Schoenebeck, Karen",
+    "department": "Accounting",
+    "tid": 1472767
+  },
+  "Ferri, Emilia": {
+    "name": "Ferri, Emilia",
+    "department": "Architecture",
+    "tid": 1473228
+  },
+  "Cooke, Frederick": {
+    "name": "Cooke, Frederick",
+    "department": "Architecture",
+    "tid": 1474164
+  },
+  "Burke, Jordan": {
+    "name": "Burke, Jordan",
+    "department": "Humanities",
+    "tid": 1477965
+  },
+  "Abedrabbo, Sufian": {
+    "name": "Abedrabbo, Sufian",
+    "department": "Physics",
+    "tid": 1481837
+  },
+  "Xiong, Wei": {
+    "name": "Xiong, Wei",
+    "department": "Information Systems",
+    "tid": 1491416
+  },
+  "Sava, Sharla": {
+    "name": "Sava, Sharla",
+    "department": "Humanities",
+    "tid": 1498063
+  },
+  "Personick, Stewart": {
+    "name": "Personick, Stewart",
+    "department": "Electrical Engineering",
+    "tid": 1501742
+  },
+  "Wilson, Latosha": {
+    "name": "Wilson, Latosha",
+    "department": "Freshman Seminar",
+    "tid": 1514843
+  },
+  "Souza, Kevin": {
+    "name": "Souza, Kevin",
+    "department": "Management",
+    "tid": 1524585
+  },
+  "Hazina, Marina": {
+    "name": "Hazina, Marina",
+    "department": "Mathematics",
+    "tid": 1527796
+  },
+  "Vandermark, Sara": {
+    "name": "Vandermark, Sara",
+    "department": "Freshman Seminar",
+    "tid": 1529395
+  },
+  "Arnowitz, Mark": {
+    "name": "Arnowitz, Mark",
+    "department": "English",
+    "tid": 1533845
+  },
+  "Wong, Eric": {
+    "name": "Wong, Eric",
+    "department": "Biomedical",
+    "tid": 1535236
+  },
+  "Kim, Kitae": {
+    "name": "Kim, Kitae",
+    "department": "Civil Engineering",
+    "tid": 1538291
+  },
+  "Busch, Michael": {
+    "name": "Busch, Michael",
+    "department": "Management",
+    "tid": 1538480
+  },
+  "Afkhami, Shahriar": {
+    "name": "Afkhami, Shahriar",
+    "department": "Mathematics",
+    "tid": 1538551
+  },
+  "Akinsola, Abiyomi": {
+    "name": "Akinsola, Abiyomi",
+    "department": "Mathematics",
+    "tid": 1545213
+  },
+  "Patel, Amit": {
+    "name": "Patel, Amit",
+    "department": "Information Technology",
+    "tid": 1560246
+  },
+  "Boodhoo, Shivon": {
+    "name": "Boodhoo, Shivon",
+    "department": "Engineering",
+    "tid": 1565404
+  },
+  "Karnes, Jamie": {
+    "name": "Karnes, Jamie",
+    "department": "Humanities",
+    "tid": 1568938
+  },
+  "Ricken, Stephen": {
+    "name": "Ricken, Stephen",
+    "department": "Information Systems",
+    "tid": 1571245
+  },
+  "Prodyot, Samanta": {
+    "name": "Prodyot, Samanta",
+    "department": "Finance",
+    "tid": 1575593
+  },
+  "Bhullar, Tanvir": {
+    "name": "Bhullar, Tanvir",
+    "department": "Physical Education",
+    "tid": 1575636
+  },
+  "Basarab, Casayndra": {
+    "name": "Basarab, Casayndra",
+    "department": "Mathematics",
+    "tid": 1580901
+  },
+  "Zarzycki, Andrz": {
+    "name": "Zarzycki, Andrz",
+    "department": "Architecture",
+    "tid": 1589743
+  },
+  "Sieminska, Katarzyna": {
+    "name": "Sieminska, Katarzyna",
+    "department": "Mathematics",
+    "tid": 1597870
+  },
+  "Ehrenberg, Naphtaly": {
+    "name": "Ehrenberg, Naphtaly",
+    "department": "Biomedical",
+    "tid": 1603864
+  },
+  "Benanti, Vincent": {
+    "name": "Benanti, Vincent",
+    "department": "Architecture",
+    "tid": 1607011
+  },
+  "Toscarelli, Paul": {
+    "name": "Toscarelli, Paul",
+    "department": "Engineering",
+    "tid": 1612732
+  },
+  "Parekh, Pallavi": {
+    "name": "Parekh, Pallavi",
+    "department": "Mathematics",
+    "tid": 1614670
+  },
+  "Strakhov, Nicholas": {
+    "name": "Strakhov, Nicholas",
+    "department": "Information Technology",
+    "tid": 1624848
+  },
+  "Mihlbachler, Kathleen": {
+    "name": "Mihlbachler, Kathleen",
+    "department": "Chemical Engineering",
+    "tid": 1633775
+  },
+  "Wisner, Ellen": {
+    "name": "Wisner, Ellen",
+    "department": "Biology",
+    "tid": 1635047
+  },
+  "Guerra, Jose": {
+    "name": "Guerra, Jose",
+    "department": "Mathematics",
+    "tid": 1638655
+  },
+  "Dionis, Karvelas": {
+    "name": "Dionis, Karvelas",
+    "department": "Computer Science",
+    "tid": 1640175
+  },
+  "Trimby, Christopher": {
+    "name": "Trimby, Christopher",
+    "department": "Biology",
+    "tid": 1640632
+  },
+  "Brothers, David": {
+    "name": "Brothers, David",
+    "department": "Not Specified",
+    "tid": 1643391
+  },
+  "Brothers, David A.": {
+    "name": "Brothers, David A.",
+    "department": "Not Specified",
+    "tid": 1643392
+  },
+  "Veyga, Diego": {
+    "name": "Veyga, Diego",
+    "department": "Not Specified",
+    "tid": 1645789
+  },
+  "Osama, Eljabiri": {
+    "name": "Osama, Eljabiri",
+    "department": "Computer Science",
+    "tid": 1646339
+  },
+  "Steele, Timothy": {
+    "name": "Steele, Timothy",
+    "department": "Not Specified",
+    "tid": 1646447
+  },
+  "Brachocki, Joe": {
+    "name": "Brachocki, Joe",
+    "department": "Mathematics",
+    "tid": 1651275
+  },
+  "Siriwardane, Mevan": {
+    "name": "Siriwardane, Mevan",
+    "department": "Biomedical",
+    "tid": 1660040
+  },
+  "Altin, Ersin": {
+    "name": "Altin, Ersin",
+    "department": "Architecture",
+    "tid": 2527476
+  },
+  "Nelson, Priscilla": {
+    "name": "Nelson, Priscilla",
+    "department": "Civil Engineering",
+    "tid": 1666224
+  },
+  "Panda, Durga": {
+    "name": "Panda, Durga",
+    "department": "Finance",
+    "tid": 1669944
+  },
+  "Curley, Jon": {
+    "name": "Curley, Jon",
+    "department": "English",
+    "tid": 26703
+  },
+  "Crisonino, Ginny": {
+    "name": "Crisonino, Ginny",
+    "department": "Mathematics",
+    "tid": 1673110
+  },
+  "Waltz-Cummings, Anika": {
+    "name": "Waltz-Cummings, Anika",
+    "department": "Humanities",
+    "tid": 1674874
+  },
+  "Prabhu, Vaishali": {
+    "name": "Prabhu, Vaishali",
+    "department": "Mathematics",
+    "tid": 1676594
+  },
+  "Wagner, John": {
+    "name": "Wagner, John",
+    "department": "Management",
+    "tid": 1683512
+  },
+  "Brown, Ronald": {
+    "name": "Brown, Ronald",
+    "department": "Mathematics",
+    "tid": 1683670
+  },
+  "Shabnam, Darjani": {
+    "name": "Shabnam, Darjani",
+    "department": "Civil Engineering",
+    "tid": 1684195
+  },
+  "Qazi, Kashif": {
+    "name": "Qazi, Kashif",
+    "department": "Computer Science",
+    "tid": 1685251
+  },
+  "De_veyga, Diego": {
+    "name": "De_veyga, Diego",
+    "department": "Engineering",
+    "tid": 1687743
+  },
+  "Krejci, John": {
+    "name": "Krejci, John",
+    "department": "Mathematics",
+    "tid": 1692229
+  },
+  "Lee, Eun Jung": {
+    "name": "Lee, Eun Jung",
+    "department": "Biomedical",
+    "tid": 1696813
+  },
+  "Vrdoljak, Maria": {
+    "name": "Vrdoljak, Maria",
+    "department": "Architecture",
+    "tid": 1696986
+  },
+  "Klokis, Brent": {
+    "name": "Klokis, Brent",
+    "department": "Architecture",
+    "tid": 1696988
+  },
+  "Bouayad, Asmaa": {
+    "name": "Bouayad, Asmaa",
+    "department": "Mathematics",
+    "tid": 1703206
+  },
+  "Loas, Andrei": {
+    "name": "Loas, Andrei",
+    "department": "Physics",
+    "tid": 1706661
+  },
+  "Ferwerda, Darren": {
+    "name": "Ferwerda, Darren",
+    "department": "Civil Engineering",
+    "tid": 1720538
+  },
+  "Lordan, Gabriel": {
+    "name": "Lordan, Gabriel",
+    "department": "Biology",
+    "tid": 1721581
+  },
+  "Rudniy, Alex": {
+    "name": "Rudniy, Alex",
+    "department": "Computer Science",
+    "tid": 1722827
+  },
+  "Rafa, Ahmed": {
+    "name": "Rafa, Ahmed",
+    "department": "Computer Science",
+    "tid": 1724224
+  },
+  "Turci, Laura": {
+    "name": "Turci, Laura",
+    "department": "Chemical Engineering",
+    "tid": 1724956
+  },
+  "Morcos, Amir": {
+    "name": "Morcos, Amir",
+    "department": "Mathematics",
+    "tid": 1726734
+  },
+  "Foster, Justin": {
+    "name": "Foster, Justin",
+    "department": "Architecture",
+    "tid": 1729662
+  },
+  "Casa, Jose": {
+    "name": "Casa, Jose",
+    "department": "Engineering",
+    "tid": 1731000
+  },
+  "Kilroy, Kevin": {
+    "name": "Kilroy, Kevin",
+    "department": "Humanities",
+    "tid": 1731014
+  },
+  "Medicherla, Swetha": {
+    "name": "Medicherla, Swetha",
+    "department": "Computer Science",
+    "tid": 1742388
+  },
+  "Nowicki, Susan": {
+    "name": "Nowicki, Susan",
+    "department": "Architecture",
+    "tid": 1746545
+  },
+  "Dentato, Michael": {
+    "name": "Dentato, Michael",
+    "department": "Electrical Engineering",
+    "tid": 1756038
+  },
+  "Richman, Jack": {
+    "name": "Richman, Jack",
+    "department": "Electrical Engineering",
+    "tid": 1769510
+  },
+  "Alcala, Jose": {
+    "name": "Alcala, Jose",
+    "department": "Engineering",
+    "tid": 1770516
+  },
+  "Lin, Lin": {
+    "name": "Lin, Lin",
+    "department": "Information Systems",
+    "tid": 1776198
+  },
+  "Logan, Virginia": {
+    "name": "Logan, Virginia",
+    "department": "Management",
+    "tid": 1780690
+  },
+  "Denno, Ken": {
+    "name": "Denno, Ken",
+    "department": "Management",
+    "tid": 1781140
+  },
+  "Barr, Thomas": {
+    "name": "Barr, Thomas",
+    "department": "Accounting",
+    "tid": 1783857
+  },
+  "Wylie, Caitlin": {
+    "name": "Wylie, Caitlin",
+    "department": "Humanities",
+    "tid": 1785806
+  },
+  "Cicon, James": {
+    "name": "Cicon, James",
+    "department": "Management",
+    "tid": 1786390
+  },
+  "Liu, Mei": {
+    "name": "Liu, Mei",
+    "department": "Computer Science",
+    "tid": 1786789
+  },
+  "Vesonder, Gregory": {
+    "name": "Vesonder, Gregory",
+    "department": "Computer Science",
+    "tid": 1786805
+  },
+  "Kolarov, Aleksandar": {
+    "name": "Kolarov, Aleksandar",
+    "department": "Electrical Engineering",
+    "tid": 1787119
+  },
+  "Brodowski, Thomas": {
+    "name": "Brodowski, Thomas",
+    "department": "Management",
+    "tid": 1787120
+  },
+  "Khreishah, Abdallah": {
+    "name": "Khreishah, Abdallah",
+    "department": "Electrical Engineering",
+    "tid": 1788592
+  },
+  "Bunker, Daniel": {
+    "name": "Bunker, Daniel",
+    "department": "Biology",
+    "tid": 1790660
+  },
+  "Wagner, Greg": {
+    "name": "Wagner, Greg",
+    "department": "Information Technology",
+    "tid": 1791123
+  },
+  "Barreto, Victor": {
+    "name": "Barreto, Victor",
+    "department": "Mathematics",
+    "tid": 1791402
+  },
+  "Ajemian, Silva": {
+    "name": "Ajemian, Silva",
+    "department": "Architecture",
+    "tid": 1793536
+  },
+  "Adhikari, Sam": {
+    "name": "Adhikari, Sam",
+    "department": "Information Systems",
+    "tid": 1793760
+  },
+  "Haung, Haidong": {
+    "name": "Haung, Haidong",
+    "department": "Chemistry",
+    "tid": 1794061
+  },
+  "Ghoda, Ashish": {
+    "name": "Ghoda, Ashish",
+    "department": "Information Systems",
+    "tid": 1796684
+  },
+  "Polyakov, Yuriy": {
+    "name": "Polyakov, Yuriy",
+    "department": "Computer Science",
+    "tid": 1799581
+  },
+  "Kumar, Amit": {
+    "name": "Kumar, Amit",
+    "department": "Finance",
+    "tid": 1801678
+  },
+  "Garnior, Simon": {
+    "name": "Garnior, Simon",
+    "department": "Biology",
+    "tid": 1802873
+  },
+  "Crisonino, Virginia": {
+    "name": "Crisonino, Virginia",
+    "department": "Mathematics",
+    "tid": 1809369
+  },
+  "Sollazzo, Andrea": {
+    "name": "Sollazzo, Andrea",
+    "department": "Engineering",
+    "tid": 1810615
+  },
+  "Dias, Cristiano": {
+    "name": "Dias, Cristiano",
+    "department": "Physics",
+    "tid": 1810923
+  },
+  "Duan, Lian": {
+    "name": "Duan, Lian",
+    "department": "Information Systems",
+    "tid": 1813488
+  },
+  "Sinha, Atreyee": {
+    "name": "Sinha, Atreyee",
+    "department": "Computer Science",
+    "tid": 1814588
+  },
+  "Dupiano, Paul": {
+    "name": "Dupiano, Paul",
+    "department": "Physics",
+    "tid": 1815343
+  },
+  "Burgermaster, Mathew": {
+    "name": "Burgermaster, Mathew",
+    "department": "Architecture",
+    "tid": 1818831
+  },
+  "Hornsby, Michael": {
+    "name": "Hornsby, Michael",
+    "department": "Environmental Engineering",
+    "tid": 1819987
+  },
+  "Basistyy, Roman": {
+    "name": "Basistyy, Roman",
+    "department": "Physics",
+    "tid": 1821214
+  },
+  "Barry, Tom": {
+    "name": "Barry, Tom",
+    "department": "Architecture",
+    "tid": 1821406
+  },
+  "Thompson, Richard": {
+    "name": "Thompson, Richard",
+    "department": "Information Technology",
+    "tid": 1827498
+  },
+  "Dass, Ananya": {
+    "name": "Dass, Ananya",
+    "department": "Computer Science",
+    "tid": 1828649
+  },
+  "Haas, David": {
+    "name": "Haas, David",
+    "department": "Electrical Engineering",
+    "tid": 1829675
+  },
+  "Mohamed A, Salem": {
+    "name": "Mohamed A, Salem",
+    "department": "Electrical Engineering",
+    "tid": 1835318
+  },
+  "Welch, Kenneth": {
+    "name": "Welch, Kenneth",
+    "department": "Management",
+    "tid": 1842481
+  },
+  "Forusha, Mohebbi": {
+    "name": "Forusha, Mohebbi",
+    "department": "Mathematics",
+    "tid": 1844137
+  },
+  "Seonja, Kim": {
+    "name": "Seonja, Kim",
+    "department": "Mathematics",
+    "tid": 1845081
+  },
+  "Kmiec, David": {
+    "name": "Kmiec, David",
+    "department": "English",
+    "tid": 1845650
+  },
+  "Pitipatana, Sakarindr": {
+    "name": "Pitipatana, Sakarindr",
+    "department": "Electrical Engineering",
+    "tid": 1847126
+  },
+  "Barness, Yeheskel": {
+    "name": "Barness, Yeheskel",
+    "department": "Electrical Engineering",
+    "tid": 1847953
+  },
+  "Bandera, Cesar": {
+    "name": "Bandera, Cesar",
+    "department": "Management",
+    "tid": 1848030
+  },
+  "XU, Chao": {
+    "name": "XU, Chao",
+    "department": "Information Systems",
+    "tid": 1849474
+  },
+  "Spasovic, Lazar": {
+    "name": "Spasovic, Lazar",
+    "department": "Civil Engineering",
+    "tid": 1851226
+  },
+  "Hall, Clarence": {
+    "name": "Hall, Clarence",
+    "department": "History",
+    "tid": 1853526
+  },
+  "Mango, Christopher": {
+    "name": "Mango, Christopher",
+    "department": "Mathematics",
+    "tid": 1855483
+  },
+  "Stanik, Laura": {
+    "name": "Stanik, Laura",
+    "department": "Economics",
+    "tid": 1858350
+  },
+  "Thirumalainambi, Balavignesh": {
+    "name": "Thirumalainambi, Balavignesh",
+    "department": "Information Technology",
+    "tid": 1865304
+  },
+  "Wolf, John": { "name": "Wolf, John", "department": "STS", "tid": 1866420 },
+  "Pak, Charles": {
+    "name": "Pak, Charles",
+    "department": "Information Systems",
+    "tid": 1867758
+  },
+  "Brateris, Daniel": {
+    "name": "Brateris, Daniel",
+    "department": "Engineering",
+    "tid": 1868686
+  },
+  "Moran, Mary": {
+    "name": "Moran, Mary",
+    "department": "History",
+    "tid": 1870320
+  },
+  "Vanderbilt, Richard": {
+    "name": "Vanderbilt, Richard",
+    "department": "Engineering",
+    "tid": 2113520
+  },
+  "Rahimi, Kobra": {
+    "name": "Rahimi, Kobra",
+    "department": "Mathematics",
+    "tid": 1870627
+  },
+  "Bobee, Jobe": {
+    "name": "Bobee, Jobe",
+    "department": "Architecture",
+    "tid": 1871386
+  },
+  "Hossain, Shahadat": {
+    "name": "Hossain, Shahadat",
+    "department": "Mechanical Engineering",
+    "tid": 1873458
+  },
+  "Kang, Xuemei": {
+    "name": "Kang, Xuemei",
+    "department": "Physics",
+    "tid": 1875902
+  },
+  "Lecavalier, Jesse": {
+    "name": "Lecavalier, Jesse",
+    "department": "Architecture",
+    "tid": 1875965
+  },
+  "Haklar, James": {
+    "name": "Haklar, James",
+    "department": "Environmental Engineering",
+    "tid": 1876233
+  },
+  "Diekman, Casey": {
+    "name": "Diekman, Casey",
+    "department": "Mathematics",
+    "tid": 1876866
+  },
+  "Linedmans, Josh": {
+    "name": "Linedmans, Josh",
+    "department": "Architecture",
+    "tid": 1877702
+  },
+  "Xu, Songhua": {
+    "name": "Xu, Songhua",
+    "department": "Information Systems",
+    "tid": 1879325
+  },
+  "Lieber, Samuel": {
+    "name": "Lieber, Samuel",
+    "department": "Mechanical Engineering",
+    "tid": 1882229
+  },
+  "Kim, Sejona": {
+    "name": "Kim, Sejona",
+    "department": "Mathematics",
+    "tid": 1882946
+  },
+  "Ross, Jessica": {
+    "name": "Ross, Jessica",
+    "department": "Architecture",
+    "tid": 1884408
+  },
+  "Imura, Yuki": {
+    "name": "Imura, Yuki",
+    "department": "Biomedical",
+    "tid": 1887330
+  },
+  "Lefkowitz, Jeff": {
+    "name": "Lefkowitz, Jeff",
+    "department": "Management",
+    "tid": 1889134
+  },
+  "Wasserman, Evan": {
+    "name": "Wasserman, Evan",
+    "department": "Accounting",
+    "tid": 1890897
+  },
+  "Bhattacharya, Rianka": {
+    "name": "Bhattacharya, Rianka",
+    "department": "Mathematics",
+    "tid": 1891844
+  },
+  "Kutuk, Efe": {
+    "name": "Kutuk, Efe",
+    "department": "Architecture",
+    "tid": 1900295
+  },
+  "Nadimpalli, Siva": {
+    "name": "Nadimpalli, Siva",
+    "department": "Mechanical Engineering",
+    "tid": 1900524
+  },
+  "Shin, Jae": {
+    "name": "Shin, Jae",
+    "department": "Architecture",
+    "tid": 1901964
+  },
+  "Schuler, Richard": {
+    "name": "Schuler, Richard",
+    "department": "Information Systems",
+    "tid": 1902749
+  },
+  "Mishra, Durgamadhav": {
+    "name": "Mishra, Durgamadhav",
+    "department": "Electrical Engineering",
+    "tid": 1904003
+  },
+  "Zhen, BO": {
+    "name": "Zhen, BO",
+    "department": "Mathematics",
+    "tid": 1915497
+  },
+  "Lamsal, Chiranjivi": {
+    "name": "Lamsal, Chiranjivi",
+    "department": "Physics",
+    "tid": 1920140
+  },
+  "Nasello, Daniel": {
+    "name": "Nasello, Daniel",
+    "department": "Computer Science",
+    "tid": 1920887
+  },
+  "Guzman, Ivan": {
+    "name": "Guzman, Ivan",
+    "department": "Civil Engineering",
+    "tid": 1922441
+  },
+  "Rohafza, Ali": {
+    "name": "Rohafza, Ali",
+    "department": "Engineering",
+    "tid": 1926202
+  },
+  "Salehin, Khondaker": {
+    "name": "Salehin, Khondaker",
+    "department": "Electrical Engineering",
+    "tid": 1927950
+  },
+  "Fortune, Eric": {
+    "name": "Fortune, Eric",
+    "department": "Biology",
+    "tid": 1930511
+  },
+  "Ashrafuzzaman Khan, Mohammad ": {
+    "name": "Ashrafuzzaman Khan, Mohammad ",
+    "department": "Computer Science",
+    "tid": 1931707
+  },
+  "Schesser, Joel ": {
+    "name": "Schesser, Joel ",
+    "department": "Biomedical",
+    "tid": 1933579
+  },
+  "Michal, Matthew": {
+    "name": "Michal, Matthew",
+    "department": "Mathematics",
+    "tid": 1934125
+  },
+  "Hunt, Theresa ": {
+    "name": "Hunt, Theresa ",
+    "department": "Humanities",
+    "tid": 1934560
+  },
+  "Hamai, Crystal": {
+    "name": "Hamai, Crystal",
+    "department": "Humanities",
+    "tid": 1939864
+  },
+  "Schaefer , Richard": {
+    "name": "Schaefer , Richard",
+    "department": "Civil Engineering",
+    "tid": 1940086
+  },
+  "Kudyan, Hirayr": {
+    "name": "Kudyan, Hirayr",
+    "department": "Electrical Engineering",
+    "tid": 1952961
+  },
+  "Swanson, Terry": {
+    "name": "Swanson, Terry",
+    "department": "Mathematics",
+    "tid": 1954085
+  },
+  "Liu, Xuan": {
+    "name": "Liu, Xuan",
+    "department": "Electrical Engineering",
+    "tid": 1956251
+  },
+  "Mahoney, Brendan": {
+    "name": "Mahoney, Brendan",
+    "department": "Architecture",
+    "tid": 1957776
+  },
+  "Kwan, Maxine": {
+    "name": "Kwan, Maxine",
+    "department": "Biomedical",
+    "tid": 1964575
+  },
+  "Replogle , Daniel ": {
+    "name": "Replogle , Daniel ",
+    "department": "Mathematics",
+    "tid": 1965209
+  },
+  "Zytko, Douglas": {
+    "name": "Zytko, Douglas",
+    "department": "Information Systems",
+    "tid": 1966474
+  },
+  "Dorazio, Lucas": {
+    "name": "Dorazio, Lucas",
+    "department": "Chemical Engineering",
+    "tid": 1967349
+  },
+  "Gogos, Costas": {
+    "name": "Gogos, Costas",
+    "department": "Chemical Engineering",
+    "tid": 1967358
+  },
+  "Matthew Friedman, Matthew": {
+    "name": "Matthew Friedman, Matthew",
+    "department": "History",
+    "tid": 1967626
+  },
+  "Elkourdi, Tariq": {
+    "name": "Elkourdi, Tariq",
+    "department": "Electrical Engineering",
+    "tid": 1971904
+  },
+  "Lopes, Robert": {
+    "name": "Lopes, Robert",
+    "department": "Electrical Engineering",
+    "tid": 1971906
+  },
+  "Leiser, Randolph": {
+    "name": "Leiser, Randolph",
+    "department": "Mathematics",
+    "tid": 1979289
+  },
+  "Apigo, David": {
+    "name": "Apigo, David",
+    "department": "Physics",
+    "tid": 1982036
+  },
+  "Shuntong, Liu": {
+    "name": "Shuntong, Liu",
+    "department": "Information Technology",
+    "tid": 1983025
+  },
+  "Liu, Shuntong": {
+    "name": "Liu, Shuntong",
+    "department": "Information Technology",
+    "tid": 1983036
+  },
+  "Sandve, Eric": {
+    "name": "Sandve, Eric",
+    "department": "Humanities",
+    "tid": 1984274
+  },
+  "LaRosa, Anthony": {
+    "name": "LaRosa, Anthony",
+    "department": "Mechanical Engineering",
+    "tid": 1985205
+  },
+  "Mousa, Ahmed": {
+    "name": "Mousa, Ahmed",
+    "department": "Electrical Engineering",
+    "tid": 1990998
+  },
+  "Siemann, Catherine ": {
+    "name": "Siemann, Catherine ",
+    "department": "English",
+    "tid": 1993432
+  },
+  "Smith, Douglas": {
+    "name": "Smith, Douglas",
+    "department": "Civil Engineering",
+    "tid": 2113517
+  },
+  "Karnes, Jaime": {
+    "name": "Karnes, Jaime",
+    "department": "Humanities",
+    "tid": 1997500
+  },
+  "Reiss, Joel": {
+    "name": "Reiss, Joel",
+    "department": "Mechanical Engineering",
+    "tid": 1999165
+  },
+  "Scala, Victoria": {
+    "name": "Scala, Victoria",
+    "department": "Civil Engineering",
+    "tid": 1999386
+  },
+  "Palova , Lucia": {
+    "name": "Palova , Lucia",
+    "department": "Mathematics",
+    "tid": 2003847
+  },
+  "Lindemans, Aris": {
+    "name": "Lindemans, Aris",
+    "department": "Architecture",
+    "tid": 2006888
+  },
+  "Serkin, Denis": {
+    "name": "Serkin, Denis",
+    "department": "Engineering",
+    "tid": 2008159
+  },
+  "Rosen, Susan": {
+    "name": "Rosen, Susan",
+    "department": "Physical Education",
+    "tid": 2008162
+  },
+  "Kabakibi, Nabil": {
+    "name": "Kabakibi, Nabil",
+    "department": "Mathematics",
+    "tid": 2008168
+  },
+  "Roisenberg, Leon": {
+    "name": "Roisenberg, Leon",
+    "department": "Management",
+    "tid": 2010735
+  },
+  "Skop, Nolan": {
+    "name": "Skop, Nolan",
+    "department": "Biomedical",
+    "tid": 2013947
+  },
+  "Hebel, Graim": {
+    "name": "Hebel, Graim",
+    "department": "Electrical Engineering",
+    "tid": 2014991
+  },
+  "Liu, Sizhan": {
+    "name": "Liu, Sizhan",
+    "department": "Physics",
+    "tid": 2015764
+  },
+  "Miima, John": {
+    "name": "Miima, John",
+    "department": "Engineering",
+    "tid": 2015766
+  },
+  "Xu , Xiaoyang": {
+    "name": "Xu , Xiaoyang",
+    "department": "Chemical Engineering",
+    "tid": 2015906
+  },
+  "Sampson, Adesina": {
+    "name": "Sampson, Adesina",
+    "department": "Physical Education",
+    "tid": 2016389
+  },
+  "Chaudhary, Kshitiz": {
+    "name": "Chaudhary, Kshitiz",
+    "department": "Chemical Engineering",
+    "tid": 2017199
+  },
+  "Lau, Xinbo": {
+    "name": "Lau, Xinbo",
+    "department": "Chemistry",
+    "tid": 2017201
+  },
+  "Sanaei, Pejman": {
+    "name": "Sanaei, Pejman",
+    "department": "Mathematics",
+    "tid": 2017808
+  },
+  "Neches, Jason": {
+    "name": "Neches, Jason",
+    "department": "Architecture",
+    "tid": 2021513
+  },
+  "Yamada, Eunice": {
+    "name": "Yamada, Eunice",
+    "department": "Chemical Engineering",
+    "tid": 2025885
+  },
+  "Shen, Qiong": {
+    "name": "Shen, Qiong",
+    "department": "Electrical Engineering",
+    "tid": 2026796
+  },
+  "Delahoy, Alan": {
+    "name": "Delahoy, Alan",
+    "department": "Electrical Engineering",
+    "tid": 2031927
+  },
+  "Flory, Andrew": {
+    "name": "Flory, Andrew",
+    "department": "Civil Engineering",
+    "tid": 2032028
+  },
+  "Baptista, Rick": {
+    "name": "Baptista, Rick",
+    "department": "Civil Engineering",
+    "tid": 2034062
+  },
+  "Rosty, Roberta": {
+    "name": "Rosty, Roberta",
+    "department": "Chemical Engineering",
+    "tid": 2037323
+  },
+  "Pradyot, Patnaik": {
+    "name": "Pradyot, Patnaik",
+    "department": "Chemistry",
+    "tid": 2037621
+  },
+  "Lee, Frederick": {
+    "name": "Lee, Frederick",
+    "department": "Chemistry",
+    "tid": 2037763
+  },
+  "Al-Quzwini, Mahmoud ": {
+    "name": "Al-Quzwini, Mahmoud ",
+    "department": "Electrical Engineering",
+    "tid": 2038066
+  },
+  "Sarker, Mosharrof": {
+    "name": "Sarker, Mosharrof",
+    "department": "Mathematics",
+    "tid": 2038917
+  },
+  "Li, Sisi": {
+    "name": "Li, Sisi",
+    "department": "Engineering",
+    "tid": 2039433
+  },
+  "Thenua, Prat eek singh": {
+    "name": "Thenua, Prat eek singh",
+    "department": "Information Systems",
+    "tid": 2041144
+  },
+  "Thenua, Prateek Singh": {
+    "name": "Thenua, Prateek Singh",
+    "department": "Information Systems",
+    "tid": 2041148
+  },
+  "Shi, Jim": {
+    "name": "Shi, Jim",
+    "department": "Management",
+    "tid": 2043791
+  },
+  "Zhu, Linghua": {
+    "name": "Zhu, Linghua",
+    "department": "Physics",
+    "tid": 2043842
+  },
+  "belal, ahmed": {
+    "name": "belal, ahmed",
+    "department": "Engineering",
+    "tid": 2044664
+  },
+  "Varfolomiyev, Oleksiy": {
+    "name": "Varfolomiyev, Oleksiy",
+    "department": "Mathematics",
+    "tid": 2045596
+  },
+  "D'Arcangelis, Samuel": {
+    "name": "D'Arcangelis, Samuel",
+    "department": "Chemistry",
+    "tid": 2045873
+  },
+  "Collins, Regina": {
+    "name": "Collins, Regina",
+    "department": "Information Systems",
+    "tid": 2046869
+  },
+  "Makris, Georghios": {
+    "name": "Makris, Georghios",
+    "department": "Engineering",
+    "tid": 2048087
+  },
+  "Silber, Charles": {
+    "name": "Silber, Charles",
+    "department": "Mathematics",
+    "tid": 2049315
+  },
+  "Shah, Vatsal": {
+    "name": "Shah, Vatsal",
+    "department": "Civil Engineering",
+    "tid": 2049413
+  },
+  "Darnell, Michael": {
+    "name": "Darnell, Michael",
+    "department": "English",
+    "tid": 2050485
+  },
+  "Magou, George": {
+    "name": "Magou, George",
+    "department": "Biomedical",
+    "tid": 2052169
+  },
+  "Medl, Attila": {
+    "name": "Medl, Attila",
+    "department": "Mathematics",
+    "tid": 2054686
+  },
+  "Parmar, Davanjit": {
+    "name": "Parmar, Davanjit",
+    "department": "Mathematics",
+    "tid": 2054710
+  },
+  "Shiels, Brian": {
+    "name": "Shiels, Brian",
+    "department": "Civil Engineering",
+    "tid": 2055924
+  },
+  "Pagan, Roberto ": {
+    "name": "Pagan, Roberto ",
+    "department": "Physical Education",
+    "tid": 2057820
+  },
+  "Jeane, Johanna": {
+    "name": "Jeane, Johanna",
+    "department": "Humanities",
+    "tid": 2058011
+  },
+  "Dominguez, Alberto": {
+    "name": "Dominguez, Alberto",
+    "department": "Engineering",
+    "tid": 2061107
+  },
+  "Mungin, Rona": {
+    "name": "Mungin, Rona",
+    "department": "Humanities",
+    "tid": 2062674
+  },
+  "Racanelli, Joe ": {
+    "name": "Racanelli, Joe ",
+    "department": "Mechanical Engineering",
+    "tid": 2066762
+  },
+  "Fuller, Frank": {
+    "name": "Fuller, Frank",
+    "department": "History",
+    "tid": 2067098
+  },
+  "Zhu, Yuan": {
+    "name": "Zhu, Yuan",
+    "department": "Chemical Engineering",
+    "tid": 2068589
+  },
+  "Mashintonio, Andrew": {
+    "name": "Mashintonio, Andrew",
+    "department": "Biology",
+    "tid": 2069040
+  },
+  "Hare, Karen": {
+    "name": "Hare, Karen",
+    "department": "Computer Science",
+    "tid": 2070241
+  },
+  "Lee, Michael": {
+    "name": "Lee, Michael",
+    "department": "Information Systems",
+    "tid": 2070621
+  },
+  "Lu, Yaojie": {
+    "name": "Lu, Yaojie",
+    "department": "Electrical Engineering",
+    "tid": 2072161
+  },
+  "Andrzej, Zarzycki": {
+    "name": "Andrzej, Zarzycki",
+    "department": "Architecture",
+    "tid": 2074512
+  },
+  "Wendell, Augustus": {
+    "name": "Wendell, Augustus",
+    "department": "Architecture",
+    "tid": 2076476
+  },
+  "Jorjani, Jason": {
+    "name": "Jorjani, Jason",
+    "department": "STS",
+    "tid": 2076703
+  },
+  "Klee, Martin": {
+    "name": "Klee, Martin",
+    "department": "Mechanical Engineering",
+    "tid": 2076927
+  },
+  "Mao, Qian": { "name": "Mao, Qian", "department": "Finance", "tid": 2078603 },
+  "Creutz, Casey ": {
+    "name": "Creutz, Casey ",
+    "department": "Physical Education",
+    "tid": 2081107
+  },
+  "Nahata, Hans": {
+    "name": "Nahata, Hans",
+    "department": "Information Systems",
+    "tid": 2082737
+  },
+  "Radulescu, Condrut": {
+    "name": "Radulescu, Condrut",
+    "department": "Computer Science",
+    "tid": 2082866
+  },
+  "King, Carol": {
+    "name": "King, Carol",
+    "department": "Humanities",
+    "tid": 2084522
+  },
+  "zdepski, Michael": {
+    "name": "zdepski, Michael",
+    "department": "Architecture",
+    "tid": 2086068
+  },
+  "Kam, Moshe": {
+    "name": "Kam, Moshe",
+    "department": "Electrical Engineering",
+    "tid": 2090402
+  },
+  "McPartland, John": {
+    "name": "McPartland, John",
+    "department": "Information Systems",
+    "tid": 2090919
+  },
+  "Wang, Zhiqian": {
+    "name": "Wang, Zhiqian",
+    "department": "Chemistry",
+    "tid": 2092608
+  },
+  "Nazi, Ghassan": {
+    "name": "Nazi, Ghassan",
+    "department": "Mathematics",
+    "tid": 2093980
+  },
+  "Vaks, Leon": {
+    "name": "Vaks, Leon",
+    "department": "Information Technology",
+    "tid": 2093990
+  },
+  "Botros, Mina": {
+    "name": "Botros, Mina",
+    "department": "Engineering",
+    "tid": 2094494
+  },
+  "Yurkoski, Christopher": {
+    "name": "Yurkoski, Christopher",
+    "department": "Computer Science",
+    "tid": 2099414
+  },
+  "Sagnik, Basuray": {
+    "name": "Sagnik, Basuray",
+    "department": "Chemical Engineering",
+    "tid": 2101845
+  },
+  "Fang, Ming": {
+    "name": "Fang, Ming",
+    "department": "Accounting",
+    "tid": 2103243
+  },
+  "Khichi, Narendra": {
+    "name": "Khichi, Narendra",
+    "department": "STS",
+    "tid": 2103478
+  },
+  "Scott, Michele": {
+    "name": "Scott, Michele",
+    "department": "Management",
+    "tid": 2103483
+  },
+  "Peters, Marisol": {
+    "name": "Peters, Marisol",
+    "department": "Engineering",
+    "tid": 2105080
+  },
+  "DiQuollo, Philomena": {
+    "name": "DiQuollo, Philomena",
+    "department": "Engineering",
+    "tid": 2105090
+  },
+  "Riahi, Mohamed": {
+    "name": "Riahi, Mohamed",
+    "department": "Mathematics",
+    "tid": 2112456
+  },
+  "Williams, Aarin": {
+    "name": "Williams, Aarin",
+    "department": "Humanities",
+    "tid": 2112904
+  },
+  "Soares, Daphne": {
+    "name": "Soares, Daphne",
+    "department": "Biology",
+    "tid": 2112957
+  },
+  "Litvan, Yefim": {
+    "name": "Litvan, Yefim",
+    "department": "Physical Education",
+    "tid": 2113519
+  },
+  "Weitzer, Courtney": {
+    "name": "Weitzer, Courtney",
+    "department": "Mathematics",
+    "tid": 2115582
+  },
+  "Lee, Shu": {
+    "name": "Lee, Shu",
+    "department": "Computer Science",
+    "tid": 2117212
+  },
+  "Afemeku, Koku": {
+    "name": "Afemeku, Koku",
+    "department": "Mathematics",
+    "tid": 2119027
+  },
+  "Patel, Ankur": {
+    "name": "Patel, Ankur",
+    "department": "Civil Engineering",
+    "tid": 2120085
+  },
+  "Hatcher, Ian": {
+    "name": "Hatcher, Ian",
+    "department": "Communication",
+    "tid": 2122680
+  },
+  "Gailani, Gaffar": {
+    "name": "Gailani, Gaffar",
+    "department": "Mechanical Engineering",
+    "tid": 2123676
+  },
+  "Chen, Xin": { "name": "Chen, Xin", "department": "Physics", "tid": 2124441 },
+  "Helvacian, Nurhan": {
+    "name": "Helvacian, Nurhan",
+    "department": "Economics",
+    "tid": 2125199
+  },
+  "Van Cleef, Ronald": {
+    "name": "Van Cleef, Ronald",
+    "department": "History",
+    "tid": 2125204
+  },
+  "Ikhmeis, Sufian": {
+    "name": "Ikhmeis, Sufian",
+    "department": "Management",
+    "tid": 2126247
+  },
+  "Hsu, Donald": {
+    "name": "Hsu, Donald",
+    "department": "Computer Science",
+    "tid": 2130054
+  },
+  "Sandoval, Oscar": {
+    "name": "Sandoval, Oscar",
+    "department": "Computer Science",
+    "tid": 2131565
+  },
+  "George, Kevin": {
+    "name": "George, Kevin",
+    "department": "Computer Science",
+    "tid": 2133581
+  },
+  "Fox, Henry": {
+    "name": "Fox, Henry",
+    "department": "Civil Engineering",
+    "tid": 2136872
+  },
+  "Rodriquez, Jesus": {
+    "name": "Rodriquez, Jesus",
+    "department": "Mathematics",
+    "tid": 2137009
+  },
+  "Narahara, Taro": {
+    "name": "Narahara, Taro",
+    "department": "Architecture",
+    "tid": 2138775
+  },
+  "Mytalas, George": {
+    "name": "Mytalas, George",
+    "department": "Mathematics",
+    "tid": 2140407
+  },
+  "Diallo, Nafi": {
+    "name": "Diallo, Nafi",
+    "department": "Computer Science",
+    "tid": 2142327
+  },
+  "Wang, Antai": {
+    "name": "Wang, Antai",
+    "department": "Mathematics",
+    "tid": 2143301
+  },
+  "Jaraha, Fariba": {
+    "name": "Jaraha, Fariba",
+    "department": "Mathematics",
+    "tid": 2143305
+  },
+  "Zhu, Yalin": {
+    "name": "Zhu, Yalin",
+    "department": "Mathematics",
+    "tid": 2144112
+  },
+  "Hanna, Christopher": {
+    "name": "Hanna, Christopher",
+    "department": "Civil Engineering",
+    "tid": 2145094
+  },
+  "Dutta, Ashutosh": {
+    "name": "Dutta, Ashutosh",
+    "department": "Computer Science",
+    "tid": 2146028
+  },
+  "Agbakpe, Michael": {
+    "name": "Agbakpe, Michael",
+    "department": "Environmental Engineering",
+    "tid": 2146109
+  },
+  "Zhu, Wenjuan": {
+    "name": "Zhu, Wenjuan",
+    "department": "Mechanical Engineering",
+    "tid": 2146743
+  },
+  "Garis, Marina": {
+    "name": "Garis, Marina",
+    "department": "Chemical Engineering",
+    "tid": 2147858
+  },
+  "Decker, Martina": {
+    "name": "Decker, Martina",
+    "department": "Architecture",
+    "tid": 2149661
+  },
+  "Kliewer, Joerg": {
+    "name": "Kliewer, Joerg",
+    "department": "Electrical Engineering",
+    "tid": 2152525
+  },
+  "Alharbi, Emad": {
+    "name": "Alharbi, Emad",
+    "department": "Engineering",
+    "tid": 2154938
+  },
+  "Krishtal, Alisa": {
+    "name": "Krishtal, Alisa",
+    "department": "Chemistry",
+    "tid": 2154972
+  },
+  "Wang, Heng": {
+    "name": "Wang, Heng",
+    "department": "Chemistry",
+    "tid": 2157990
+  },
+  "Li, Mengyan": {
+    "name": "Li, Mengyan",
+    "department": "Environmental Science",
+    "tid": 2161319
+  },
+  "Bharali, Kannaki": {
+    "name": "Bharali, Kannaki",
+    "department": "Social Science",
+    "tid": 2163335
+  },
+  "Wynn, Kevin": {
+    "name": "Wynn, Kevin",
+    "department": "Civil Engineering",
+    "tid": 2167536
+  },
+  "Ahmadi, Mousa": {
+    "name": "Ahmadi, Mousa",
+    "department": "Information Systems",
+    "tid": 2168428
+  },
+  "Rao, Srihari Dasu": {
+    "name": "Rao, Srihari Dasu",
+    "department": "Information Systems",
+    "tid": 2168864
+  },
+  "L\u00f3pez-Dinardi, Marcelo": {
+    "name": "L\u00f3pez-Dinardi, Marcelo",
+    "department": "Architecture",
+    "tid": 2173271
+  },
+  "Thomas, Benjamin": {
+    "name": "Thomas, Benjamin",
+    "department": "Physics",
+    "tid": 2177489
+  },
+  "Gill, Lisa": {
+    "name": "Gill, Lisa",
+    "department": "History",
+    "tid": 2178001
+  },
+  "Koeneke, Conrad": {
+    "name": "Koeneke, Conrad",
+    "department": "Mechanical Engineering",
+    "tid": 2178003
+  },
+  "Rupel, Arthur": {
+    "name": "Rupel, Arthur",
+    "department": "Mathematics",
+    "tid": 2178258
+  },
+  "Kallas, Paul": {
+    "name": "Kallas, Paul",
+    "department": "Mathematics",
+    "tid": 2178731
+  },
+  "Robinson, Brandon": {
+    "name": "Robinson, Brandon",
+    "department": "English",
+    "tid": 2179439
+  },
+  "Schorr, Paul": {
+    "name": "Schorr, Paul",
+    "department": "Environmental Science",
+    "tid": 2180739
+  },
+  "Kholsa, Noopur": {
+    "name": "Kholsa, Noopur",
+    "department": "Mathematics",
+    "tid": 2181784
+  },
+  "Cui, Fangda": {
+    "name": "Cui, Fangda",
+    "department": "Mechanical Engineering",
+    "tid": 2182962
+  },
+  "Bagheri, Sima": {
+    "name": "Bagheri, Sima",
+    "department": "Civil Engineering",
+    "tid": 2183136
+  },
+  "deStefan, Andrew": {
+    "name": "deStefan, Andrew",
+    "department": "Mathematics",
+    "tid": 2183737
+  },
+  "Gribbin, John": {
+    "name": "Gribbin, John",
+    "department": "Mechanical Engineering",
+    "tid": 2185592
+  },
+  "Castro, Alfredo": {
+    "name": "Castro, Alfredo",
+    "department": "Chemistry",
+    "tid": 2186775
+  },
+  "Patel, Darshan": {
+    "name": "Patel, Darshan",
+    "department": "Architecture",
+    "tid": 2188092
+  },
+  "Harrison-Madu, Evadne": {
+    "name": "Harrison-Madu, Evadne",
+    "department": "Engineering",
+    "tid": 2189564
+  },
+  "McElrone, Susynne": {
+    "name": "McElrone, Susynne",
+    "department": "History",
+    "tid": 2190430
+  },
+  "Obuskovic, Gordana": {
+    "name": "Obuskovic, Gordana",
+    "department": "Chemical Engineering",
+    "tid": 2191297
+  },
+  "Bhuyian, Nasir Uddin": {
+    "name": "Bhuyian, Nasir Uddin",
+    "department": "Computer Science",
+    "tid": 2192381
+  },
+  "Radoff, Daniel": {
+    "name": "Radoff, Daniel",
+    "department": "Chemistry",
+    "tid": 2194216
+  },
+  "Roman, Max": {
+    "name": "Roman, Max",
+    "department": "Mechanical Engineering",
+    "tid": 833328
+  },
+  "Sood, Perneet": {
+    "name": "Sood, Perneet",
+    "department": "Mathematics",
+    "tid": 2197529
+  },
+  "Schaffer, Guy": {
+    "name": "Schaffer, Guy",
+    "department": "STS",
+    "tid": 2198727
+  },
+  "Lopez, Gonzalo": {
+    "name": "Lopez, Gonzalo",
+    "department": "Architecture",
+    "tid": 2205167
+  },
+  "Esmaili, Danial": {
+    "name": "Esmaili, Danial",
+    "department": "Civil Engineering",
+    "tid": 2210248
+  },
+  "Van Calbergh, Michael": {
+    "name": "Van Calbergh, Michael",
+    "department": "Humanities",
+    "tid": 2213225
+  },
+  "Farrow, Reginald": {
+    "name": "Farrow, Reginald",
+    "department": "Physics",
+    "tid": 2214303
+  },
+  "Hairullaev, Behruz": {
+    "name": "Hairullaev, Behruz",
+    "department": "Architecture",
+    "tid": 2215422
+  },
+  "Booth, Dorian": {
+    "name": "Booth, Dorian",
+    "department": "Architecture",
+    "tid": 2218125
+  },
+  "Mahinda, Edward": {
+    "name": "Mahinda, Edward",
+    "department": "Management",
+    "tid": 2219318
+  },
+  "Xi, Gu": {
+    "name": "Xi, Gu",
+    "department": "Mechanical Engineering",
+    "tid": 2220935
+  },
+  "Wohn, Yvette": {
+    "name": "Wohn, Yvette",
+    "department": "Information Systems",
+    "tid": 2222753
+  },
+  "Onal, Sevilay": {
+    "name": "Onal, Sevilay",
+    "department": "Mechanical Engineering",
+    "tid": 2226012
+  },
+  "Gloor, Guy": {
+    "name": "Gloor, Guy",
+    "department": "Chemical Engineering",
+    "tid": 2226547
+  },
+  "Wei, Yu Qian": {
+    "name": "Wei, Yu Qian",
+    "department": "Physics",
+    "tid": 2226724
+  },
+  "Dreizin, Ed": {
+    "name": "Dreizin, Ed",
+    "department": "Chemical Engineering",
+    "tid": 2227902
+  },
+  "Sabin, Derek": {
+    "name": "Sabin, Derek",
+    "department": "Social Science",
+    "tid": 2229238
+  },
+  "Datta, Dibakar": {
+    "name": "Datta, Dibakar",
+    "department": "Mechanical Engineering",
+    "tid": 2229587
+  },
+  "Zhang, Bo": {
+    "name": "Zhang, Bo",
+    "department": "Mechanical Engineering",
+    "tid": 2229588
+  },
+  "Conlon, Bradley": {
+    "name": "Conlon, Bradley",
+    "department": "Physical Education",
+    "tid": 2229590
+  },
+  "Kaif, Katrina": {
+    "name": "Kaif, Katrina",
+    "department": "Theater",
+    "tid": 2230051
+  },
+  "Flormann, Steven": {
+    "name": "Flormann, Steven",
+    "department": "Civil Engineering",
+    "tid": 2232081
+  },
+  "Gamarra, David": {
+    "name": "Gamarra, David",
+    "department": "Physics",
+    "tid": 2232120
+  },
+  "Haspel, Gal": {
+    "name": "Haspel, Gal",
+    "department": "Biology",
+    "tid": 2232423
+  },
+  "Farazi, Mohammadsaleh": {
+    "name": "Farazi, Mohammadsaleh",
+    "department": "Management",
+    "tid": 2235969
+  },
+  "Rogers, Mark": {
+    "name": "Rogers, Mark",
+    "department": "Mathematics",
+    "tid": 2236158
+  },
+  "Selsky, Michael": {
+    "name": "Selsky, Michael",
+    "department": "Computer Science",
+    "tid": 2236280
+  },
+  "Derector, Scott": {
+    "name": "Derector, Scott",
+    "department": "Civil Engineering",
+    "tid": 2237327
+  },
+  "Hesuan, Hu": {
+    "name": "Hesuan, Hu",
+    "department": "Electrical Engineering",
+    "tid": 2237502
+  },
+  "Kiris, Ilker": {
+    "name": "Kiris, Ilker",
+    "department": "Information Technology",
+    "tid": 2238883
+  },
+  "Bruckner, Jeff": {
+    "name": "Bruckner, Jeff",
+    "department": "Computer Science",
+    "tid": 2243817
+  },
+  "Fang, Yixin": {
+    "name": "Fang, Yixin",
+    "department": "Mathematics",
+    "tid": 2243915
+  },
+  "Roach, Karen": {
+    "name": "Roach, Karen",
+    "department": "Biology",
+    "tid": 2244160
+  },
+  "Tang, Qiang": {
+    "name": "Tang, Qiang",
+    "department": "Computer Science",
+    "tid": 2245075
+  },
+  "Cusack, Sean": {
+    "name": "Cusack, Sean",
+    "department": "Computer Science",
+    "tid": 2247199
+  },
+  "Mathur, Gur": {
+    "name": "Mathur, Gur",
+    "department": "Engineering",
+    "tid": 2250591
+  },
+  "Wu, Chase": {
+    "name": "Wu, Chase",
+    "department": "Computer Science",
+    "tid": 2251039
+  },
+  "Farazi, Saleh": {
+    "name": "Farazi, Saleh",
+    "department": "Management",
+    "tid": 2252036
+  },
+  "Martinez, Vicente": {
+    "name": "Martinez, Vicente",
+    "department": "Mathematics",
+    "tid": 2254614
+  },
+  "Romanov, Vasily": {
+    "name": "Romanov, Vasily",
+    "department": "Engineering",
+    "tid": 2255931
+  },
+  "Ishee, Suzanne": {
+    "name": "Ishee, Suzanne",
+    "department": "Theater",
+    "tid": 2259260
+  },
+  "Suasnabar, Erick": {
+    "name": "Suasnabar, Erick",
+    "department": "Information Systems",
+    "tid": 2259332
+  },
+  "Lee, JoYoung": {
+    "name": "Lee, JoYoung",
+    "department": "Civil Engineering",
+    "tid": 2260426
+  },
+  "Malindretos, John": {
+    "name": "Malindretos, John",
+    "department": "Finance",
+    "tid": 2262131
+  },
+  "Trischitta, Pat": {
+    "name": "Trischitta, Pat",
+    "department": "Engineering",
+    "tid": 2263307
+  },
+  "Zhang, Wen": {
+    "name": "Zhang, Wen",
+    "department": "Environmental Engineering",
+    "tid": 2264126
+  },
+  "Kosovichev, Alexander": {
+    "name": "Kosovichev, Alexander",
+    "department": "Physics",
+    "tid": 2266311
+  },
+  "Hodson, Thomas": {
+    "name": "Hodson, Thomas",
+    "department": "Economics",
+    "tid": 2268600
+  },
+  "Datta, Subha": {
+    "name": "Datta, Subha",
+    "department": "Mathematics",
+    "tid": 2271446
+  },
+  "Loh, Ji": { "name": "Loh, Ji", "department": "Mathematics", "tid": 2278913 },
+  "Chaudhuri, Ajit": {
+    "name": "Chaudhuri, Ajit",
+    "department": "Marketing",
+    "tid": 2094584
+  },
+  "Orama, Anlee": {
+    "name": "Orama, Anlee",
+    "department": "Engineering",
+    "tid": 2279642
+  },
+  "Feng, Linwan": {
+    "name": "Feng, Linwan",
+    "department": "Mathematics",
+    "tid": 2280181
+  },
+  "Saadeghvaziri, Mohamad": {
+    "name": "Saadeghvaziri, Mohamad",
+    "department": "Civil Engineering",
+    "tid": 2286271
+  },
+  "Bastawros, Monica": {
+    "name": "Bastawros, Monica",
+    "department": "Mechanical Engineering",
+    "tid": 2287934
+  },
+  "Bento, Lisa": {
+    "name": "Bento, Lisa",
+    "department": "Mathematics",
+    "tid": 2289133
+  },
+  "Hall, Judy": {
+    "name": "Hall, Judy",
+    "department": "Humanities",
+    "tid": 2291323
+  },
+  "Fischl-Kruger, Jennifer": {
+    "name": "Fischl-Kruger, Jennifer",
+    "department": "Humanities",
+    "tid": 2291744
+  },
+  "Kotzas, Gregory": {
+    "name": "Kotzas, Gregory",
+    "department": "Information Technology",
+    "tid": 2291753
+  },
+  "Hanna, Emad": {
+    "name": "Hanna, Emad",
+    "department": "English",
+    "tid": 2291920
+  },
+  "Padalkar, Samir": {
+    "name": "Padalkar, Samir",
+    "department": "Computer Science",
+    "tid": 2292665
+  },
+  "Moral, Rajib": {
+    "name": "Moral, Rajib",
+    "department": "Environmental Engineering",
+    "tid": 2298796
+  },
+  "Sykes, Ariel": {
+    "name": "Sykes, Ariel",
+    "department": "Humanities",
+    "tid": 2298814
+  },
+  "Nguyen, Hieu": {
+    "name": "Nguyen, Hieu",
+    "department": "Electrical Engineering",
+    "tid": 2303629
+  },
+  "Wang, Shaohua": {
+    "name": "Wang, Shaohua",
+    "department": "Information Systems",
+    "tid": 2307532
+  },
+  "Chen, Ssu Ying": {
+    "name": "Chen, Ssu Ying",
+    "department": "Physics",
+    "tid": 2308717
+  },
+  "Gies, Don": {
+    "name": "Gies, Don",
+    "department": "Electrical Engineering",
+    "tid": 2310200
+  },
+  "Raimondo, Anthony": {
+    "name": "Raimondo, Anthony",
+    "department": "English",
+    "tid": 2316924
+  },
+  "Boakye, Augustine": {
+    "name": "Boakye, Augustine",
+    "department": "Economics",
+    "tid": 2316927
+  },
+  "Kalyanaram, Gurumurthy": {
+    "name": "Kalyanaram, Gurumurthy",
+    "department": "Economics",
+    "tid": 2324154
+  },
+  "Narayanan, Puliyur": {
+    "name": "Narayanan, Puliyur",
+    "department": "Mathematics",
+    "tid": 2326290
+  },
+  "Wolodkowicz, Richard": {
+    "name": "Wolodkowicz, Richard",
+    "department": "Information Technology",
+    "tid": 2326945
+  },
+  "Saini, Vandana": {
+    "name": "Saini, Vandana",
+    "department": "Mathematics",
+    "tid": 2327184
+  },
+  "Avoryie, Abigail": {
+    "name": "Avoryie, Abigail",
+    "department": "Mechanical Engineering",
+    "tid": 2328082
+  },
+  "Hamfeldt, Brittany": {
+    "name": "Hamfeldt, Brittany",
+    "department": "Mathematics",
+    "tid": 2328372
+  },
+  "Shaik, Shaheda": {
+    "name": "Shaik, Shaheda",
+    "department": "Physics",
+    "tid": 2330219
+  },
+  "Habeel, Fady": {
+    "name": "Habeel, Fady",
+    "department": "Mechanical Engineering",
+    "tid": 2335742
+  },
+  "Maneshipour, Mohamed": {
+    "name": "Maneshipour, Mohamed",
+    "department": "Mechanical Engineering",
+    "tid": 2337230
+  },
+  "De La Cruz, Albert": {
+    "name": "De La Cruz, Albert",
+    "department": "Electrical Engineering",
+    "tid": 2340993
+  },
+  "Schwartz, Matthew": {
+    "name": "Schwartz, Matthew",
+    "department": "Architecture",
+    "tid": 2531681
+  },
+  "Liou, Che-Chen": {
+    "name": "Liou, Che-Chen",
+    "department": "Mathematics",
+    "tid": 2347081
+  },
+  "Hollberg, Benjamin": {
+    "name": "Hollberg, Benjamin",
+    "department": "Architecture",
+    "tid": 2351614
+  },
+  "Aly, Noor": {
+    "name": "Aly, Noor",
+    "department": "Mathematics",
+    "tid": 2355480
+  },
+  "Bogan, Rachel": {
+    "name": "Bogan, Rachel",
+    "department": "Social Science",
+    "tid": 2355797
+  },
+  "Barden, Phillip": {
+    "name": "Barden, Phillip",
+    "department": "Biology",
+    "tid": 2360574
+  },
+  "Miller, Thomas": {
+    "name": "Miller, Thomas",
+    "department": "Information Systems",
+    "tid": 2417520
+  },
+  "Bandegi, Mahdi": {
+    "name": "Bandegi, Mahdi",
+    "department": "Mathematics",
+    "tid": 2368063
+  },
+  "Zhao, Tinghan": {
+    "name": "Zhao, Tinghan",
+    "department": "Chemistry",
+    "tid": 2368539
+  },
+  "Kolarav, Alexander": {
+    "name": "Kolarav, Alexander",
+    "department": "Electrical Engineering",
+    "tid": 2371796
+  },
+  "Faison, Galen": {
+    "name": "Faison, Galen",
+    "department": "English",
+    "tid": 2373749
+  },
+  "Yan, Yong": {
+    "name": "Yan, Yong",
+    "department": "Chemistry",
+    "tid": 2373865
+  },
+  "Barnabei, Mark": {
+    "name": "Barnabei, Mark",
+    "department": "Information Systems",
+    "tid": 2376182
+  },
+  "Yu, Dantong": {
+    "name": "Yu, Dantong",
+    "department": "Information Systems",
+    "tid": 2376300
+  },
+  "Zhang, Shuangyi": {
+    "name": "Zhang, Shuangyi",
+    "department": "Civil Engineering",
+    "tid": 2376805
+  },
+  "DeBarros, Abilio": {
+    "name": "DeBarros, Abilio",
+    "department": "Mathematics",
+    "tid": 2376946
+  },
+  "Cheng, Maggie": {
+    "name": "Cheng, Maggie",
+    "department": "Management",
+    "tid": 2383762
+  },
+  "Liu, Rongfang (Rachel)": {
+    "name": "Liu, Rongfang (Rachel)",
+    "department": "Civil Engineering",
+    "tid": 2384938
+  },
+  "Adams, Matthew": {
+    "name": "Adams, Matthew",
+    "department": "Civil Engineering",
+    "tid": 2384951
+  },
+  "Besenski, Dejan": {
+    "name": "Besenski, Dejan",
+    "department": "Civil Engineering",
+    "tid": 2388386
+  },
+  "Rajan Philip, Moab": {
+    "name": "Rajan Philip, Moab",
+    "department": "Electrical Engineering",
+    "tid": 2388579
+  },
+  "Marras, Simone": {
+    "name": "Marras, Simone",
+    "department": "Mechanical Engineering",
+    "tid": 2391085
+  },
+  "Li, Jing": {
+    "name": "Li, Jing",
+    "department": "Computer Science",
+    "tid": 2395474
+  },
+  "Nunna, Bharath": {
+    "name": "Nunna, Bharath",
+    "department": "Mechanical Engineering",
+    "tid": 2396827
+  },
+  "Bosca, Nicole": {
+    "name": "Bosca, Nicole",
+    "department": "Humanities",
+    "tid": 2400202
+  },
+  "Moghani, Ali": {
+    "name": "Moghani, Ali",
+    "department": "Mathematics",
+    "tid": 2402301
+  },
+  "Friedmann, Michael": {
+    "name": "Friedmann, Michael",
+    "department": "Computer Science",
+    "tid": 2403566
+  },
+  "Ye, Qianwen": {
+    "name": "Ye, Qianwen",
+    "department": "Computer Science",
+    "tid": 2408255
+  },
+  "Koutis, Ioannis": {
+    "name": "Koutis, Ioannis",
+    "department": "Computer Science",
+    "tid": 2412298
+  },
+  "Gomez, Steven": {
+    "name": "Gomez, Steven",
+    "department": "Management",
+    "tid": 2413483
+  },
+  "Porus, Jonathan": {
+    "name": "Porus, Jonathan",
+    "department": "Mathematics",
+    "tid": 2413662
+  },
+  "Ferrante, Keith": {
+    "name": "Ferrante, Keith",
+    "department": "Mathematics",
+    "tid": 2414106
+  },
+  "Pope, Colin": {
+    "name": "Pope, Colin",
+    "department": "Computer Science",
+    "tid": 2414233
+  },
+  "Vinnikov, Rita": {
+    "name": "Vinnikov, Rita",
+    "department": "Information Technology",
+    "tid": 2414935
+  },
+  "Alikhani, Maryam": {
+    "name": "Alikhani, Maryam",
+    "department": "English",
+    "tid": 2416961
+  },
+  "Roessner, Chrissa": {
+    "name": "Roessner, Chrissa",
+    "department": "Civil Engineering",
+    "tid": 2417054
+  },
+  "Vernon, Henry": {
+    "name": "Vernon, Henry",
+    "department": "Mathematics",
+    "tid": 2417191
+  },
+  "Swanson, Daniel": {
+    "name": "Swanson, Daniel",
+    "department": "Engineering Technology",
+    "tid": 2418200
+  },
+  "Padamanaban, Munirathna": {
+    "name": "Padamanaban, Munirathna",
+    "department": "Chemistry",
+    "tid": 2424027
+  },
+  "Elele, Ezinwa": {
+    "name": "Elele, Ezinwa",
+    "department": "Chemical Engineering",
+    "tid": 2426519
+  },
+  "Callahan, Brian": {
+    "name": "Callahan, Brian",
+    "department": "Physical Education",
+    "tid": 2428453
+  },
+  "Hawkins, Randilynn": {
+    "name": "Hawkins, Randilynn",
+    "department": "Humanities",
+    "tid": 2533007
+  },
+  "Cheng, Wenting": {
+    "name": "Cheng, Wenting",
+    "department": "Physics",
+    "tid": 2431974
+  },
+  "Onyia, Ngozi": {
+    "name": "Onyia, Ngozi",
+    "department": "Chemistry",
+    "tid": 2434544
+  },
+  "Heap, Peter": {
+    "name": "Heap, Peter",
+    "department": "Mechanical Engineering",
+    "tid": 2435284
+  },
+  "Ye, Xinyue": {
+    "name": "Ye, Xinyue",
+    "department": "Information Systems",
+    "tid": 2435790
+  },
+  "Khan, Sardar": {
+    "name": "Khan, Sardar",
+    "department": "Mathematics",
+    "tid": 2440733
+  },
+  "Russell, Gareth": {
+    "name": "Russell, Gareth",
+    "department": "Biology",
+    "tid": 2447367
+  },
+  "Fidel, Howard": {
+    "name": "Fidel, Howard",
+    "department": "Biomedical",
+    "tid": 2449559
+  },
+  "Khan, Mohib": {
+    "name": "Khan, Mohib",
+    "department": "Mathematics",
+    "tid": 2449821
+  },
+  "Asch, Mark": {
+    "name": "Asch, Mark",
+    "department": "Humanities",
+    "tid": 2450081
+  },
+  "Grayson, Tanisha": {
+    "name": "Grayson, Tanisha",
+    "department": "Information Technology",
+    "tid": 2450520
+  },
+  "Guo, Xiwang": {
+    "name": "Guo, Xiwang",
+    "department": "Electrical Engineering",
+    "tid": 2452320
+  },
+  "Granitzki, Patrick": {
+    "name": "Granitzki, Patrick",
+    "department": "Civil Engineering",
+    "tid": 2452402
+  },
+  "Tao, Xinyuan (Stacie)": {
+    "name": "Tao, Xinyuan (Stacie)",
+    "department": "Finance",
+    "tid": 2453990
+  },
+  "Schworn, James": {
+    "name": "Schworn, James",
+    "department": "Management",
+    "tid": 2456810
+  },
+  "Pellegrino, Erin": {
+    "name": "Pellegrino, Erin",
+    "department": "Architecture",
+    "tid": 2458368
+  },
+  "Udin, Ajim": {
+    "name": "Udin, Ajim",
+    "department": "Information Systems",
+    "tid": 2459168
+  },
+  "Daudelin, David": {
+    "name": "Daudelin, David",
+    "department": "Information Technology",
+    "tid": 2459790
+  },
+  "Ballin, Jaclyn": {
+    "name": "Ballin, Jaclyn",
+    "department": "Mathematics",
+    "tid": 2460063
+  },
+  "Ackerman, Ryan": {
+    "name": "Ackerman, Ryan",
+    "department": "Computer Science",
+    "tid": 2460636
+  },
+  "Haim, Grebel": {
+    "name": "Haim, Grebel",
+    "department": "Electrical Engineering",
+    "tid": 2461366
+  },
+  "Sung, Sean": {
+    "name": "Sung, Sean",
+    "department": "Civil Engineering",
+    "tid": 2466045
+  },
+  "Tabanli, Sheila": {
+    "name": "Tabanli, Sheila",
+    "department": "Mathematics",
+    "tid": 2466734
+  },
+  "Hinton, Devoni": {
+    "name": "Hinton, Devoni",
+    "department": "Management",
+    "tid": 2470897
+  },
+  "Yun, Daqing": {
+    "name": "Yun, Daqing",
+    "department": "Computer Science",
+    "tid": 2473385
+  },
+  "Rabie, Mohammad": {
+    "name": "Rabie, Mohammad",
+    "department": "Electrical Engineering",
+    "tid": 1935018
+  },
+  "Patel, Tushar": {
+    "name": "Patel, Tushar",
+    "department": "Engineering Technology",
+    "tid": 2475199
+  },
+  "Liu, Yang": {
+    "name": "Liu, Yang",
+    "department": "Information Systems",
+    "tid": 2476130
+  },
+  "Zimmermann, William": {
+    "name": "Zimmermann, William",
+    "department": "Engineering",
+    "tid": 2477699
+  },
+  "Kapleau, Johnathan": {
+    "name": "Kapleau, Johnathan",
+    "department": "Computer Science",
+    "tid": 2477705
+  },
+  "Thompson, Bo": {
+    "name": "Thompson, Bo",
+    "department": "Information Technology",
+    "tid": 2479018
+  },
+  "Petrick, Elizabeth": {
+    "name": "Petrick, Elizabeth",
+    "department": "History",
+    "tid": 2479216
+  },
+  "Champagne, Pier": {
+    "name": "Champagne, Pier",
+    "department": "Chemistry",
+    "tid": 2481100
+  },
+  "Fresneda, Jorge": {
+    "name": "Fresneda, Jorge",
+    "department": "Marketing",
+    "tid": 2481888
+  },
+  "Kothari, Prakash": {
+    "name": "Kothari, Prakash",
+    "department": "Engineering",
+    "tid": 2484405
+  },
+  "Abdelazim, Mariam": {
+    "name": "Abdelazim, Mariam",
+    "department": "Architecture",
+    "tid": 2488360
+  },
+  "Verma, Neena": {
+    "name": "Verma, Neena",
+    "department": "Architecture",
+    "tid": 2488409
+  },
+  "Combs, Jacob": {
+    "name": "Combs, Jacob",
+    "department": "Information Technology",
+    "tid": 2488421
+  },
+  "Fisher, David": {
+    "name": "Fisher, David",
+    "department": "Science",
+    "tid": 2490910
+  },
+  "Subramanian, Naganathan": {
+    "name": "Subramanian, Naganathan",
+    "department": "Electrical Engineering",
+    "tid": 2491173
+  },
+  "Maximov, Max": {
+    "name": "Maximov, Max",
+    "department": "Chemical Engineering",
+    "tid": 2491203
+  },
+  "lutz, william": {
+    "name": "lutz, william",
+    "department": "Engineering",
+    "tid": 2491636
+  },
+  "Jin, Huiran": {
+    "name": "Jin, Huiran",
+    "department": "Engineering Technology",
+    "tid": 2494039
+  },
+  "Sadoh, Airefetalo": {
+    "name": "Sadoh, Airefetalo",
+    "department": "Physics",
+    "tid": 2494681
+  },
+  "Santos, Diogo": {
+    "name": "Santos, Diogo",
+    "department": "Civil Engineering",
+    "tid": 2495041
+  },
+  "Horwitz, Kennith": {
+    "name": "Horwitz, Kennith",
+    "department": "Mathematics",
+    "tid": 2500882
+  },
+  "Venkiteela, Giri": {
+    "name": "Venkiteela, Giri",
+    "department": "Civil Engineering",
+    "tid": 2501186
+  },
+  "Reid, Morgan": {
+    "name": "Reid, Morgan",
+    "department": "English",
+    "tid": 2514745
+  },
+  "Dowd, Sean": {
+    "name": "Dowd, Sean",
+    "department": "Freshman Seminar",
+    "tid": 2514746
+  },
+  "Crossan, Albert": {
+    "name": "Crossan, Albert",
+    "department": "Civil Engineering",
+    "tid": 2519618
+  },
+  "Pledger, Darnell": {
+    "name": "Pledger, Darnell",
+    "department": "Computer Science",
+    "tid": 2525943
+  },
+  "Naraine, Deoraj": {
+    "name": "Naraine, Deoraj",
+    "department": "Information Systems",
+    "tid": 2530095
+  },
+  "Miller, Bruce": {
+    "name": "Miller, Bruce",
+    "department": "Architecture",
+    "tid": 2530109
+  },
+  "Bhatambarekar, Prasad": {
+    "name": "Bhatambarekar, Prasad",
+    "department": "Mechanical Engineering",
+    "tid": 2531462
+  },
+  "Chen, Kim": {
+    "name": "Chen, Kim",
+    "department": "Humanities",
+    "tid": 2532512
+  },
+  "Marques, Karen": {
+    "name": "Marques, Karen",
+    "department": "Management",
+    "tid": 2532884
+  },
+  "Livingstone, Daniel": {
+    "name": "Livingstone, Daniel",
+    "department": "Information Technology",
+    "tid": 2535272
+  },
+  "Grieco, Caroline": {
+    "name": "Grieco, Caroline",
+    "department": "Architecture",
+    "tid": 2542371
+  },
+  "Kim, Hyojin": {
+    "name": "Kim, Hyojin",
+    "department": "Architecture",
+    "tid": 2546067
+  },
+  "Allaire, Ryan": {
+    "name": "Allaire, Ryan",
+    "department": "Mathematics",
+    "tid": 2546765
+  },
+  "Hamilton, Louis": {
+    "name": "Hamilton, Louis",
+    "department": "Humanities",
+    "tid": 2549028
+  },
+  "Seoudi, Amr": {
+    "name": "Seoudi, Amr",
+    "department": "Air Force Studies",
+    "tid": 2554480
+  },
+  "Devine, Thomas": {
+    "name": "Devine, Thomas",
+    "department": "Chemical Engineering",
+    "tid": 2556756
+  },
+  "Boufadel, Michel": {
+    "name": "Boufadel, Michel",
+    "department": "Civil Engineering",
+    "tid": 2558607
+  },
+  "Oza, Anand": {
+    "name": "Oza, Anand",
+    "department": "Mathematics",
+    "tid": 2560157
+  },
+  "Saleeb, Mina": {
+    "name": "Saleeb, Mina",
+    "department": "Engineering Technology",
+    "tid": 2560775
+  },
+  "Tukel, Oya": {
+    "name": "Tukel, Oya",
+    "department": "Management",
+    "tid": 2561408
+  },
+  "Karvelas, Dionissios": {
+    "name": "Karvelas, Dionissios",
+    "department": "Computer Science",
+    "tid": 2564506
+  },
+  "milano, geraldine": {
+    "name": "milano, geraldine",
+    "department": "Engineering Technology",
+    "tid": 2566265
+  },
+  "Lopes, Denise": {
+    "name": "Lopes, Denise",
+    "department": "Mathematics",
+    "tid": 2568244
+  },
+  "Qiang, Mao": {
+    "name": "Qiang, Mao",
+    "department": "Finance",
+    "tid": 2568554
+  },
+  "Shang, Zuofeng": {
+    "name": "Shang, Zuofeng",
+    "department": "Mathematics",
+    "tid": 2568599
+  },
+  "Ahmadi, Behzad": {
+    "name": "Ahmadi, Behzad",
+    "department": "Electrical Engineering",
+    "tid": 2571113
+  },
+  "Reaves, Jeffrey": {
+    "name": "Reaves, Jeffrey",
+    "department": "Engineering Technology",
+    "tid": 2572487
+  },
+  "Obaisi, Razan": {
+    "name": "Obaisi, Razan",
+    "department": "Mathematics",
+    "tid": 2572536
+  },
+  "Samiei, Kaveh": {
+    "name": "Samiei, Kaveh",
+    "department": "Architecture",
+    "tid": 2574741
+  },
+  "Riberio, Lillian": {
+    "name": "Riberio, Lillian",
+    "department": "Theater",
+    "tid": 2574908
+  },
+  "Wiszowaty, Piotr": {
+    "name": "Wiszowaty, Piotr",
+    "department": "Civil Engineering",
+    "tid": 2575263
+  },
+  "Rodriguez, Jose": {
+    "name": "Rodriguez, Jose",
+    "department": "Biomedical",
+    "tid": 2576069
+  },
+  "Kline, Sonam": {
+    "name": "Kline, Sonam",
+    "department": "STS",
+    "tid": 2576582
+  },
+  "Nelson, Monica": {
+    "name": "Nelson, Monica",
+    "department": "Computer Science",
+    "tid": 2582066
+  },
+  "Rubio, Roberto": {
+    "name": "Rubio, Roberto",
+    "department": "Computer Science",
+    "tid": 2596761
+  },
+  "Rodriguez-Freire, Lucia": {
+    "name": "Rodriguez-Freire, Lucia",
+    "department": "Environmental Engineering",
+    "tid": 2598856
+  },
+  "Ciancia, Andrew": {
+    "name": "Ciancia, Andrew",
+    "department": "Civil Engineering",
+    "tid": 2600332
+  },
+  "Mckendrick, Jeff": {
+    "name": "Mckendrick, Jeff",
+    "department": "Social Science",
+    "tid": 2610558
+  },
+  "Rubino, Roberto": {
+    "name": "Rubino, Roberto",
+    "department": "Computer Science",
+    "tid": 2615307
+  },
+  "Awad, Majd": {
+    "name": "Awad, Majd",
+    "department": "Engineering",
+    "tid": 2615519
+  },
+  "Aristilde, Evens": {
+    "name": "Aristilde, Evens",
+    "department": "Engineering",
+    "tid": 2616039
+  },
+  "Coppola, Michael": {
+    "name": "Coppola, Michael",
+    "department": "Humanities",
+    "tid": 2618540
+  },
+  "Dobrzanski, Christopher": {
+    "name": "Dobrzanski, Christopher",
+    "department": "Chemical Engineering",
+    "tid": 2619296
+  },
+  "Joshi, Digant": {
+    "name": "Joshi, Digant",
+    "department": "Computer Science",
+    "tid": 2621534
+  },
+  "Jackson, Marcelle": {
+    "name": "Jackson, Marcelle",
+    "department": "Freshman Seminar",
+    "tid": 2621661
+  },
+  "Baptista Pereira, Catarina": {
+    "name": "Baptista Pereira, Catarina",
+    "department": "Civil Engineering",
+    "tid": 2628721
+  },
+  "Liu, Yuexin": {
+    "name": "Liu, Yuexin",
+    "department": "Mathematics",
+    "tid": 2629764
+  },
+  "Azizi, Mohsen": {
+    "name": "Azizi, Mohsen",
+    "department": "Electrical Engineering",
+    "tid": 2636956
+  },
+  "Estebanez, Ana": {
+    "name": "Estebanez, Ana",
+    "department": "Architecture",
+    "tid": 2639843
+  },
+  "Haroon, Shaheer": {
+    "name": "Haroon, Shaheer",
+    "department": "Computer Science",
+    "tid": 2531480
+  },
+  "Carpinelli, John": {
+    "name": "Carpinelli, John",
+    "department": "Electrical Engineering",
+    "tid": 150029
+  },
+  "Feknous, Amira": {
+    "name": "Feknous, Amira",
+    "department": "Mathematics",
+    "tid": 2518991
+  },
+  "Scharf, Davida": {
+    "name": "Scharf, Davida",
+    "department": "English",
+    "tid": 2619664
+  },
+  "Elgammal, Muhammad": {
+    "name": "Elgammal, Muhammad",
+    "department": "Civil Engineering",
+    "tid": 2384946
+  },
+  "Rutkoff, Rebekah": {
+    "name": "Rutkoff, Rebekah",
+    "department": "English",
+    "tid": 2327390
+  },
+  "Tress, David": {
+    "name": "Tress, David",
+    "department": "Humanities",
+    "tid": 2533824
+  },
+  "Kein, Martha": {
+    "name": "Kein, Martha",
+    "department": "Humanities",
+    "tid": 2055591
+  },
+  "Eade, Angus": {
+    "name": "Eade, Angus",
+    "department": "Architecture",
+    "tid": 2376380
+  },
+  "Nissen, Bryan": {
+    "name": "Nissen, Bryan",
+    "department": "Computer Science",
+    "tid": 2360297
+  },
+  "Alkhoury, Ludvik": {
+    "name": "Alkhoury, Ludvik",
+    "department": "Engineering",
+    "tid": 2560619
+  },
+  "Fong, Chuck": {
+    "name": "Fong, Chuck",
+    "department": "Accounting",
+    "tid": 2053441
+  },
+  "Markson, Christopher": {
+    "name": "Markson, Christopher",
+    "department": "Information Systems",
+    "tid": 2402029
+  },
+  "Nersesian, Eric": {
+    "name": "Nersesian, Eric",
+    "department": "Information Technology",
+    "tid": 1795085
+  },
+  "Sengupta, Arijit": {
+    "name": "Sengupta, Arijit",
+    "department": "Mechanical Engineering",
+    "tid": 1515372
+  },
+  "Karvelas, Dionissios (Dennis)": {
+    "name": "Karvelas, Dionissios (Dennis)",
+    "department": "Computer Science",
+    "tid": 340005
+  },
+  "Gary, Dale": { "name": "Gary, Dale", "department": "Physics", "tid": 22415 },
+  "Egbelu, Pius": {
+    "name": "Egbelu, Pius",
+    "department": "Science",
+    "tid": 2294045
+  },
+  "Figueroa, Julio": {
+    "name": "Figueroa, Julio",
+    "department": "Architecture",
+    "tid": 18174
+  },
+  "Wecharatana, Methi": {
+    "name": "Wecharatana, Methi",
+    "department": "Civil Engineering",
+    "tid": 514136
+  },
+  "Ulenn, Chern": {
+    "name": "Ulenn, Chern",
+    "department": "Computer Science",
+    "tid": 2296918
+  },
+  "Banerjee, Debjani": {
+    "name": "Banerjee, Debjani",
+    "department": "Humanities",
+    "tid": 2640224
+  },
+  "Vijayan, Anil": {
+    "name": "Vijayan, Anil",
+    "department": "Finance",
+    "tid": 2647828
+  },
+  "Greenberg, Ronald": {
+    "name": "Greenberg, Ronald",
+    "department": "Management",
+    "tid": 2648013
+  },
+  "Parlac, Vera": {
+    "name": "Parlac, Vera",
+    "department": "Architecture",
+    "tid": 2616506
+  },
+  "Passaro , Victor": {
+    "name": "Passaro , Victor",
+    "department": "Hospitality",
+    "tid": 1984170
+  },
+  "Tchouassi, Lucie": {
+    "name": "Tchouassi, Lucie",
+    "department": "Mechanical Engineering",
+    "tid": 1773165
+  },
+  "Petropoulos, Peter": {
+    "name": "Petropoulos, Peter",
+    "department": "Mathematics",
+    "tid": 150016
+  },
+  "Zhang, Haisu": {
+    "name": "Zhang, Haisu",
+    "department": "Management",
+    "tid": 2061679
+  },
+  "Watson, Connor": {
+    "name": "Watson, Connor",
+    "department": "Computer Science",
+    "tid": 2408597
+  },
+  "Rapp, William": {
+    "name": "Rapp, William",
+    "department": "Management",
+    "tid": 177100
+  },
+  "Ayad, Amani": {
+    "name": "Ayad, Amani",
+    "department": "Computer Science",
+    "tid": 2636289
+  },
+  "Harp, Cleveland ": {
+    "name": "Harp, Cleveland ",
+    "department": "Architecture",
+    "tid": 1976308
+  },
+  "Von Koenig, Gretchen": {
+    "name": "Von Koenig, Gretchen",
+    "department": "Architecture",
+    "tid": 2291139
+  },
+  "Simon, Joshua": {
+    "name": "Simon, Joshua",
+    "department": "Biomedical",
+    "tid": 1375456
+  },
+  "Johnson, Carol": {
+    "name": "Johnson, Carol",
+    "department": "English",
+    "tid": 186560
+  },
+  "Georges, Penelope": {
+    "name": "Georges, Penelope",
+    "department": "Biomedical",
+    "tid": 2121873
+  },
+  "Jaramillo, Cesar": {
+    "name": "Jaramillo, Cesar",
+    "department": "Engineering",
+    "tid": 2191651
+  },
+  "Assadipour, Hussain": {
+    "name": "Assadipour, Hussain",
+    "department": "Engineering",
+    "tid": 164561
+  },
+  "Khalizov, Alexei": {
+    "name": "Khalizov, Alexei",
+    "department": "Chemistry",
+    "tid": 1897609
+  },
+  "Hussain, Chaudhery": {
+    "name": "Hussain, Chaudhery",
+    "department": "Chemistry",
+    "tid": 2323951
+  },
+  "Jayasuriya, Anuruddha": {
+    "name": "Jayasuriya, Anuruddha",
+    "department": "Civil Engineering",
+    "tid": 2610095
+  },
+  "Impiglia, Christopher": {
+    "name": "Impiglia, Christopher",
+    "department": "Humanities",
+    "tid": 2655206
+  },
+  "Curtmola, Reza": {
+    "name": "Curtmola, Reza",
+    "department": "Computer Science",
+    "tid": 1168809
+  },
+  "Martello-Firriolo, Linda": {
+    "name": "Martello-Firriolo, Linda",
+    "department": "Mathematics",
+    "tid": 2519800
+  },
+  "Balraj, Mani": {
+    "name": "Balraj, Mani",
+    "department": "Engineering",
+    "tid": 1639305
+  },
+  "Genoud, Adrien": {
+    "name": "Genoud, Adrien",
+    "department": "Physics",
+    "tid": 2568470
+  },
+  "Aranda, Victor": {
+    "name": "Aranda, Victor",
+    "department": "Mathematics",
+    "tid": 2166218
+  },
+  "Pal, Saikat": {
+    "name": "Pal, Saikat",
+    "department": "Biomedical",
+    "tid": 2338568
+  },
+  "Flammang-Lockyer, Brooke": {
+    "name": "Flammang-Lockyer, Brooke",
+    "department": "Biology",
+    "tid": 2557026
+  },
+  "Zdepski, Stephen": {
+    "name": "Zdepski, Stephen",
+    "department": "Architecture",
+    "tid": 126718
+  },
+  "May, Ed": { "name": "May, Ed", "department": "Architecture", "tid": 717878 },
+  "Plastock, Roy": {
+    "name": "Plastock, Roy",
+    "department": "Mathematics",
+    "tid": 77177
+  },
+  "Karnik, Ankush": {
+    "name": "Karnik, Ankush",
+    "department": "Mechanical Engineering",
+    "tid": 2328083
+  },
+  "McEnnis, Kathleen": {
+    "name": "McEnnis, Kathleen",
+    "department": "Chemical Engineering",
+    "tid": 2657790
+  },
+  "Will, Todd": {
+    "name": "Will, Todd",
+    "department": "Information Systems",
+    "tid": 1949253
+  },
+  "Das, Sanchoy": {
+    "name": "Das, Sanchoy",
+    "department": "Engineering",
+    "tid": 103305
+  },
+  "Shneidman, Vitaly": {
+    "name": "Shneidman, Vitaly",
+    "department": "Physics",
+    "tid": 376371
+  },
+  "Bouri, Abdel": {
+    "name": "Bouri, Abdel",
+    "department": "Mathematics",
+    "tid": 2628790
+  },
+  "Sadik, Omuwunmi": {
+    "name": "Sadik, Omuwunmi",
+    "department": "Chemistry",
+    "tid": 2598864
+  },
+  "Iltuzer, Servet": {
+    "name": "Iltuzer, Servet",
+    "department": "Mathematics",
+    "tid": 2540409
+  },
+  "Heuer, Ava": {
+    "name": "Heuer, Ava",
+    "department": "Management",
+    "tid": 991638
+  },
+  "Fjermestad, Jerry": {
+    "name": "Fjermestad, Jerry",
+    "department": "Management",
+    "tid": 343786
+  },
+  "Yavich, Dmitry": {
+    "name": "Yavich, Dmitry",
+    "department": "Mechanical Engineering",
+    "tid": 2270173
+  },
+  "Rothenberg, David": {
+    "name": "Rothenberg, David",
+    "department": "STS",
+    "tid": 90259
+  },
+  "Schesser, Joel": {
+    "name": "Schesser, Joel",
+    "department": "Engineering",
+    "tid": 300119
+  },
+  "Biswal, Bharat": {
+    "name": "Biswal, Bharat",
+    "department": "Biomedical",
+    "tid": 1986630
+  },
+  "Collins, George": {
+    "name": "Collins, George",
+    "department": "Biomedical",
+    "tid": 804027
+  },
+  "Lewars Esther, Esther": {
+    "name": "Lewars Esther, Esther",
+    "department": "Information Systems",
+    "tid": 2378651
+  },
+  "Ge, Hongya": {
+    "name": "Ge, Hongya",
+    "department": "Electrical Engineering",
+    "tid": 466162
+  },
+  "McHugh, James": {
+    "name": "McHugh, James",
+    "department": "Computer Science",
+    "tid": 93936
+  },
+  "Portelli, Charles": {
+    "name": "Portelli, Charles",
+    "department": "Architecture",
+    "tid": 2149660
+  },
+  "Gerrard, Andrew": {
+    "name": "Gerrard, Andrew",
+    "department": "Physics",
+    "tid": 888326
+  },
+  "Zhang, Yuanwei": {
+    "name": "Zhang, Yuanwei",
+    "department": "Chemistry",
+    "tid": 2211322
+  },
+  "MacLaurin, James": {
+    "name": "MacLaurin, James",
+    "department": "Mathematics",
+    "tid": 2659935
+  },
+  "Lee, Eon": {
+    "name": "Lee, Eon",
+    "department": "Mechanical Engineering",
+    "tid": 1849718
+  },
+  "Singh, Pushpendra": {
+    "name": "Singh, Pushpendra",
+    "department": "Engineering",
+    "tid": 379511
+  },
+  "Waters, Robert": {
+    "name": "Waters, Robert",
+    "department": "STS",
+    "tid": 2649550
+  },
+  "Levine, Derek": {
+    "name": "Levine, Derek",
+    "department": "STS",
+    "tid": 2659361
+  },
+  "Cohen, Barry": {
+    "name": "Cohen, Barry",
+    "department": "Computer Science",
+    "tid": 251592
+  },
+  "Ullman, David": {
+    "name": "Ullman, David",
+    "department": "Information Systems",
+    "tid": 341377
+  },
+  "Azeez, Bhavnagarwala": {
+    "name": "Azeez, Bhavnagarwala",
+    "department": "Electrical Engineering",
+    "tid": 2480202
+  },
+  "Thompson, Ulysee": {
+    "name": "Thompson, Ulysee",
+    "department": "Information Technology",
+    "tid": 2598337
+  },
+  "Mayo, John": {
+    "name": "Mayo, John",
+    "department": "Civil Engineering",
+    "tid": 2247546
+  },
+  "Riegel, Matthew": {
+    "name": "Riegel, Matthew",
+    "department": "Civil Engineering",
+    "tid": 542270
+  },
+  "Chien, Steven": {
+    "name": "Chien, Steven",
+    "department": "Civil Engineering",
+    "tid": 159672
+  },
+  "Schieber, Baruch": {
+    "name": "Schieber, Baruch",
+    "department": "Computer Science",
+    "tid": 2417218
+  },
+  "Rao, I Joga": {
+    "name": "Rao, I Joga",
+    "department": "Mechanical Engineering",
+    "tid": 130268
+  },
+  "Zhu, Chao": {
+    "name": "Zhu, Chao",
+    "department": "Mechanical Engineering",
+    "tid": 802544
+  },
+  "Esperdy, Gabrielle": {
+    "name": "Esperdy, Gabrielle",
+    "department": "Architecture",
+    "tid": 18176
+  },
+  "Ahmadpoor, Fatemeh": {
+    "name": "Ahmadpoor, Fatemeh",
+    "department": "Mechanical Engineering",
+    "tid": 2542913
+  },
+  "Guo, Wenge": {
+    "name": "Guo, Wenge",
+    "department": "Mathematics",
+    "tid": 2401859
+  },
+  "Wang, Guiling": {
+    "name": "Wang, Guiling",
+    "department": "Computer Science",
+    "tid": 1021511
+  },
+  "Kehoe, Donald": {
+    "name": "Kehoe, Donald",
+    "department": "Information Technology",
+    "tid": 703923
+  },
+  "Yobbi, Margaret": {
+    "name": "Yobbi, Margaret",
+    "department": "Humanities",
+    "tid": 1055655
+  },
+  "Phan, Hai": {
+    "name": "Phan, Hai",
+    "department": "Information Systems",
+    "tid": 2231868
+  },
+  "Gulotta, Miriam": {
+    "name": "Gulotta, Miriam",
+    "department": "Chemistry",
+    "tid": 1980031
+  },
+  "Moon, Swapnil": {
+    "name": "Moon, Swapnil",
+    "department": "Mechanical Engineering",
+    "tid": 2229589
+  },
+  "Sun, Yixuan": {
+    "name": "Sun, Yixuan",
+    "department": "Mathematics",
+    "tid": 2620317
+  },
+  "Eberhart, Michael": {
+    "name": "Eberhart, Michael",
+    "department": "Chemistry",
+    "tid": 2659840
+  },
+  "Abichandani, Pramod": {
+    "name": "Abichandani, Pramod",
+    "department": "Engineering Technology",
+    "tid": 2488076
+  },
+  "Summerfield, Trevor": {
+    "name": "Summerfield, Trevor",
+    "department": "Computer Science",
+    "tid": 2246331
+  },
+  "Kountouras, Harry": {
+    "name": "Kountouras, Harry",
+    "department": "Engineering",
+    "tid": 129235
+  },
+  "DePaolo, Patrick": {
+    "name": "DePaolo, Patrick",
+    "department": "Chemistry",
+    "tid": 2664704
+  },
+  "Balasubramanian, Bhavani": {
+    "name": "Balasubramanian, Bhavani",
+    "department": "Chemistry",
+    "tid": 1313357
+  },
+  "Cao, Wenda": {
+    "name": "Cao, Wenda",
+    "department": "Physics",
+    "tid": 1120016
+  },
+  "Khusid, Boris": {
+    "name": "Khusid, Boris",
+    "department": "Chemical Engineering",
+    "tid": 2665058
+  },
+  "Peterson, Laura": {
+    "name": "Peterson, Laura",
+    "department": "Architecture",
+    "tid": 2663748
+  },
+  "Askham, Travis": {
+    "name": "Askham, Travis",
+    "department": "Mathematics",
+    "tid": 2665292
+  },
+  "Sollohub, Darius": {
+    "name": "Sollohub, Darius",
+    "department": "Architecture",
+    "tid": 18175
+  },
+  "Hofmann, Kevin": {
+    "name": "Hofmann, Kevin",
+    "department": "Architecture",
+    "tid": 2401875
+  },
+  "Thomson, Susan": {
+    "name": "Thomson, Susan",
+    "department": "Computer Science",
+    "tid": 2242299
+  },
+  "Cherrey, Matthew": {
+    "name": "Cherrey, Matthew",
+    "department": "Computer Science",
+    "tid": 2656825
+  },
+  "Rengesh, Sresht": {
+    "name": "Rengesh, Sresht",
+    "department": "Computer Science",
+    "tid": 2571973
+  },
+  "Wurch, John": {
+    "name": "Wurch, John",
+    "department": "Management",
+    "tid": 2665963
+  },
+  "Sodhi, Jaskirat ": {
+    "name": "Sodhi, Jaskirat ",
+    "department": "Mechanical Engineering",
+    "tid": 1932123
+  },
+  "Flax, Amy": {
+    "name": "Flax, Amy",
+    "department": "Mathematics",
+    "tid": 2630607
+  },
+  "Kim, Hyomin": {
+    "name": "Kim, Hyomin",
+    "department": "Physics",
+    "tid": 2559892
+  },
+  "Zaleski, Joseph": {
+    "name": "Zaleski, Joseph",
+    "department": "Mathematics",
+    "tid": 63756
+  },
+  "Tyson, Trevor": {
+    "name": "Tyson, Trevor",
+    "department": "Physics",
+    "tid": 457212
+  },
+  "Jones, Chloe": {
+    "name": "Jones, Chloe",
+    "department": "Humanities",
+    "tid": 2303909
+  },
+  "Tyrol, Katherine (Kate)": {
+    "name": "Tyrol, Katherine (Kate)",
+    "department": "Humanities",
+    "tid": 2478709
+  },
+  "Wynter, Lionel": {
+    "name": "Wynter, Lionel",
+    "department": "Humanities",
+    "tid": 1072353
+  },
+  "McCann, William": {
+    "name": "McCann, William",
+    "department": "Computer Science",
+    "tid": 2644606
+  },
+  "Tsipenyuk, Natalya": {
+    "name": "Tsipenyuk, Natalya",
+    "department": "Mathematics",
+    "tid": 2158279
+  },
+  "Velez, Vanessa": {
+    "name": "Velez, Vanessa",
+    "department": "Humanities",
+    "tid": 2586809
+  },
+  "Tian, Jie": {
+    "name": "Tian, Jie",
+    "department": "Computer Science",
+    "tid": 2666962
+  },
+  "Davis, Joshua": {
+    "name": "Davis, Joshua",
+    "department": "Mathematics",
+    "tid": 2417541
+  },
+  "Butherus, Alexander": {
+    "name": "Butherus, Alexander",
+    "department": "Chemistry",
+    "tid": 482622
+  },
+  "Golon, Frank": {
+    "name": "Golon, Frank",
+    "department": "Civil Engineering",
+    "tid": 2316925
+  },
+  "Shih, Frank": {
+    "name": "Shih, Frank",
+    "department": "Computer Science",
+    "tid": 244534
+  },
+  "Gorelick, Risa": {
+    "name": "Gorelick, Risa",
+    "department": "Humanities",
+    "tid": 2328201
+  },
+  "Uddin, Ajim": {
+    "name": "Uddin, Ajim",
+    "department": "Management",
+    "tid": 2550454
+  },
+  "Petursson, Svanur": {
+    "name": "Petursson, Svanur",
+    "department": "History",
+    "tid": 2225561
+  },
+  "Arnette, Jenissa": {
+    "name": "Arnette, Jenissa",
+    "department": "Mathematics",
+    "tid": 2599458
+  },
+  "Mahmood, Sirag": {
+    "name": "Mahmood, Sirag",
+    "department": "Mathematics",
+    "tid": 2371464
+  },
+  "Peltekov, Ivaylo": {
+    "name": "Peltekov, Ivaylo",
+    "department": "Mathematics",
+    "tid": 2458346
+  },
+  "Kent, Scott": {
+    "name": "Kent, Scott",
+    "department": "History",
+    "tid": 1511753
+  },
+  "Narh, Kwabena A.": {
+    "name": "Narh, Kwabena A.",
+    "department": "Mechanical Engineering",
+    "tid": 264088
+  },
+  "Chester, Shawn": {
+    "name": "Chester, Shawn",
+    "department": "Mechanical Engineering",
+    "tid": 2002442
+  },
+  "Statica, Robert": {
+    "name": "Statica, Robert",
+    "department": "Information Technology",
+    "tid": 77145
+  },
+  "Basu, Soumyadeep": {
+    "name": "Basu, Soumyadeep",
+    "department": "Computer Science",
+    "tid": 2530953
+  },
+  "Savir, Jacob": {
+    "name": "Savir, Jacob",
+    "department": "Engineering",
+    "tid": 17516
+  },
+  "Baldwin, Ryan": {
+    "name": "Baldwin, Ryan",
+    "department": "Freshman Seminar",
+    "tid": 2441794
+  },
+  "Bell, Michele": {
+    "name": "Bell, Michele",
+    "department": "Communication",
+    "tid": 2571975
+  },
+  "Zhao, Yan": {
+    "name": "Zhao, Yan",
+    "department": "Management",
+    "tid": 2672256
+  },
+  "Oton, Chanda-Louise": {
+    "name": "Oton, Chanda-Louise",
+    "department": "Mathematics",
+    "tid": 2573960
+  },
+  "Cummings, Linda": {
+    "name": "Cummings, Linda",
+    "department": "Mathematics",
+    "tid": 1330900
+  },
+  "Desai, Darshan": {
+    "name": "Desai, Darshan",
+    "department": "Biology",
+    "tid": 1461942
+  },
+  "Soltis, Jolanta": {
+    "name": "Soltis, Jolanta",
+    "department": "Engineering",
+    "tid": 951276
+  },
+  "Blender, Roberta": {
+    "name": "Blender, Roberta",
+    "department": "Humanities",
+    "tid": 2614699
+  },
+  "Morrison-Santana, Deborah": {
+    "name": "Morrison-Santana, Deborah",
+    "department": "History",
+    "tid": 2091538
+  },
+  "Esche, John N": {
+    "name": "Esche, John N",
+    "department": "Humanities",
+    "tid": 1468648
+  },
+  "Zeugin, Michael": {
+    "name": "Zeugin, Michael",
+    "department": "Communication",
+    "tid": 955321
+  },
+  "Meng, Xianyang": {
+    "name": "Meng, Xianyang",
+    "department": "Chemistry",
+    "tid": 2640275
+  },
+  "Kirova, Vassilka": {
+    "name": "Kirova, Vassilka",
+    "department": "Information Systems",
+    "tid": 617729
+  },
+  "Muratov, Cyrill": {
+    "name": "Muratov, Cyrill",
+    "department": "Mathematics",
+    "tid": 2675008
+  },
+  "Lapatka, Allison": {
+    "name": "Lapatka, Allison",
+    "department": "Civil Engineering",
+    "tid": 1820776
+  },
+  "Kelly, Rudy": {
+    "name": "Kelly, Rudy",
+    "department": "Mathematics",
+    "tid": 1095856
+  },
+  "Eljabiri, Osama": {
+    "name": "Eljabiri, Osama",
+    "department": "Information Systems",
+    "tid": 79985
+  },
+  "Khichi, Neel": {
+    "name": "Khichi, Neel",
+    "department": "Social Science",
+    "tid": 1659437
+  },
+  "Casarella, Jerry": {
+    "name": "Casarella, Jerry",
+    "department": "Information Systems",
+    "tid": 1678210
+  },
+  "Dey, Gangotri": {
+    "name": "Dey, Gangotri",
+    "department": "Chemistry",
+    "tid": 2530258
+  },
+  "Taher, Rima": {
+    "name": "Taher, Rima",
+    "department": "Architecture",
+    "tid": 258753
+  },
+  "Somers, Mark": {
+    "name": "Somers, Mark",
+    "department": "Management",
+    "tid": 845882
+  },
+  "Porcello, Zachary": {
+    "name": "Porcello, Zachary",
+    "department": "Engineering Technology",
+    "tid": 2565666
+  },
+  "Jiang, Haodi": {
+    "name": "Jiang, Haodi",
+    "department": "Computer Science",
+    "tid": 2288501
+  },
+  "Manzhura, Oksana": {
+    "name": "Manzhura, Oksana",
+    "department": "Electrical Engineering",
+    "tid": 1558484
+  },
+  "Navin, Thomas": {
+    "name": "Navin, Thomas",
+    "department": "Architecture",
+    "tid": 158628
+  },
+  "Wilson, Gabriela": {
+    "name": "Wilson, Gabriela",
+    "department": "English",
+    "tid": 2537564
+  },
+  "Parasnis, Narasinha": {
+    "name": "Parasnis, Narasinha",
+    "department": "Mechanical Engineering",
+    "tid": 2683985
+  },
+  "Levkov, Serhiy": {
+    "name": "Levkov, Serhiy",
+    "department": "Electrical Engineering",
+    "tid": 252161
+  },
+  "Devan, Caroline": {
+    "name": "Devan, Caroline",
+    "department": "Biology",
+    "tid": 2101397
+  },
+  "Gund, Tamara": {
+    "name": "Gund, Tamara",
+    "department": "Chemistry",
+    "tid": 245686
+  },
+  "Roshan, Usman": {
+    "name": "Roshan, Usman",
+    "department": "Computer Science",
+    "tid": 648433
+  },
+  "Jamedar, Fariborz": {
+    "name": "Jamedar, Fariborz",
+    "department": "Mechanical Engineering",
+    "tid": 573092
+  },
+  "Federici, John": {
+    "name": "Federici, John",
+    "department": "Physics",
+    "tid": 103533
+  },
+  "Abbasi, Syed": {
+    "name": "Abbasi, Syed",
+    "department": "Computer Science",
+    "tid": 2378135
+  },
+  "Nair, Sudha": {
+    "name": "Nair, Sudha",
+    "department": "Mathematics",
+    "tid": 2348706
+  },
+  "Pavlick, Daniel": {
+    "name": "Pavlick, Daniel",
+    "department": "Computer Science",
+    "tid": 2278928
+  },
+  "Bernstein, Larry": {
+    "name": "Bernstein, Larry",
+    "department": "Humanities",
+    "tid": 2685354
+  },
+  "Henry, Vernon": {
+    "name": "Henry, Vernon",
+    "department": "Physics",
+    "tid": 2685363
+  },
+  "Pople, Laura": {
+    "name": "Pople, Laura",
+    "department": "STS",
+    "tid": 2586943
+  },
+  "Thomas, Gordon": {
+    "name": "Thomas, Gordon",
+    "department": "Physics",
+    "tid": 341604
+  },
+  "Tolboom, Ryan": {
+    "name": "Tolboom, Ryan",
+    "department": "Information Technology",
+    "tid": 2337780
+  },
+  "Yannakakis, Paloma": {
+    "name": "Yannakakis, Paloma",
+    "department": "Humanities",
+    "tid": 2653531
+  },
+  "Guarino, Christopher": {
+    "name": "Guarino, Christopher",
+    "department": "STS",
+    "tid": 2685340
+  },
+  "Alptekin, Sener": {
+    "name": "Alptekin, Sener",
+    "department": "Mathematics",
+    "tid": 2515164
+  },
+  "Erdi, Alev": {
+    "name": "Erdi, Alev",
+    "department": "Biomedical",
+    "tid": 1821971
+  },
+  "Shen, Yao": {
+    "name": "Shen, Yao",
+    "department": "Computer Science",
+    "tid": 2517130
+  },
+  "Slovis, Jake": {
+    "name": "Slovis, Jake",
+    "department": "English",
+    "tid": 2423011
+  },
+  "Murthy, Rishya": {
+    "name": "Murthy, Rishya",
+    "department": "Physics",
+    "tid": 2640483
+  },
+  "Campanella, Ryan": {
+    "name": "Campanella, Ryan",
+    "department": "Computer Science",
+    "tid": 2679559
+  },
+  "Ahn, Keun Hyuk": {
+    "name": "Ahn, Keun Hyuk",
+    "department": "Physics",
+    "tid": 1088969
+  },
+  "Pacheco, Carlos": {
+    "name": "Pacheco, Carlos",
+    "department": "Chemistry",
+    "tid": 2619888
+  },
+  "Beshay, Joseph": {
+    "name": "Beshay, Joseph",
+    "department": "Engineering Technology",
+    "tid": 2588492
+  },
+  "Apatoff, Benjamin": {
+    "name": "Apatoff, Benjamin",
+    "department": "Humanities",
+    "tid": 2469467
+  },
+  "Daher, Salam": {
+    "name": "Daher, Salam",
+    "department": "Information Technology",
+    "tid": 2526618
+  },
+  "Felberbaum, Arnold": {
+    "name": "Felberbaum, Arnold",
+    "department": "Information Technology",
+    "tid": 2284585
+  },
+  "Chen, Bin": { "name": "Chen, Bin", "department": "Physics", "tid": 2414274 },
+  "Jerez, Andres": {
+    "name": "Jerez, Andres",
+    "department": "Physics",
+    "tid": 1114798
+  },
+  "Naik, Abhishek": {
+    "name": "Naik, Abhishek",
+    "department": "Computer Science",
+    "tid": 2169210
+  },
+  "Occhifinto, Nicholas J": {
+    "name": "Occhifinto, Nicholas J",
+    "department": "Accounting",
+    "tid": 1707595
+  },
+  "Gatley, Ian": {
+    "name": "Gatley, Ian",
+    "department": "Physics",
+    "tid": 2023593
+  },
+  "Morgan, Brian": {
+    "name": "Morgan, Brian",
+    "department": "Humanities",
+    "tid": 2200480
+  },
+  "Sirkar, Kamalesh": {
+    "name": "Sirkar, Kamalesh",
+    "department": "Chemical Engineering",
+    "tid": 972352
+  },
+  "Voronov, Roman": {
+    "name": "Voronov, Roman",
+    "department": "Chemical Engineering",
+    "tid": 1920760
+  },
+  "Himelstein, Nathan": {
+    "name": "Himelstein, Nathan",
+    "department": "Marketing",
+    "tid": 85036
+  },
+  "Yang, Yanxing": {
+    "name": "Yang, Yanxing",
+    "department": "Physics",
+    "tid": 2454826
+  },
+  "Stanko, Maria": {
+    "name": "Stanko, Maria",
+    "department": "Biology",
+    "tid": 1550120
+  },
+  "Chen, Yi": {
+    "name": "Chen, Yi",
+    "department": "Management",
+    "tid": 1978560
+  },
+  "Petrocelli, Luke": {
+    "name": "Petrocelli, Luke",
+    "department": "Architecture",
+    "tid": 2665392
+  },
+  "Alvarez, Tara": {
+    "name": "Alvarez, Tara",
+    "department": "Biomedical",
+    "tid": 186910
+  },
+  "May, Edwin": {
+    "name": "May, Edwin",
+    "department": "Management",
+    "tid": 1612731
+  },
+  "Hunt, Theresa": {
+    "name": "Hunt, Theresa",
+    "department": "English",
+    "tid": 340227
+  },
+  "Kim, Yongick": {
+    "name": "Kim, Yongick",
+    "department": "Chemistry",
+    "tid": 2334596
+  },
+  "Cartwright, Mark": {
+    "name": "Cartwright, Mark",
+    "department": "Information Technology",
+    "tid": 2690931
+  },
+  "Wang, Jiali": {
+    "name": "Wang, Jiali",
+    "department": "Management",
+    "tid": 2691003
+  },
+  "Varadarajan, Ravi": {
+    "name": "Varadarajan, Ravi",
+    "department": "Computer Science",
+    "tid": 2295889
+  },
+  "Haorah, James": {
+    "name": "Haorah, James",
+    "department": "Biomedical",
+    "tid": 2239031
+  },
+  "Holbrook, J. Britt": {
+    "name": "Holbrook, J. Britt",
+    "department": "Humanities",
+    "tid": 2050150
+  },
+  "Bess, Mark": {
+    "name": "Bess, Mark",
+    "department": "Architecture",
+    "tid": 575205
+  },
+  "Severi, Kristen": {
+    "name": "Severi, Kristen",
+    "department": "Biology",
+    "tid": 2587393
+  },
+  "Weiss, Tomer": {
+    "name": "Weiss, Tomer",
+    "department": "Information Technology",
+    "tid": 2591074
+  },
+  "Guilbault, Melodi": {
+    "name": "Guilbault, Melodi",
+    "department": "Marketing",
+    "tid": 2696998
+  },
+  "Foreman, Bruce": {
+    "name": "Foreman, Bruce",
+    "department": "Computer Science",
+    "tid": 2055622
+  },
+  "Erfani, Sourorazam": {
+    "name": "Erfani, Sourorazam",
+    "department": "Mathematics",
+    "tid": 2185884
+  },
+  "Suwattananont, Naruemon": {
+    "name": "Suwattananont, Naruemon",
+    "department": "Mechanical Engineering",
+    "tid": 2572036
+  },
+  "Lefkovitz, Alison": {
+    "name": "Lefkovitz, Alison",
+    "department": "History",
+    "tid": 1869609
+  },
+  "Wells, Louis": {
+    "name": "Wells, Louis",
+    "department": "Theater",
+    "tid": 2530107
+  },
+  "Qiu, Zeyuan": {
+    "name": "Qiu, Zeyuan",
+    "department": "Economics",
+    "tid": 161914
+  },
+  "Klobucar, Andrew": {
+    "name": "Klobucar, Andrew",
+    "department": "Humanities",
+    "tid": 2500696
+  },
+  "Tereshkovich, William": {
+    "name": "Tereshkovich, William",
+    "department": "Computer Science",
+    "tid": 1818299
+  },
+  "Kariuki, George": {
+    "name": "Kariuki, George",
+    "department": "Mathematics",
+    "tid": 2119024
+  },
+  "Pardi, Nina": {
+    "name": "Pardi, Nina",
+    "department": "Humanities",
+    "tid": 320639
+  },
+  "Nina, Pardi": {
+    "name": "Nina, Pardi",
+    "department": "Physics",
+    "tid": 1711729
+  },
+  "Hayes, Jimmy": {
+    "name": "Hayes, Jimmy",
+    "department": "Mathematics",
+    "tid": 30998
+  },
+  "See, Adam": {
+    "name": "See, Adam",
+    "department": "Humanities",
+    "tid": 2452787
+  },
+  "Krishtopa, Larisa G.": {
+    "name": "Krishtopa, Larisa G.",
+    "department": "Engineering",
+    "tid": 449770
+  },
+  "Anderson, Melissa": {
+    "name": "Anderson, Melissa",
+    "department": "STS",
+    "tid": 2550494
+  },
+  "Thomas, Ellen": {
+    "name": "Thomas, Ellen",
+    "department": "Management",
+    "tid": 1498094
+  },
+  "Poppenwimer, Kyle": {
+    "name": "Poppenwimer, Kyle",
+    "department": "Information Technology",
+    "tid": 2542641
+  },
+  "Aytas, Mustafa": {
+    "name": "Aytas, Mustafa",
+    "department": "Mathematics",
+    "tid": 2468765
+  },
+  "Forman, Bruce": {
+    "name": "Forman, Bruce",
+    "department": "Computer Science",
+    "tid": 2016438
+  },
+  "Watrous-deVersterre, Lori": {
+    "name": "Watrous-deVersterre, Lori",
+    "department": "Information Technology",
+    "tid": 2289559
+  },
+  "Bandelt , Matthew ": {
+    "name": "Bandelt , Matthew ",
+    "department": "Civil Engineering",
+    "tid": 2079538
+  },
+  "Korayem, Marwa": {
+    "name": "Korayem, Marwa",
+    "department": "Engineering",
+    "tid": 2332116
+  },
+  "George, Stephen": {
+    "name": "George, Stephen",
+    "department": "Civil Engineering",
+    "tid": 2384947
+  },
+  "Dimitrijevic, Branislav": {
+    "name": "Dimitrijevic, Branislav",
+    "department": "Civil Engineering",
+    "tid": 2176793
+  },
+  "Ding, Xiaoning": {
+    "name": "Ding, Xiaoning",
+    "department": "Computer Science",
+    "tid": 2235429
+  },
+  "Cai, Wenbo": {
+    "name": "Cai, Wenbo",
+    "department": "Mechanical Engineering",
+    "tid": 1817918
+  },
+  "Rankin, Rees": {
+    "name": "Rankin, Rees",
+    "department": "Chemical Engineering",
+    "tid": 2696462
+  },
+  "Wu, Brook": {
+    "name": "Wu, Brook",
+    "department": "Information Systems",
+    "tid": 327128
+  },
+  "Libarid, Maljian A.": {
+    "name": "Libarid, Maljian A.",
+    "department": "Physics",
+    "tid": 1436766
+  },
+  "Farokhirad, Samaneh": {
+    "name": "Farokhirad, Samaneh",
+    "department": "Mechanical Engineering",
+    "tid": 2522956
+  },
+  "Kumar, Vivek": {
+    "name": "Kumar, Vivek",
+    "department": "Biomedical",
+    "tid": 2341169
+  },
+  "Desai, Amit": {
+    "name": "Desai, Amit",
+    "department": "Engineering",
+    "tid": 2444278
+  },
+  "Deane, Johanna": {
+    "name": "Deane, Johanna",
+    "department": "Humanities",
+    "tid": 2234310
+  },
+  "Chiusano, Mark": {
+    "name": "Chiusano, Mark",
+    "department": "Information Systems",
+    "tid": 2647297
+  },
+  "Sanabria, Matthew": {
+    "name": "Sanabria, Matthew",
+    "department": "Information Technology",
+    "tid": 2362330
+  },
+  "Abdou, George": {
+    "name": "Abdou, George",
+    "department": "Engineering",
+    "tid": 375936
+  },
+  "Cimino, Richard": {
+    "name": "Cimino, Richard",
+    "department": "Chemical Engineering",
+    "tid": 2659441
+  },
+  "Mao, Na": { "name": "Mao, Na", "department": "Chemistry", "tid": 2697914 },
+  "Hou, Edwin": {
+    "name": "Hou, Edwin",
+    "department": "Electrical Engineering",
+    "tid": 292726
+  },
+  "Goodman, Roy": {
+    "name": "Goodman, Roy",
+    "department": "Mathematics",
+    "tid": 292997
+  },
+  "Musialski, Przemyslaw": {
+    "name": "Musialski, Przemyslaw",
+    "department": "Computer Science",
+    "tid": 2591569
+  },
+  "Hendela, Arthur ": {
+    "name": "Hendela, Arthur ",
+    "department": "Information Systems",
+    "tid": 2078731
+  },
+  "Kostopoulou, Elektra": {
+    "name": "Kostopoulou, Elektra",
+    "department": "History",
+    "tid": 2180026
+  },
+  "Longo, Bernadette": {
+    "name": "Longo, Bernadette",
+    "department": "Humanities",
+    "tid": 2362425
+  },
+  "Calvin, James": {
+    "name": "Calvin, James",
+    "department": "Computer Science",
+    "tid": 263023
+  },
+  "Lay, Larry": {
+    "name": "Lay, Larry",
+    "department": "Computer Science",
+    "tid": 1428641
+  },
+  "Carfora, Kristin": {
+    "name": "Carfora, Kristin",
+    "department": "Mathematics",
+    "tid": 2539676
+  },
+  "Gao, Yunpeng": {
+    "name": "Gao, Yunpeng",
+    "department": "Physics",
+    "tid": 2285216
+  },
+  "Ascarelli, Miriam": {
+    "name": "Ascarelli, Miriam",
+    "department": "Humanities",
+    "tid": 918494
+  },
+  "Hang, TianQi": {
+    "name": "Hang, TianQi",
+    "department": "Mechanical Engineering",
+    "tid": 2626745
+  },
+  "Luke, Jonathan": {
+    "name": "Luke, Jonathan",
+    "department": "Mathematics",
+    "tid": 132512
+  },
+  "Mili, Ali": {
+    "name": "Mili, Ali",
+    "department": "Computer Science",
+    "tid": 74719
+  },
+  "Constantin, Ian": {
+    "name": "Constantin, Ian",
+    "department": "Computer Science",
+    "tid": 2270549
+  },
+  "Daochuan, Hung": {
+    "name": "Daochuan, Hung",
+    "department": "Computer Science",
+    "tid": 2374091
+  },
+  "Hung, Douglas": {
+    "name": "Hung, Douglas",
+    "department": "Computer Science",
+    "tid": 123417
+  },
+  "Wong, Raymond": {
+    "name": "Wong, Raymond",
+    "department": "Engineering",
+    "tid": 1825451
+  },
+  "Buntain, Cody": {
+    "name": "Buntain, Cody",
+    "department": "Information Systems",
+    "tid": 2681088
+  },
+  "Febles, Maximilian's": {
+    "name": "Febles, Maximilian's",
+    "department": "English",
+    "tid": 2039485
+  },
+  "Deek, Maura": {
+    "name": "Deek, Maura",
+    "department": "Information Systems",
+    "tid": 437644
+  },
+  "Howell, Christopher": {
+    "name": "Howell, Christopher",
+    "department": "Information Technology",
+    "tid": 1475815
+  },
+  "Lawrence, Kenneth": {
+    "name": "Lawrence, Kenneth",
+    "department": "Marketing",
+    "tid": 159449
+  },
+  "Mani, Kumar": {
+    "name": "Mani, Kumar",
+    "department": "Computer Science",
+    "tid": 2179092
+  },
+  "Prodan, Camelia": {
+    "name": "Prodan, Camelia",
+    "department": "Physics",
+    "tid": 731086
+  },
+  "Eren, Canan": {
+    "name": "Eren, Canan",
+    "department": "Computer Science",
+    "tid": 2636621
+  },
+  "Patel, Dipesh": {
+    "name": "Patel, Dipesh",
+    "department": "Information Technology",
+    "tid": 2492507
+  },
+  "Kettering, Joan": {
+    "name": "Kettering, Joan",
+    "department": "Information Technology",
+    "tid": 514407
+  },
+  "Sequiera, Marc": {
+    "name": "Sequiera, Marc",
+    "department": "Information Technology",
+    "tid": 2699362
+  },
+  "Saleh, Doua": {
+    "name": "Saleh, Doua",
+    "department": "Professional & Technical Comm",
+    "tid": 2699363
+  },
+  "Tamke, William": {
+    "name": "Tamke, William",
+    "department": "Management",
+    "tid": 2175058
+  },
+  "Walsh, Diana": {
+    "name": "Walsh, Diana",
+    "department": "Management",
+    "tid": 124466
+  },
+  "Chang, Jasmine": {
+    "name": "Chang, Jasmine",
+    "department": "Management",
+    "tid": 2547497
+  },
+  "Wilkinson, Clifford": {
+    "name": "Wilkinson, Clifford",
+    "department": "Civil Engineering",
+    "tid": 2699469
+  },
+  "Veeregowda, Babu": {
+    "name": "Veeregowda, Babu",
+    "department": "Civil Engineering",
+    "tid": 2699470
+  },
+  "Nakayama, Marvin": {
+    "name": "Nakayama, Marvin",
+    "department": "Computer Science",
+    "tid": 80111
+  },
+  "Tricamo, Stephen": {
+    "name": "Tricamo, Stephen",
+    "department": "Mechanical Engineering",
+    "tid": 1749544
+  },
+  "Fleischer, Doris": {
+    "name": "Fleischer, Doris",
+    "department": "English",
+    "tid": 27237
+  },
+  "Yarotsky, John": {
+    "name": "Yarotsky, John",
+    "department": "Biology",
+    "tid": 2460599
+  },
+  "Potocki, Magdallena": {
+    "name": "Potocki, Magdallena",
+    "department": "Mathematics",
+    "tid": 1897907
+  },
+  "Liu, Binjie": {
+    "name": "Liu, Binjie",
+    "department": "Physics",
+    "tid": 2675080
+  },
+  "Perry, Gareth": {
+    "name": "Perry, Gareth",
+    "department": "Physics",
+    "tid": 2570219
+  },
+  "Egan, Richard": {
+    "name": "Egan, Richard",
+    "department": "Information Systems",
+    "tid": 173984
+  },
+  "Shan, Jianchen": {
+    "name": "Shan, Jianchen",
+    "department": "Computer Science",
+    "tid": 2078558
+  },
+  "Dytso, Alex": {
+    "name": "Dytso, Alex",
+    "department": "Electrical Engineering",
+    "tid": 2694989
+  },
+  "Castro, Eduardo": {
+    "name": "Castro, Eduardo",
+    "department": "Civil Engineering",
+    "tid": 2452403
+  },
+  "De Mattos, Roberto": {
+    "name": "De Mattos, Roberto",
+    "department": "Electrical Engineering",
+    "tid": 2217686
+  },
+  "Johnson, Rodney": {
+    "name": "Johnson, Rodney",
+    "department": "Mechanical Engineering",
+    "tid": 2600282
+  },
+  "Ratna, Raj": {
+    "name": "Ratna, Raj",
+    "department": "Electrical Engineering",
+    "tid": 1091396
+  },
+  "Hoover, Amy": {
+    "name": "Hoover, Amy",
+    "department": "Information Technology",
+    "tid": 2320181
+  },
+  "Sidhu, Mehtab": {
+    "name": "Sidhu, Mehtab",
+    "department": "Computer Science",
+    "tid": 2559895
+  },
+  "Estes, Michael": {
+    "name": "Estes, Michael",
+    "department": "Computer Science",
+    "tid": 2494056
+  },
+  "Mont, Ashley": {
+    "name": "Mont, Ashley",
+    "department": "Biomedical",
+    "tid": 2681144
+  },
+  "Costa, Luis": {
+    "name": "Costa, Luis",
+    "department": "Mechanical Engineering",
+    "tid": 2510667
+  },
+  "Bertagnolli, John": {
+    "name": "Bertagnolli, John",
+    "department": "Biomedical",
+    "tid": 2672154
+  },
+  "Kwestel, Morty": {
+    "name": "Kwestel, Morty",
+    "department": "Computer Science",
+    "tid": 17517
+  },
+  "Owens, Meghan": {
+    "name": "Owens, Meghan",
+    "department": "Humanities",
+    "tid": 2202316
+  },
+  "Bruzzano, Carol": {
+    "name": "Bruzzano, Carol",
+    "department": "Humanities",
+    "tid": 2561504
+  },
+  "Horwitz, Kenneth": {
+    "name": "Horwitz, Kenneth",
+    "department": "Mathematics",
+    "tid": 1605431
+  },
+  "Ihlefeld, Antje": {
+    "name": "Ihlefeld, Antje",
+    "department": "Biomedical",
+    "tid": 2583186
+  },
+  "Mummolo, Carlotta": {
+    "name": "Mummolo, Carlotta",
+    "department": "Biomedical",
+    "tid": 2688491
+  },
+  "Egan, John": {
+    "name": "Egan, John",
+    "department": "English",
+    "tid": 380528
+  },
+  "Ammicht, Egbert": {
+    "name": "Ammicht, Egbert",
+    "department": "Mathematics",
+    "tid": 618263
+  },
+  "Frederick, Christina": {
+    "name": "Frederick, Christina",
+    "department": "Mathematics",
+    "tid": 2337842
+  },
+  "Sohn, Andrew": {
+    "name": "Sohn, Andrew",
+    "department": "Computer Science",
+    "tid": 205300
+  },
+  "Rana, Priyanka": {
+    "name": "Rana, Priyanka",
+    "department": "Mathematics",
+    "tid": 2177852
+  },
+  "Apostolyuk, Vadym": {
+    "name": "Apostolyuk, Vadym",
+    "department": "Information Technology",
+    "tid": 2135111
+  },
+  "Nassimi, David": {
+    "name": "Nassimi, David",
+    "department": "Computer Science",
+    "tid": 134063
+  },
+  "Chai, Yi": { "name": "Chai, Yi", "department": "Physics", "tid": 2666138 },
+  "Rahman, Sahidur": {
+    "name": "Rahman, Sahidur",
+    "department": "Mechanical Engineering",
+    "tid": 1161448
+  },
+  "Lu, Lu": {
+    "name": "Lu, Lu",
+    "department": "Mechanical Engineering",
+    "tid": 2229591
+  },
+  "Edel, Gareth": {
+    "name": "Edel, Gareth",
+    "department": "STS",
+    "tid": 2197968
+  },
+  "Angelella, Anthony": {
+    "name": "Angelella, Anthony",
+    "department": "Professional & Technical Comm",
+    "tid": 2374109
+  },
+  "Senesy, Stanley": {
+    "name": "Senesy, Stanley",
+    "department": "Computer Science",
+    "tid": 41817
+  },
+  "Maher, Neil": {
+    "name": "Maher, Neil",
+    "department": "History",
+    "tid": 246784
+  },
+  "Lanfrank, Mark": {
+    "name": "Lanfrank, Mark",
+    "department": "Engineering",
+    "tid": 2684106
+  },
+  "Anandarajan, Asokan": {
+    "name": "Anandarajan, Asokan",
+    "department": "Business",
+    "tid": 198466
+  },
+  "Funkhouser, Christopher": {
+    "name": "Funkhouser, Christopher",
+    "department": "STS",
+    "tid": 514620
+  },
+  "Brooks, Charles": {
+    "name": "Brooks, Charles",
+    "department": "Humanities",
+    "tid": 79739
+  },
+  "Aslam, Ersal": {
+    "name": "Aslam, Ersal",
+    "department": "Computer Science",
+    "tid": 2094297
+  },
+  "Rohloff, Kurt": {
+    "name": "Rohloff, Kurt",
+    "department": "Computer Science",
+    "tid": 2032740
+  },
+  "Patel, Naren": {
+    "name": "Patel, Naren",
+    "department": "Engineering",
+    "tid": 1161287
+  },
+  "Shrestha, Kushal": {
+    "name": "Shrestha, Kushal",
+    "department": "Physics",
+    "tid": 2539238
+  },
+  "Fox, Wayne": {
+    "name": "Fox, Wayne",
+    "department": "Management",
+    "tid": 1674991
+  },
+  "Halper, Michael": {
+    "name": "Halper, Michael",
+    "department": "Information Technology",
+    "tid": 1738296
+  },
+  "Jiang, Shidong": {
+    "name": "Jiang, Shidong",
+    "department": "Mathematics",
+    "tid": 498831
+  },
+  "McRae, Calista": {
+    "name": "McRae, Calista",
+    "department": "Humanities",
+    "tid": 2182225
+  },
+  "Blinder, Alex": {
+    "name": "Blinder, Alex",
+    "department": "Electrical Engineering",
+    "tid": 1522703
+  },
+  "Arafeh, Bassel": {
+    "name": "Arafeh, Bassel",
+    "department": "Computer Science",
+    "tid": 2626129
+  },
+  "Glick, Anthony": {
+    "name": "Glick, Anthony",
+    "department": "Mechanical Engineering",
+    "tid": 2417166
+  },
+  "Ermoline, Alexandre": {
+    "name": "Ermoline, Alexandre",
+    "department": "Chemical Engineering",
+    "tid": 2144536
+  },
+  "Ali, Abul": {
+    "name": "Ali, Abul",
+    "department": "Mechanical Engineering",
+    "tid": 2099916
+  },
+  "Weintraub, Steven": {
+    "name": "Weintraub, Steven",
+    "department": "Information Systems",
+    "tid": 2362381
+  },
+  "Bucher, Dirk": {
+    "name": "Bucher, Dirk",
+    "department": "Biology",
+    "tid": 2251062
+  },
+  "Gopalakrishnan, Shanti": {
+    "name": "Gopalakrishnan, Shanti",
+    "department": "Management",
+    "tid": 177097
+  },
+  "Baladi, Joseph": {
+    "name": "Baladi, Joseph",
+    "department": "Civil Engineering",
+    "tid": 1095955
+  },
+  "Melamud, Paul ": {
+    "name": "Melamud, Paul ",
+    "department": "Engineering",
+    "tid": 2018963
+  },
+  "Bilgili, Ecevit": {
+    "name": "Bilgili, Ecevit",
+    "department": "Chemical Engineering",
+    "tid": 1382806
+  },
+  "Meegoda, Jay": {
+    "name": "Meegoda, Jay",
+    "department": "Engineering",
+    "tid": 95707
+  },
+  "Pennock, Andrew": {
+    "name": "Pennock, Andrew",
+    "department": "Mechanical Engineering",
+    "tid": 2702313
+  },
+  "Attallah, Paul": {
+    "name": "Attallah, Paul",
+    "department": "Management",
+    "tid": 2286490
+  },
+  "Nieves, Charles": {
+    "name": "Nieves, Charles",
+    "department": "Physical Education",
+    "tid": 2702829
+  },
+  "Jampole, Ezra": {
+    "name": "Jampole, Ezra",
+    "department": "Civil Engineering",
+    "tid": 2701903
+  },
+  "Hercules-Menjivar, Manuel": {
+    "name": "Hercules-Menjivar, Manuel",
+    "department": "Mathematics",
+    "tid": 2292005
+  },
+  "Souza, Bruno": {
+    "name": "Souza, Bruno",
+    "department": "Civil Engineering",
+    "tid": 2703137
+  },
+  "Sherman, Thomas": {
+    "name": "Sherman, Thomas",
+    "department": "Mathematics",
+    "tid": 2424356
+  },
+  "Masullo, Raymond": {
+    "name": "Masullo, Raymond",
+    "department": "Humanities",
+    "tid": 2588089
+  },
+  "Hawes, David": {
+    "name": "Hawes, David",
+    "department": "Engineering",
+    "tid": 1081270
+  },
+  "Wiggins, John": {
+    "name": "Wiggins, John",
+    "department": "Engineering",
+    "tid": 159680
+  },
+  "Washington, David": {
+    "name": "Washington, David",
+    "department": "Engineering",
+    "tid": 503413
+  },
+  "Gottko, Edward": {
+    "name": "Gottko, Edward",
+    "department": "Engineering",
+    "tid": 1152815
+  },
+  "Konsolaki, Mary": {
+    "name": "Konsolaki, Mary",
+    "department": "Biology",
+    "tid": 2234313
+  },
+  "Basu Roy, Senjuti": {
+    "name": "Basu Roy, Senjuti",
+    "department": "Computer Science",
+    "tid": 2362343
+  },
+  "Schmidt, Donivyn": {
+    "name": "Schmidt, Donivyn",
+    "department": "Mathematics",
+    "tid": 2176290
+  },
+  "Egan, Frances": {
+    "name": "Egan, Frances",
+    "department": "Information Systems",
+    "tid": 2355486
+  },
+  "Cohanoschi, Ion": {
+    "name": "Cohanoschi, Ion",
+    "department": "Physics",
+    "tid": 2122718
+  },
+  "Gokce, Oktay": {
+    "name": "Gokce, Oktay",
+    "department": "Physics",
+    "tid": 79520
+  },
+  "Castronova, Louise": {
+    "name": "Castronova, Louise",
+    "department": "Humanities",
+    "tid": 286169
+  },
+  "Taylor, Ming": {
+    "name": "Taylor, Ming",
+    "department": "Accounting",
+    "tid": 2663430
+  },
+  "Rappaport, Karen": {
+    "name": "Rappaport, Karen",
+    "department": "Mathematics",
+    "tid": 446373
+  },
+  "Chou, Porchiung (ben)": {
+    "name": "Chou, Porchiung (ben)",
+    "department": "Economics",
+    "tid": 396860
+  },
+  "Charaf, Ammar": {
+    "name": "Charaf, Ammar",
+    "department": "Chemistry",
+    "tid": 2575760
+  },
+  "Natarajan, Padma": {
+    "name": "Natarajan, Padma",
+    "department": "Mathematics",
+    "tid": 1068013
+  },
+  "Sosiak, Christine": {
+    "name": "Sosiak, Christine",
+    "department": "Biology",
+    "tid": 2495691
+  },
+  "Gandhi, Tejas": {
+    "name": "Gandhi, Tejas",
+    "department": "Engineering",
+    "tid": 1412307
+  },
+  "Axe, Lisa": {
+    "name": "Axe, Lisa",
+    "department": "Environmental Engineering",
+    "tid": 1339768
+  },
+  "Monogioudis, Pantelis": {
+    "name": "Monogioudis, Pantelis",
+    "department": "Computer Science",
+    "tid": 2629223
+  },
+  "Shirokoff, David": {
+    "name": "Shirokoff, David",
+    "department": "Mathematics",
+    "tid": 2109071
+  },
+  "Rojas-Cessa, Roberto": {
+    "name": "Rojas-Cessa, Roberto",
+    "department": "Engineering",
+    "tid": 490226
+  },
+  "Rezae, Farah": {
+    "name": "Rezae, Farah",
+    "department": "Chemistry",
+    "tid": 2572535
+  },
+  "Dasgupta, Aritra": {
+    "name": "Dasgupta, Aritra",
+    "department": "Information Systems",
+    "tid": 2452643
+  },
+  "Manna, Yazan": {
+    "name": "Manna, Yazan",
+    "department": "Mechanical Engineering",
+    "tid": 2583646
+  },
+  "Hijazi, Hussein": {
+    "name": "Hijazi, Hussein",
+    "department": "Physics",
+    "tid": 2652936
+  },
+  "Li, Chuan": { "name": "Li, Chuan", "department": "Physics", "tid": 1141955 },
+  "Daniel, Janice R.": {
+    "name": "Daniel, Janice R.",
+    "department": "Civil Engineering",
+    "tid": 185520
+  },
+  "Ding, Yuan": {
+    "name": "Ding, Yuan",
+    "department": "Civil Engineering",
+    "tid": 184970
+  },
+  "Siddique, Raihan": {
+    "name": "Siddique, Raihan",
+    "department": "Computer Science",
+    "tid": 2673605
+  },
+  "Theodoratos, Dimitri": {
+    "name": "Theodoratos, Dimitri",
+    "department": "Computer Science",
+    "tid": 199145
+  },
+  "Velamuri, Venkat": {
+    "name": "Velamuri, Venkat",
+    "department": "Computer Science",
+    "tid": 2709317
+  },
+  "Shabarek, Abdullah": {
+    "name": "Shabarek, Abdullah",
+    "department": "Civil Engineering",
+    "tid": 2499884
+  },
+  "Ibrahim, Ahmed": {
+    "name": "Ibrahim, Ahmed",
+    "department": "Civil Engineering",
+    "tid": 2605864
+  },
+  "Kondic, Lou": {
+    "name": "Kondic, Lou",
+    "department": "Mathematics",
+    "tid": 380492
+  },
+  "Riismandel, Kyle": {
+    "name": "Riismandel, Kyle",
+    "department": "History",
+    "tid": 1809278
+  },
+  "Borgaonkar, Ashish": {
+    "name": "Borgaonkar, Ashish",
+    "department": "Civil Engineering",
+    "tid": 1161378
+  },
+  "Ranky, Paul": {
+    "name": "Ranky, Paul",
+    "department": "Engineering",
+    "tid": 185811
+  },
+  "Steffen-Fluhr, Nancy": {
+    "name": "Steffen-Fluhr, Nancy",
+    "department": "Humanities",
+    "tid": 211834
+  },
+  "Figueroa, Benjamin": {
+    "name": "Figueroa, Benjamin",
+    "department": "Management",
+    "tid": 2710447
+  },
+  "Vaish, Prabhat": {
+    "name": "Vaish, Prabhat",
+    "department": "Computer Science",
+    "tid": 2629006
+  },
+  "Russell, Kevin": {
+    "name": "Russell, Kevin",
+    "department": "Mechanical Engineering",
+    "tid": 605244
+  },
+  "Deek, Andrew": {
+    "name": "Deek, Andrew",
+    "department": "Humanities",
+    "tid": 2313577
+  },
+  "Rathbone, Adam": {
+    "name": "Rathbone, Adam",
+    "department": "Computer Science",
+    "tid": 2302726
+  },
+  "Pala, Trivikrama": {
+    "name": "Pala, Trivikrama",
+    "department": "Mechanical Engineering",
+    "tid": 2406695
+  },
+  "Janow, Richard": {
+    "name": "Janow, Richard",
+    "department": "Physics",
+    "tid": 74019
+  },
+  "Furrey, Michael": {
+    "name": "Furrey, Michael",
+    "department": "Environmental Engineering",
+    "tid": 2681218
+  },
+  "Massari, Anthony": {
+    "name": "Massari, Anthony",
+    "department": "Civil Engineering",
+    "tid": 1207695
+  },
+  "Riaz, Nida": {
+    "name": "Riaz, Nida",
+    "department": "Chemical Engineering",
+    "tid": 2295082
+  },
+  "Wang, Xianqin": {
+    "name": "Wang, Xianqin",
+    "department": "Chemical Engineering",
+    "tid": 1363881
+  },
+  "Reid, Nellone": {
+    "name": "Reid, Nellone",
+    "department": "Chemical Engineering",
+    "tid": 2581776
+  },
+  "Ro, Je Hyun": {
+    "name": "Ro, Je Hyun",
+    "department": "Mathematics",
+    "tid": 2215005
+  },
+  "Ratnaswamy, Jeyakumaran": {
+    "name": "Ratnaswamy, Jeyakumaran",
+    "department": "Mathematics",
+    "tid": 103304
+  },
+  "Pole, Andrew": {
+    "name": "Pole, Andrew",
+    "department": "Mathematics",
+    "tid": 2154268
+  },
+  "Vincent, Michael": {
+    "name": "Vincent, Michael",
+    "department": "Electrical Engineering",
+    "tid": 2091703
+  },
+  "Patiak, Benjamin": {
+    "name": "Patiak, Benjamin",
+    "department": "Mathematics",
+    "tid": 1648785
+  },
+  "Oria, Vincent": {
+    "name": "Oria, Vincent",
+    "department": "Computer Science",
+    "tid": 386613
+  },
+  "Estrada, Daniel": {
+    "name": "Estrada, Daniel",
+    "department": "Humanities",
+    "tid": 2204080
+  },
+  "Bonitsis, Theologos Homer": {
+    "name": "Bonitsis, Theologos Homer",
+    "department": "Management",
+    "tid": 378210
+  },
+  "Bonchonsky, Michael": {
+    "name": "Bonchonsky, Michael",
+    "department": "Environmental Science",
+    "tid": 321111
+  },
+  "Watrous-Deversterre, Lori": {
+    "name": "Watrous-Deversterre, Lori",
+    "department": "Computer Science",
+    "tid": 1622623
+  },
+  "Nazzaro, Mark": {
+    "name": "Nazzaro, Mark",
+    "department": "Information Technology",
+    "tid": 2427115
+  },
+  "Sirenko, Andrei": {
+    "name": "Sirenko, Andrei",
+    "department": "Physics",
+    "tid": 375762
+  },
+  "Crespo Solis, Andres": {
+    "name": "Crespo Solis, Andres",
+    "department": "English",
+    "tid": 2528427
+  },
+  "Ogorzalek, Thomas": {
+    "name": "Ogorzalek, Thomas",
+    "department": "Architecture",
+    "tid": 162767
+  },
+  "Rajamani, Sathish": {
+    "name": "Rajamani, Sathish",
+    "department": "Information Systems",
+    "tid": 2094432
+  },
+  "Sabet, Sameh": {
+    "name": "Sabet, Sameh",
+    "department": "Computer Science",
+    "tid": 434793
+  },
+  "Mahgoub, Mohamed": {
+    "name": "Mahgoub, Mohamed",
+    "department": "Civil Engineering",
+    "tid": 1456534
+  },
+  "Samardzic, Veljko": {
+    "name": "Samardzic, Veljko",
+    "department": "Mechanical Engineering",
+    "tid": 1787041
+  },
+  "Sarkar, Biplab": {
+    "name": "Sarkar, Biplab",
+    "department": "Chemistry",
+    "tid": 2526674
+  },
+  "Xu, Pan": {
+    "name": "Xu, Pan",
+    "department": "Computer Science",
+    "tid": 2526940
+  },
+  "Bowens, Barbara": {
+    "name": "Bowens, Barbara",
+    "department": "Management",
+    "tid": 2716336
+  },
+  "Gies, Donald": {
+    "name": "Gies, Donald",
+    "department": "Electrical Engineering",
+    "tid": 2716703
+  },
+  "Zhou, Tao": { "name": "Zhou, Tao", "department": "Physics", "tid": 506541 },
+  "Rosato, Anthony": {
+    "name": "Rosato, Anthony",
+    "department": "Mechanical Engineering",
+    "tid": 535911
+  },
+  "Desantis, Christopher": {
+    "name": "Desantis, Christopher",
+    "department": "Chemical Engineering",
+    "tid": 2552137
+  },
+  "Levy, Roland": {
+    "name": "Levy, Roland",
+    "department": "Physics",
+    "tid": 452859
+  },
+  "Choudhry, Maaz": {
+    "name": "Choudhry, Maaz",
+    "department": "Civil Engineering",
+    "tid": 1860415
+  },
+  "Gu, Pin": { "name": "Gu, Pin", "department": "Chemistry", "tid": 759907 },
+  "Phillips, Vanessa": {
+    "name": "Phillips, Vanessa",
+    "department": "Humanities",
+    "tid": 2450789
+  },
+  "Jaworski, Thomas": {
+    "name": "Jaworski, Thomas",
+    "department": "Civil Engineering",
+    "tid": 1928251
+  },
+  "Haroon, Tanweer": {
+    "name": "Haroon, Tanweer",
+    "department": "Computer Science",
+    "tid": 2656140
+  },
+  "O'Neill, Megan": {
+    "name": "O'Neill, Megan",
+    "department": "Humanities",
+    "tid": 2277348
+  },
+  "Wang, Haimin": {
+    "name": "Wang, Haimin",
+    "department": "Physics",
+    "tid": 246793
+  },
+  "Zhuang, Haizengh": {
+    "name": "Zhuang, Haizengh",
+    "department": "Physics",
+    "tid": 2688418
+  },
+  "Qerimaj, Jertishta": {
+    "name": "Qerimaj, Jertishta",
+    "department": "Computer Science",
+    "tid": 2333879
+  },
+  "Maljian, Libby": {
+    "name": "Maljian, Libby",
+    "department": "Physics",
+    "tid": 209646
+  },
+  "Knight, Adam": {
+    "name": "Knight, Adam",
+    "department": "STS",
+    "tid": 2665855
+  },
+  "Gilbert, Kathleen": {
+    "name": "Gilbert, Kathleen",
+    "department": "Chemistry",
+    "tid": 1531628
+  },
+  "Teran, Segundo": {
+    "name": "Teran, Segundo",
+    "department": "Information Systems",
+    "tid": 2717530
+  },
+  "Walling, Christina": {
+    "name": "Walling, Christina",
+    "department": "English",
+    "tid": 2413156
+  },
+  "Dupay, Erin": {
+    "name": "Dupay, Erin",
+    "department": "Mathematics",
+    "tid": 2531284
+  },
+  "Spirollari, Junilda": {
+    "name": "Spirollari, Junilda",
+    "department": "Computer Science",
+    "tid": 461098
+  },
+  "Tedesco, Barbara": {
+    "name": "Tedesco, Barbara",
+    "department": "Management",
+    "tid": 328634
+  },
+  "Ward, Peter": {
+    "name": "Ward, Peter",
+    "department": "Mathematics",
+    "tid": 1815346
+  },
+  "Armenante, Piero": {
+    "name": "Armenante, Piero",
+    "department": "Chemical Engineering",
+    "tid": 773752
+  },
+  "Semizer, Yelda": {
+    "name": "Semizer, Yelda",
+    "department": "STS",
+    "tid": 2707665
+  },
+  "Behzadpour, Hooman": {
+    "name": "Behzadpour, Hooman",
+    "department": "Mathematics",
+    "tid": 2515569
+  },
+  "Mitrov, Natasha": {
+    "name": "Mitrov, Natasha",
+    "department": "Mathematics",
+    "tid": 2549267
+  },
+  "Feknous, Mohammed": {
+    "name": "Feknous, Mohammed",
+    "department": "Electrical Engineering",
+    "tid": 536479
+  },
+  "Ko, Dong": {
+    "name": "Ko, Dong",
+    "department": "Electrical Engineering",
+    "tid": 2305834
+  },
+  "Goldman, Glenn": {
+    "name": "Goldman, Glenn",
+    "department": "Architecture",
+    "tid": 89048
+  },
+  "Esche, John": {
+    "name": "Esche, John",
+    "department": "History",
+    "tid": 17525
+  },
+  "Giannoglou, Karl": {
+    "name": "Giannoglou, Karl",
+    "department": "Information Technology",
+    "tid": 2718843
+  },
+  "Schneidman, Vitaly": {
+    "name": "Schneidman, Vitaly",
+    "department": "Physics",
+    "tid": 187581
+  },
+  "Ionescu, Adrian": {
+    "name": "Ionescu, Adrian",
+    "department": "Mathematics",
+    "tid": 1904539
+  },
+  "Markulic, James": {
+    "name": "Markulic, James",
+    "department": "Information Systems",
+    "tid": 1788789
+  },
+  "Nammour, Shannon": {
+    "name": "Nammour, Shannon",
+    "department": "Computer Science",
+    "tid": 2641524
+  },
+  "Yaramothu, Chang": {
+    "name": "Yaramothu, Chang",
+    "department": "Biomedical",
+    "tid": 2194706
+  },
+  "Li, Daming": {
+    "name": "Li, Daming",
+    "department": "Computer Science",
+    "tid": 2432944
+  },
+  "Gu, Binan": {
+    "name": "Gu, Binan",
+    "department": "Mathematics",
+    "tid": 2719938
+  },
+  "Mani, Balraj": {
+    "name": "Mani, Balraj",
+    "department": "Mechanical Engineering",
+    "tid": 1324816
+  },
+  "Roy, Sagar": {
+    "name": "Roy, Sagar",
+    "department": "Chemistry",
+    "tid": 2707219
+  },
+  "Mantilla, Bruno": {
+    "name": "Mantilla, Bruno",
+    "department": "Biomedical",
+    "tid": 122224
+  },
+  "Vataj, Esmeralda": {
+    "name": "Vataj, Esmeralda",
+    "department": "Physics",
+    "tid": 2637576
+  },
+  "Molodetsky, Irina": {
+    "name": "Molodetsky, Irina",
+    "department": "Chemical Engineering",
+    "tid": 2312894
+  },
+  "Gor, Gennady": {
+    "name": "Gor, Gennady",
+    "department": "Chemical Engineering",
+    "tid": 2380592
+  },
+  "Rutkowski, Wallace": {
+    "name": "Rutkowski, Wallace",
+    "department": "Computer Science",
+    "tid": 23304
+  },
+  "Piatek, Slawomir": {
+    "name": "Piatek, Slawomir",
+    "department": "Physics",
+    "tid": 51419
+  },
+  "Fischer, Ian": {
+    "name": "Fischer, Ian",
+    "department": "Engineering",
+    "tid": 469391
+  },
+  "Santos, Stephanie": {
+    "name": "Santos, Stephanie",
+    "department": "Civil Engineering",
+    "tid": 2087150
+  },
+  "Reyes, Nisha": {
+    "name": "Reyes, Nisha",
+    "department": "Professional & Technical Comm",
+    "tid": 2460864
+  },
+  "Chin, Ken": { "name": "Chin, Ken", "department": "Physics", "tid": 258761 },
+  "Itani, Abdul-Rahman": {
+    "name": "Itani, Abdul-Rahman",
+    "department": "Computer Science",
+    "tid": 2322213
+  },
+  "Warner, Genoa": {
+    "name": "Warner, Genoa",
+    "department": "Chemistry",
+    "tid": 2722064
+  },
+  "Corraro, Jenna": {
+    "name": "Corraro, Jenna",
+    "department": "English",
+    "tid": 2248151
+  },
+  "Nicholson, Theodore": {
+    "name": "Nicholson, Theodore",
+    "department": "Computer Science",
+    "tid": 173982
+  },
+  "Lubliner, David": {
+    "name": "Lubliner, David",
+    "department": "Engineering",
+    "tid": 672698
+  },
+  "Hawk, David": {
+    "name": "Hawk, David",
+    "department": "Business",
+    "tid": 77176
+  },
+  "Duffin, Robert": {
+    "name": "Duffin, Robert",
+    "department": "Physics",
+    "tid": 2704036
+  },
+  "Ashraf, Wahab": {
+    "name": "Ashraf, Wahab",
+    "department": "Mathematics",
+    "tid": 2376337
+  },
+  "Plotnick, Linda": {
+    "name": "Plotnick, Linda",
+    "department": "Information Systems",
+    "tid": 2574418
+  },
+  "Bouayad, Rachid": {
+    "name": "Bouayad, Rachid",
+    "department": "Mathematics",
+    "tid": 1784294
+  },
+  "Suero, Brany": {
+    "name": "Suero, Brany",
+    "department": "Computer Science",
+    "tid": 2648559
+  },
+  "Pescetelli, Niccolo": {
+    "name": "Pescetelli, Niccolo",
+    "department": "STS",
+    "tid": 2723532
+  },
+  "Georgiou, George": {
+    "name": "Georgiou, George",
+    "department": "Physics",
+    "tid": 1055640
+  },
+  "Gulistan, Evren": {
+    "name": "Gulistan, Evren",
+    "department": "Mathematics",
+    "tid": 2529687
+  },
+  "Jones, Quentin": {
+    "name": "Jones, Quentin",
+    "department": "Information Systems",
+    "tid": 19808
+  },
+  "Kapleau, Jonathan": {
+    "name": "Kapleau, Jonathan",
+    "department": "Computer Science",
+    "tid": 186217
+  },
+  "Amboise, Wilex": {
+    "name": "Amboise, Wilex",
+    "department": "Information Technology",
+    "tid": 2014418
+  },
+  "Casal, Jose": {
+    "name": "Casal, Jose",
+    "department": "Business",
+    "tid": 58901
+  },
+  "Zhou, Mengchu": {
+    "name": "Zhou, Mengchu",
+    "department": "Engineering",
+    "tid": 244530
+  },
+  "Farinas, Edgardo": {
+    "name": "Farinas, Edgardo",
+    "department": "Chemistry",
+    "tid": 817571
+  },
+  "Niloy, Md Naimur Rahman": {
+    "name": "Niloy, Md Naimur Rahman",
+    "department": "Physics",
+    "tid": 2724079
+  },
+  "Avzianova, Elena": {
+    "name": "Avzianova, Elena",
+    "department": "Chemistry",
+    "tid": 2191285
+  },
+  "Gerbessiotis, Alexandros": {
+    "name": "Gerbessiotis, Alexandros",
+    "department": "Computer Science",
+    "tid": 78556
+  },
+  "Acikgoz, Muhammed": {
+    "name": "Acikgoz, Muhammed",
+    "department": "Physics",
+    "tid": 2404628
+  },
+  "Cavaleiro, Marta": {
+    "name": "Cavaleiro, Marta",
+    "department": "Information Systems",
+    "tid": 2724617
+  },
+  "Roy, Raja": {
+    "name": "Roy, Raja",
+    "department": "Management",
+    "tid": 2281478
+  },
+  "Milojevic, Petronije": {
+    "name": "Milojevic, Petronije",
+    "department": "Mathematics",
+    "tid": 177152
+  },
+  "Turc, Catalin": {
+    "name": "Turc, Catalin",
+    "department": "Mathematics",
+    "tid": 1770035
+  },
+  "Hanesian, Deran": {
+    "name": "Hanesian, Deran",
+    "department": "Chemical Engineering",
+    "tid": 63757
+  },
+  "Wareham, Christopher": {
+    "name": "Wareham, Christopher",
+    "department": "Management",
+    "tid": 2725556
+  },
+  "Dandan, Razan": {
+    "name": "Dandan, Razan",
+    "department": "Mathematics",
+    "tid": 2293632
+  },
+  "Lipuma, James": {
+    "name": "Lipuma, James",
+    "department": "Humanities",
+    "tid": 59911
+  },
+  "Neamtiu, Iulian": {
+    "name": "Neamtiu, Iulian",
+    "department": "Computer Science",
+    "tid": 2276510
+  },
+  "Tao, Le  Stacy": {
+    "name": "Tao, Le  Stacy",
+    "department": "Accounting",
+    "tid": 2725764
+  },
+  "Hubbi, Walid": {
+    "name": "Hubbi, Walid",
+    "department": "Electrical Engineering",
+    "tid": 72482
+  },
+  "Dumay, Dielanda": {
+    "name": "Dumay, Dielanda",
+    "department": "Engineering",
+    "tid": 2105380
+  },
+  "Autushka, Tatsiana": {
+    "name": "Autushka, Tatsiana",
+    "department": "Mathematics",
+    "tid": 2726137
+  },
+  "Perez-Castillejos, Raquel": {
+    "name": "Perez-Castillejos, Raquel",
+    "department": "Electrical Engineering",
+    "tid": 1378465
+  },
+  "Naughton, Andrew": {
+    "name": "Naughton, Andrew",
+    "department": "Chemical Engineering",
+    "tid": 2529777
+  },
+  "Zarate, Ione": {
+    "name": "Zarate, Ione",
+    "department": "Mathematics",
+    "tid": 2717404
+  },
+  "Williams, Keith": {
+    "name": "Williams, Keith",
+    "department": "Information Systems",
+    "tid": 1576824
+  },
+  "Toegel, Matthew": {
+    "name": "Toegel, Matthew",
+    "department": "Information Technology",
+    "tid": 2532227
+  },
+  "Sharma, Shantanu": {
+    "name": "Sharma, Shantanu",
+    "department": "Computer Science",
+    "tid": 2724224
+  },
+  "Talasila, Manoop": {
+    "name": "Talasila, Manoop",
+    "department": "Computer Science",
+    "tid": 2173257
+  },
+  "Curley ,  Jonathan": {
+    "name": "Curley ,  Jonathan",
+    "department": "Humanities",
+    "tid": 1934435
+  },
+  "Le, Huong": {
+    "name": "Le, Huong",
+    "department": "Computer Science",
+    "tid": 2726435
+  },
+  "Saigal, Sunil": {
+    "name": "Saigal, Sunil",
+    "department": "Engineering",
+    "tid": 994135
+  },
+  "Pennock, William": {
+    "name": "Pennock, William",
+    "department": "Civil Engineering",
+    "tid": 2688750
+  }
+}

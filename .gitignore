@@ -8,3 +8,5 @@ parse.py
 teachers.json
 teachers.sql
 frontend.zip
+teachers_new.json
+.gitignore
